@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T19:56:09.362406",
+    "generated_at": "2026-05-08T20:38:01.413770",
     "period_days": 30,
     "cutoff_date": "2026-04-08",
-    "n_records": 178
+    "n_records": 180
   },
   "history": [
     {
@@ -680,6 +680,18 @@
     },
     {
       "date": "2026-05-08",
+      "ticker": "PEP",
+      "score_global": 56.22,
+      "score_fondamental": 3.91,
+      "score_technique": 24.334,
+      "score_macro": 6.242,
+      "position_sigma": -2.0611,
+      "r_squared": 0.9532,
+      "pente_annuelle": 0.1026,
+      "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-05-08",
       "ticker": "COST",
       "score_global": 56.22,
       "score_fondamental": 6.404,
@@ -1301,6 +1313,18 @@
       "r_squared": 0.9617,
       "pente_annuelle": 0.17694,
       "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-05-08",
+      "ticker": "XOM",
+      "score_global": 48.16,
+      "score_fondamental": 5.258,
+      "score_technique": 10.886,
+      "score_macro": 6.242,
+      "position_sigma": 1.7295,
+      "r_squared": 0.5087,
+      "pente_annuelle": 0.05705,
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-05-08",

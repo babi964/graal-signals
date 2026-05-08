@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "generated_at": "2026-05-08T11:27:22.851173",
+    "eurusd": 1.08
+  },
+  "summary": {
+    "n_positions": 0,
+    "valeur_totale_eur": 0.0,
+    "pnl_total_eur": 0.0,
+    "pnl_moyen_ann_pct": null,
+    "par_compte": {},
+    "secteurs": {}
+  },
+  "positions": []
+}

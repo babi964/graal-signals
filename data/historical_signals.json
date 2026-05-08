@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T11:27:22.843383",
+    "generated_at": "2026-05-08T11:43:09.126306",
     "period_days": 30,
     "cutoff_date": "2026-04-08",
-    "n_records": 180
+    "n_records": 179
   },
   "history": [
     {
@@ -161,18 +161,6 @@
       "r_squared": 0.6963,
       "pente_annuelle": 0.07713,
       "data_quality_flag": "PARTIAL"
-    },
-    {
-      "date": "2026-05-08",
-      "ticker": "META",
-      "score_global": 62.08,
-      "score_fondamental": 7.139,
-      "score_technique": 17.182,
-      "score_macro": 6.343,
-      "position_sigma": -0.2945,
-      "r_squared": 0.8606,
-      "pente_annuelle": 0.22738,
-      "data_quality_flag": "COMPLETE"
     },
     {
       "date": "2026-05-08",

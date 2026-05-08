@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T11:43:09.107343",
+    "generated_at": "2026-05-08T13:08:49.093277",
     "date": "2026-05-08",
     "version": "7.0",
     "market_state": "NORMAL",
@@ -16,10 +16,10 @@
     "vix": 17.08,
     "hy_oas": 2.75,
     "spy_ret_20d": 0.07671,
-    "n_tickers_total": 179,
+    "n_tickers_total": 180,
     "n_buy": 3,
     "n_sell": 27,
-    "n_watch": 64,
+    "n_watch": 65,
     "n_hold": 0
   },
   "signals": [
@@ -683,53 +683,6 @@
       }
     },
     {
-      "ticker": "VIV.PA",
-      "decision": "SELL",
-      "score_global": 34.95,
-      "score_fondamental": 3.0,
-      "score_technique": 16.603,
-      "score_macro": 6.343,
-      "score_qualite": 8.0,
-      "penalites": 8.0,
-      "hiboo_note_20": 4.19,
-      "sigma": -3.1895,
-      "r_squared": 0.4777,
-      "pente_annuelle_pct": 10.316,
-      "data_quality_flag": "COMPLETE",
-      "n_piliers_valides": 4,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 2.07,
-      "reasons": [
-        "Score global faible : 35.0 ≤ 35"
-      ],
-      "warnings": [
-        "Couverture intérêts faible : 0.47x",
-        "Marge FCF négative : -22.1%",
-        "FCF négatif (marge=-22.1%) −3pts",
-        "Marge FCF dégradée (−640.7pp) −2pts",
-        "Couverture intérêts faible (0.47x) −3pts"
-      ],
-      "raison_principale": "Score global faible : 35.0 ≤ 35",
-      "urgence": 1,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": 0.00359,
-        "roe": 0.004252,
-        "cagr_ca_5ans": -0.48737,
-        "marge_fcf": -0.221498,
-        "rendement_actionnaire": 18.76234,
-        "couverture_interets": 0.473684,
-        "marge_fcf_precedent": 6.185185
-      },
-      "piliers": {
-        "solidite": 4.205,
-        "croissance": 0.0,
-        "agilite": 2.112,
-        "rentabilite": 6.051
-      }
-    },
-    {
       "ticker": "ENGI.PA",
       "decision": "SELL",
       "score_global": 34.88,
@@ -773,6 +726,53 @@
         "croissance": null,
         "agilite": 3.535,
         "rentabilite": 4.163
+      }
+    },
+    {
+      "ticker": "VIV.PA",
+      "decision": "SELL",
+      "score_global": 34.88,
+      "score_fondamental": 3.0,
+      "score_technique": 16.532,
+      "score_macro": 6.343,
+      "score_qualite": 8.0,
+      "penalites": 8.0,
+      "hiboo_note_20": 4.19,
+      "sigma": -3.1969,
+      "r_squared": 0.4734,
+      "pente_annuelle_pct": 10.28,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 4,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 2.07,
+      "reasons": [
+        "Score global faible : 34.9 ≤ 35"
+      ],
+      "warnings": [
+        "Couverture intérêts faible : 0.47x",
+        "Marge FCF négative : -22.1%",
+        "FCF négatif (marge=-22.1%) −3pts",
+        "Marge FCF dégradée (−640.7pp) −2pts",
+        "Couverture intérêts faible (0.47x) −3pts"
+      ],
+      "raison_principale": "Score global faible : 34.9 ≤ 35",
+      "urgence": 1,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": 0.00359,
+        "roe": 0.004252,
+        "cagr_ca_5ans": -0.48737,
+        "marge_fcf": -0.221498,
+        "rendement_actionnaire": 18.76234,
+        "couverture_interets": 0.473684,
+        "marge_fcf_precedent": 6.185185
+      },
+      "piliers": {
+        "solidite": 4.205,
+        "croissance": 0.0,
+        "agilite": 2.112,
+        "rentabilite": 6.051
       }
     },
     {
@@ -1785,6 +1785,52 @@
         "croissance": 4.968,
         "agilite": 8.511,
         "rentabilite": 3.823
+      }
+    },
+    {
+      "ticker": "META",
+      "decision": "WATCH",
+      "score_global": 62.08,
+      "score_fondamental": 7.139,
+      "score_technique": 17.182,
+      "score_macro": 6.343,
+      "score_qualite": 10.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 16.0,
+      "sigma": -0.2945,
+      "r_squared": 0.8606,
+      "pente_annuelle_pct": 22.738,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 4,
+      "compte": "CTO_US",
+      "univers": "US",
+      "cours_actuel": 616.809998,
+      "reasons": [
+        "Fondamental ≥ 7.0 (7.14/10)",
+        "Macro ≥ 5.0 (6.3/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Historique limité : 3 exercices (≥ 5 recommandés pour CAGR fiables)"
+      ],
+      "raison_principale": "4/6 conditions BUY remplies",
+      "urgence": 0,
+      "hiboo_ratios": {
+        "dette_ebitda": 0.576532,
+        "roce": 0.256878,
+        "roe": null,
+        "cagr_ca_5ans": 0.220374,
+        "marge_fcf": 0.348955,
+        "rendement_actionnaire": 0.0,
+        "couverture_interets": null,
+        "marge_fcf_precedent": 0.24353
+      },
+      "piliers": {
+        "solidite": 6.667,
+        "croissance": 10.0,
+        "agilite": 8.403,
+        "rentabilite": 2.689
       }
     },
     {

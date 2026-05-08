@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T17:00:12.985737",
+    "generated_at": "2026-05-08T17:37:14.529070",
     "date": "2026-05-08",
     "version": "7.0",
     "market_state": "NORMAL",
@@ -16,7 +16,7 @@
     "vix": 17.08,
     "hy_oas": 2.79,
     "spy_ret_20d": 0.07671,
-    "n_tickers_total": 180,
+    "n_tickers_total": 179,
     "n_buy": 16,
     "n_sell": 0,
     "n_watch": 91,
@@ -6320,49 +6320,6 @@
         "croissance": 5.216,
         "agilite": 6.224,
         "rentabilite": 4.116
-      }
-    },
-    {
-      "ticker": "CA.PA",
-      "decision": "SKIP",
-      "score_global": 46.15,
-      "score_fondamental": 5.043,
-      "score_technique": 11.738,
-      "score_macro": 6.242,
-      "score_qualite": 8.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 10.77,
-      "sigma": 1.5335,
-      "r_squared": 0.1353,
-      "pente_annuelle_pct": -1.638,
-      "data_quality_flag": "COMPLETE",
-      "n_piliers_valides": 4,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 17.110001,
-      "reasons": [
-        "Macro ≥ 5.0 (6.2/10)",
-        "Marché NORMAL (= NORMAL)",
-        "Qualité données (COMPLETE)"
-      ],
-      "warnings": [],
-      "raison_principale": "Conditions insuffisantes (3/6)",
-      "urgence": 0,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": null,
-        "roe": 0.032993,
-        "cagr_ca_5ans": 0.030304,
-        "marge_fcf": 0.029536,
-        "rendement_actionnaire": 0.064453,
-        "couverture_interets": null,
-        "marge_fcf_precedent": 0.030463
-      },
-      "piliers": {
-        "solidite": 3.39,
-        "croissance": 3.517,
-        "agilite": 6.095,
-        "rentabilite": 8.116
       }
     },
     {

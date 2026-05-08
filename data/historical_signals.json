@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T11:43:09.126306",
+    "generated_at": "2026-05-08T13:08:49.109971",
     "period_days": 30,
     "cutoff_date": "2026-04-08",
-    "n_records": 179
+    "n_records": 180
   },
   "history": [
     {
@@ -161,6 +161,18 @@
       "r_squared": 0.6963,
       "pente_annuelle": 0.07713,
       "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-05-08",
+      "ticker": "META",
+      "score_global": 62.08,
+      "score_fondamental": 7.139,
+      "score_technique": 17.182,
+      "score_macro": 6.343,
+      "position_sigma": -0.2945,
+      "r_squared": 0.8606,
+      "pente_annuelle": 0.22738,
+      "data_quality_flag": "COMPLETE"
     },
     {
       "date": "2026-05-08",
@@ -1977,13 +1989,13 @@
     {
       "date": "2026-05-08",
       "ticker": "VIV.PA",
-      "score_global": 34.95,
+      "score_global": 34.88,
       "score_fondamental": 3.0,
-      "score_technique": 16.603,
+      "score_technique": 16.532,
       "score_macro": 6.343,
-      "position_sigma": -3.1895,
-      "r_squared": 0.4777,
-      "pente_annuelle": 0.10316,
+      "position_sigma": -3.1969,
+      "r_squared": 0.4734,
+      "pente_annuelle": 0.1028,
       "data_quality_flag": "COMPLETE"
     },
     {

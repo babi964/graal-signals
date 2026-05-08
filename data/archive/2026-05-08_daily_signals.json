@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T21:05:31.267182",
+    "generated_at": "2026-05-08T23:21:56.399704",
     "date": "2026-05-08",
     "version": "8.0",
     "market_state": "NORMAL",
@@ -8,27 +8,28 @@
     "crisis_method": "dynamique",
     "crisis_pct": {
       "vix_pct": 48.2,
-      "spy_dd_pct": 5.4
+      "hy_pct": 20.6,
+      "spy_dd_pct": 6.5
     },
-    "macro_score": 5.7,
+    "macro_score": 6.13,
     "macro_label": "NEUTRE",
     "vix": 17.08,
-    "hy_oas": null,
-    "spy_ret_20d": 0.07671,
+    "hy_oas": 2.79,
+    "spy_ret_20d": 0.06629,
     "n_tickers_total": 180,
-    "n_buy": 15,
+    "n_buy": 16,
     "n_sell": 0,
-    "n_watch": 92,
+    "n_watch": 91,
     "n_hold": 0
   },
   "signals": [
     {
       "ticker": "HCA",
       "decision": "BUY",
-      "score_global": 67.16,
+      "score_global": 67.59,
       "score_fondamental": 8.331,
       "score_technique": 18.135,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.39,
@@ -41,10 +42,10 @@
       "univers": "US",
       "cours_actuel": 429.019989,
       "reasons": [
-        "Score global ≥ 60 (67.2)",
+        "Score global ≥ 60 (67.6)",
         "Fondamental ≥ 6.0 (8.33/10)",
         "σ ≤ -0.5 (-0.60σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -73,10 +74,10 @@
     {
       "ticker": "OR.PA",
       "decision": "BUY",
-      "score_global": 66.74,
+      "score_global": 67.17,
       "score_fondamental": 7.596,
       "score_technique": 22.655,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 17.85,
@@ -89,10 +90,10 @@
       "univers": "FR",
       "cours_actuel": 367.0,
       "reasons": [
-        "Score global ≥ 60 (66.7)",
+        "Score global ≥ 60 (67.2)",
         "Fondamental ≥ 6.0 (7.60/10)",
         "σ ≤ -0.5 (-2.51σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -119,10 +120,10 @@
     {
       "ticker": "AMZN",
       "decision": "BUY",
-      "score_global": 66.15,
+      "score_global": 66.59,
       "score_fondamental": 6.853,
       "score_technique": 23.042,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 15.78,
@@ -135,10 +136,10 @@
       "univers": "US",
       "cours_actuel": 271.170013,
       "reasons": [
-        "Score global ≥ 60 (66.2)",
+        "Score global ≥ 60 (66.6)",
         "Fondamental ≥ 6.0 (6.85/10)",
         "σ ≤ -0.5 (-0.83σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -167,10 +168,10 @@
     {
       "ticker": "MSFT",
       "decision": "BUY",
-      "score_global": 65.31,
+      "score_global": 65.74,
       "score_fondamental": 7.504,
       "score_technique": 21.593,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.0,
@@ -183,10 +184,10 @@
       "univers": "US",
       "cours_actuel": 420.769989,
       "reasons": [
-        "Score global ≥ 60 (65.3)",
+        "Score global ≥ 60 (65.7)",
         "Fondamental ≥ 6.0 (7.50/10)",
         "σ ≤ -0.5 (-1.96σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -215,10 +216,10 @@
     {
       "ticker": "CDNS",
       "decision": "BUY",
-      "score_global": 65.1,
+      "score_global": 65.53,
       "score_fondamental": 6.819,
       "score_technique": 22.122,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.88,
@@ -231,10 +232,10 @@
       "univers": "US",
       "cours_actuel": 356.899994,
       "reasons": [
-        "Score global ≥ 60 (65.1)",
+        "Score global ≥ 60 (65.5)",
         "Fondamental ≥ 6.0 (6.82/10)",
         "σ ≤ -0.5 (-0.85σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -263,10 +264,10 @@
     {
       "ticker": "ABT",
       "decision": "BUY",
-      "score_global": 64.39,
+      "score_global": 64.82,
       "score_fondamental": 7.187,
       "score_technique": 19.942,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.57,
@@ -279,10 +280,10 @@
       "univers": "US",
       "cours_actuel": 87.010002,
       "reasons": [
-        "Score global ≥ 60 (64.4)",
+        "Score global ≥ 60 (64.8)",
         "Fondamental ≥ 6.0 (7.19/10)",
         "σ ≤ -0.5 (-3.86σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -311,10 +312,10 @@
     {
       "ticker": "ADBE",
       "decision": "BUY",
-      "score_global": 63.77,
+      "score_global": 64.2,
       "score_fondamental": 6.831,
       "score_technique": 20.742,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.0,
@@ -327,10 +328,10 @@
       "univers": "US",
       "cours_actuel": 256.51001,
       "reasons": [
-        "Score global ≥ 60 (63.8)",
+        "Score global ≥ 60 (64.2)",
         "Fondamental ≥ 6.0 (6.83/10)",
         "σ ≤ -0.5 (-3.25σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -359,10 +360,10 @@
     {
       "ticker": "MC.PA",
       "decision": "BUY",
-      "score_global": 62.88,
+      "score_global": 63.32,
       "score_fondamental": 8.201,
       "score_technique": 20.38,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 2.0,
       "hiboo_note_20": 18.82,
@@ -375,10 +376,10 @@
       "univers": "FR",
       "cours_actuel": 478.299988,
       "reasons": [
-        "Score global ≥ 60 (62.9)",
+        "Score global ≥ 60 (63.3)",
         "Fondamental ≥ 6.0 (8.20/10)",
         "σ ≤ -0.5 (-2.77σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -407,10 +408,10 @@
     {
       "ticker": "MA",
       "decision": "BUY",
-      "score_global": 62.76,
+      "score_global": 63.19,
       "score_fondamental": 6.782,
       "score_technique": 19.933,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.0,
@@ -423,10 +424,10 @@
       "univers": "US",
       "cours_actuel": 500.940002,
       "reasons": [
-        "Score global ≥ 60 (62.8)",
+        "Score global ≥ 60 (63.2)",
         "Fondamental ≥ 6.0 (6.78/10)",
         "σ ≤ -0.5 (-2.45σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -455,10 +456,10 @@
     {
       "ticker": "RMS.PA",
       "decision": "BUY",
-      "score_global": 61.88,
+      "score_global": 62.31,
       "score_fondamental": 7.273,
       "score_technique": 19.087,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.0,
@@ -471,10 +472,10 @@
       "univers": "FR",
       "cours_actuel": 1702.0,
       "reasons": [
-        "Score global ≥ 60 (61.9)",
+        "Score global ≥ 60 (62.3)",
         "Fondamental ≥ 6.0 (7.27/10)",
         "σ ≤ -0.5 (-2.37σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -501,10 +502,10 @@
     {
       "ticker": "DIS",
       "decision": "BUY",
-      "score_global": 61.13,
+      "score_global": 61.56,
       "score_fondamental": 7.145,
       "score_technique": 18.847,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.75,
@@ -517,10 +518,10 @@
       "univers": "US",
       "cours_actuel": 108.660004,
       "reasons": [
-        "Score global ≥ 60 (61.1)",
+        "Score global ≥ 60 (61.6)",
         "Fondamental ≥ 6.0 (7.14/10)",
         "σ ≤ -0.5 (-1.21σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -549,10 +550,10 @@
     {
       "ticker": "V",
       "decision": "BUY",
-      "score_global": 60.45,
+      "score_global": 60.88,
       "score_fondamental": 6.658,
       "score_technique": 20.12,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.0,
@@ -565,10 +566,10 @@
       "univers": "US",
       "cours_actuel": 321.279999,
       "reasons": [
-        "Score global ≥ 60 (60.5)",
+        "Score global ≥ 60 (60.9)",
         "Fondamental ≥ 6.0 (6.66/10)",
         "σ ≤ -0.5 (-1.99σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -597,10 +598,10 @@
     {
       "ticker": "ML.PA",
       "decision": "BUY",
-      "score_global": 60.4,
+      "score_global": 60.83,
       "score_fondamental": 6.344,
       "score_technique": 19.322,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.38,
@@ -613,10 +614,10 @@
       "univers": "FR",
       "cours_actuel": 32.040001,
       "reasons": [
-        "Score global ≥ 60 (60.4)",
+        "Score global ≥ 60 (60.8)",
         "Fondamental ≥ 6.0 (6.34/10)",
         "σ ≤ -0.5 (-0.96σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -643,10 +644,10 @@
     {
       "ticker": "AMGN",
       "decision": "BUY",
-      "score_global": 60.09,
+      "score_global": 60.52,
       "score_fondamental": 6.55,
       "score_technique": 20.186,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 2.0,
       "hiboo_note_20": 14.02,
@@ -659,10 +660,10 @@
       "univers": "US",
       "cours_actuel": 329.089996,
       "reasons": [
-        "Score global ≥ 60 (60.1)",
+        "Score global ≥ 60 (60.5)",
         "Fondamental ≥ 6.0 (6.55/10)",
         "σ ≤ -0.5 (-0.92σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -692,10 +693,10 @@
     {
       "ticker": "VRTX",
       "decision": "BUY",
-      "score_global": 60.02,
+      "score_global": 60.45,
       "score_fondamental": 6.681,
       "score_technique": 17.592,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 15.87,
@@ -708,10 +709,10 @@
       "univers": "US",
       "cours_actuel": 425.0,
       "reasons": [
-        "Score global ≥ 60 (60.0)",
+        "Score global ≥ 60 (60.5)",
         "Fondamental ≥ 6.0 (6.68/10)",
         "σ ≤ -0.5 (-1.39σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -738,12 +739,60 @@
       }
     },
     {
+      "ticker": "SCHW",
+      "decision": "BUY",
+      "score_global": 60.23,
+      "score_fondamental": 6.848,
+      "score_technique": 16.703,
+      "score_macro": 6.132,
+      "score_qualite": 10.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 15.0,
+      "sigma": -0.5834,
+      "r_squared": 0.9006,
+      "pente_annuelle_pct": 14.304,
+      "data_quality_flag": "PARTIAL",
+      "n_piliers_valides": 3,
+      "compte": "CTO_US",
+      "univers": "US",
+      "cours_actuel": 89.5,
+      "reasons": [
+        "Score global ≥ 60 (60.2)",
+        "Fondamental ≥ 6.0 (6.85/10)",
+        "σ ≤ -0.5 (-0.58σ)",
+        "Macro ≥ 5.0 (6.1/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (PARTIAL)"
+      ],
+      "warnings": [
+        "Historique limité : 3 exercices (≥ 5 recommandés pour CAGR fiables)"
+      ],
+      "raison_principale": "Toutes conditions BUY (6/6)",
+      "urgence": 0,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": null,
+        "roe": 421.52381,
+        "cagr_ca_5ans": 0.13965,
+        "marge_fcf": 0.436278,
+        "rendement_actionnaire": 0.0,
+        "couverture_interets": null,
+        "marge_fcf_precedent": 0.169221
+      },
+      "piliers": {
+        "solidite": null,
+        "croissance": 6.661,
+        "agilite": 9.095,
+        "rentabilite": 4.275
+      }
+    },
+    {
       "ticker": "GTT.PA",
       "decision": "WATCH",
-      "score_global": 62.5,
+      "score_global": 62.93,
       "score_fondamental": 8.193,
       "score_technique": 16.023,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 19.85,
@@ -756,9 +805,9 @@
       "univers": "FR",
       "cours_actuel": 207.800003,
       "reasons": [
-        "Score global ≥ 60 (62.5)",
+        "Score global ≥ 60 (62.9)",
         "Fondamental ≥ 6.0 (8.19/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -785,10 +834,10 @@
     {
       "ticker": "EQIX",
       "decision": "WATCH",
-      "score_global": 62.03,
+      "score_global": 62.47,
       "score_fondamental": 5.787,
       "score_technique": 23.186,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.33,
@@ -801,9 +850,9 @@
       "univers": "US",
       "cours_actuel": 1066.76001,
       "reasons": [
-        "Score global ≥ 60 (62.0)",
+        "Score global ≥ 60 (62.5)",
         "σ ≤ -0.5 (-0.82σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -833,10 +882,10 @@
     {
       "ticker": "PFE",
       "decision": "WATCH",
-      "score_global": 61.5,
+      "score_global": 61.94,
       "score_fondamental": 5.906,
       "score_technique": 22.18,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.28,
@@ -849,9 +898,9 @@
       "univers": "US",
       "cours_actuel": 26.48,
       "reasons": [
-        "Score global ≥ 60 (61.5)",
+        "Score global ≥ 60 (61.9)",
         "σ ≤ -0.5 (-1.60σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -880,10 +929,10 @@
     {
       "ticker": "META",
       "decision": "WATCH",
-      "score_global": 61.44,
+      "score_global": 61.87,
       "score_fondamental": 7.139,
       "score_technique": 17.182,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.0,
@@ -896,9 +945,9 @@
       "univers": "US",
       "cours_actuel": 616.809998,
       "reasons": [
-        "Score global ≥ 60 (61.4)",
+        "Score global ≥ 60 (61.9)",
         "Fondamental ≥ 6.0 (7.14/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -927,10 +976,10 @@
     {
       "ticker": "AAPL",
       "decision": "WATCH",
-      "score_global": 60.6,
+      "score_global": 61.03,
       "score_fondamental": 6.384,
       "score_technique": 21.365,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 15.56,
@@ -943,9 +992,9 @@
       "univers": "US",
       "cours_actuel": 287.440002,
       "reasons": [
-        "Score global ≥ 60 (60.6)",
+        "Score global ≥ 60 (61.0)",
         "Fondamental ≥ 6.0 (6.38/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -972,59 +1021,12 @@
       }
     },
     {
-      "ticker": "SCHW",
-      "decision": "WATCH",
-      "score_global": 59.8,
-      "score_fondamental": 6.848,
-      "score_technique": 16.703,
-      "score_macro": 5.7,
-      "score_qualite": 10.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 15.0,
-      "sigma": -0.5834,
-      "r_squared": 0.9006,
-      "pente_annuelle_pct": 14.304,
-      "data_quality_flag": "PARTIAL",
-      "n_piliers_valides": 3,
-      "compte": "CTO_US",
-      "univers": "US",
-      "cours_actuel": 89.5,
-      "reasons": [
-        "Fondamental ≥ 6.0 (6.85/10)",
-        "σ ≤ -0.5 (-0.58σ)",
-        "Macro ≥ 5.0 (5.7/10)",
-        "Marché NORMAL (= NORMAL)",
-        "Qualité données (PARTIAL)"
-      ],
-      "warnings": [
-        "Historique limité : 3 exercices (≥ 5 recommandés pour CAGR fiables)"
-      ],
-      "raison_principale": "5/6 conditions BUY remplies",
-      "urgence": 0,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": null,
-        "roe": 421.52381,
-        "cagr_ca_5ans": 0.13965,
-        "marge_fcf": 0.436278,
-        "rendement_actionnaire": 0.0,
-        "couverture_interets": null,
-        "marge_fcf_precedent": 0.169221
-      },
-      "piliers": {
-        "solidite": null,
-        "croissance": 6.661,
-        "agilite": 9.095,
-        "rentabilite": 4.275
-      }
-    },
-    {
       "ticker": "UNP",
       "decision": "WATCH",
-      "score_global": 59.41,
+      "score_global": 59.84,
       "score_fondamental": 5.164,
       "score_technique": 23.055,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.26,
@@ -1038,7 +1040,7 @@
       "cours_actuel": 264.890015,
       "reasons": [
         "σ ≤ -0.5 (-1.16σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1067,10 +1069,10 @@
     {
       "ticker": "DSY.PA",
       "decision": "WATCH",
-      "score_global": 59.32,
+      "score_global": 59.75,
       "score_fondamental": 6.15,
       "score_technique": 22.52,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.5,
       "penalites": 0.0,
       "hiboo_note_20": 12.94,
@@ -1085,7 +1087,7 @@
       "reasons": [
         "Fondamental ≥ 6.0 (6.15/10)",
         "σ ≤ -0.5 (-3.72σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1112,10 +1114,10 @@
     {
       "ticker": "JNJ",
       "decision": "WATCH",
-      "score_global": 59.28,
+      "score_global": 59.71,
       "score_fondamental": 6.721,
       "score_technique": 16.697,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.63,
@@ -1129,7 +1131,7 @@
       "cours_actuel": 222.509995,
       "reasons": [
         "Fondamental ≥ 6.0 (6.72/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -1158,10 +1160,10 @@
     {
       "ticker": "LMT",
       "decision": "WATCH",
-      "score_global": 59.24,
+      "score_global": 59.67,
       "score_fondamental": 5.341,
       "score_technique": 22.173,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.4,
@@ -1175,7 +1177,7 @@
       "cours_actuel": 512.409973,
       "reasons": [
         "σ ≤ -0.5 (-1.63σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1204,10 +1206,10 @@
     {
       "ticker": "ERF.PA",
       "decision": "WATCH",
-      "score_global": 59.09,
+      "score_global": 59.52,
       "score_fondamental": 5.577,
       "score_technique": 21.082,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.56,
@@ -1221,7 +1223,7 @@
       "cours_actuel": 59.720001,
       "reasons": [
         "σ ≤ -0.5 (-1.56σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1248,10 +1250,10 @@
     {
       "ticker": "NOW",
       "decision": "WATCH",
-      "score_global": 58.71,
+      "score_global": 59.14,
       "score_fondamental": 5.482,
       "score_technique": 21.082,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.68,
@@ -1265,7 +1267,7 @@
       "cours_actuel": 93.589996,
       "reasons": [
         "σ ≤ -0.5 (-3.81σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1294,10 +1296,10 @@
     {
       "ticker": "CAP.PA",
       "decision": "WATCH",
-      "score_global": 58.56,
+      "score_global": 58.99,
       "score_fondamental": 7.094,
       "score_technique": 20.484,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 2.0,
       "hiboo_note_20": 12.87,
@@ -1312,7 +1314,7 @@
       "reasons": [
         "Fondamental ≥ 6.0 (7.09/10)",
         "σ ≤ -0.5 (-3.23σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1341,10 +1343,10 @@
     {
       "ticker": "ITW",
       "decision": "WATCH",
-      "score_global": 58.55,
+      "score_global": 58.98,
       "score_fondamental": 4.943,
       "score_technique": 23.076,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 8.82,
@@ -1358,7 +1360,7 @@
       "cours_actuel": 255.529999,
       "reasons": [
         "σ ≤ -0.5 (-2.16σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -1387,10 +1389,10 @@
     {
       "ticker": "SAN.PA",
       "decision": "WATCH",
-      "score_global": 58.55,
+      "score_global": 58.98,
       "score_fondamental": 6.509,
       "score_technique": 18.814,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 6.83,
@@ -1405,7 +1407,7 @@
       "reasons": [
         "Fondamental ≥ 6.0 (6.51/10)",
         "σ ≤ -0.5 (-2.07σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -1432,10 +1434,10 @@
     {
       "ticker": "MRK",
       "decision": "WATCH",
-      "score_global": 58.35,
+      "score_global": 58.78,
       "score_fondamental": 5.957,
       "score_technique": 20.825,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 2.0,
       "hiboo_note_20": 13.28,
@@ -1449,7 +1451,7 @@
       "cours_actuel": 112.300003,
       "reasons": [
         "σ ≤ -0.5 (-0.56σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -1479,10 +1481,10 @@
     {
       "ticker": "NFLX",
       "decision": "WATCH",
-      "score_global": 58.13,
+      "score_global": 58.56,
       "score_fondamental": 6.662,
       "score_technique": 18.778,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 13.33,
@@ -1497,7 +1499,7 @@
       "reasons": [
         "Fondamental ≥ 6.0 (6.66/10)",
         "σ ≤ -0.5 (-1.01σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1528,10 +1530,10 @@
     {
       "ticker": "DG.PA",
       "decision": "WATCH",
-      "score_global": 57.85,
+      "score_global": 58.28,
       "score_fondamental": 6.485,
       "score_technique": 18.208,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.08,
@@ -1545,7 +1547,7 @@
       "cours_actuel": 131.550003,
       "reasons": [
         "Fondamental ≥ 6.0 (6.49/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -1572,10 +1574,10 @@
     {
       "ticker": "ELV",
       "decision": "WATCH",
-      "score_global": 57.83,
+      "score_global": 58.26,
       "score_fondamental": 4.48,
       "score_technique": 24.21,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.21,
@@ -1589,7 +1591,7 @@
       "cours_actuel": 372.920013,
       "reasons": [
         "σ ≤ -0.5 (-2.37σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -1618,10 +1620,10 @@
     {
       "ticker": "INTU",
       "decision": "WATCH",
-      "score_global": 57.67,
+      "score_global": 58.1,
       "score_fondamental": 5.594,
       "score_technique": 21.591,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.04,
@@ -1635,7 +1637,7 @@
       "cours_actuel": 406.779999,
       "reasons": [
         "σ ≤ -0.5 (-4.29σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1664,10 +1666,10 @@
     {
       "ticker": "ROP",
       "decision": "WATCH",
-      "score_global": 57.53,
+      "score_global": 57.96,
       "score_fondamental": 5.158,
       "score_technique": 21.198,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.67,
@@ -1681,7 +1683,7 @@
       "cours_actuel": 352.440002,
       "reasons": [
         "σ ≤ -0.5 (-4.15σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1710,10 +1712,10 @@
     {
       "ticker": "AIR.PA",
       "decision": "WATCH",
-      "score_global": 57.48,
+      "score_global": 57.92,
       "score_fondamental": 5.689,
       "score_technique": 19.029,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.57,
@@ -1727,7 +1729,7 @@
       "cours_actuel": 183.440002,
       "reasons": [
         "σ ≤ -0.5 (-0.54σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1754,10 +1756,10 @@
     {
       "ticker": "TMO",
       "decision": "WATCH",
-      "score_global": 57.43,
+      "score_global": 57.86,
       "score_fondamental": 4.542,
       "score_technique": 23.558,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.53,
@@ -1771,7 +1773,7 @@
       "cours_actuel": 474.459991,
       "reasons": [
         "σ ≤ -0.5 (-2.85σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1800,10 +1802,10 @@
     {
       "ticker": "DLTR",
       "decision": "WATCH",
-      "score_global": 57.33,
+      "score_global": 57.77,
       "score_fondamental": 5.29,
       "score_technique": 20.474,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.4,
@@ -1817,7 +1819,7 @@
       "cours_actuel": 96.760002,
       "reasons": [
         "σ ≤ -0.5 (-1.74σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1846,10 +1848,10 @@
     {
       "ticker": "HUM",
       "decision": "WATCH",
-      "score_global": 57.3,
+      "score_global": 57.73,
       "score_fondamental": 4.78,
       "score_technique": 23.975,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.5,
       "penalites": 0.0,
       "hiboo_note_20": 9.95,
@@ -1863,7 +1865,7 @@
       "cours_actuel": 247.119995,
       "reasons": [
         "σ ≤ -0.5 (-2.41σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1892,10 +1894,10 @@
     {
       "ticker": "WM",
       "decision": "WATCH",
-      "score_global": 57.07,
+      "score_global": 57.5,
       "score_fondamental": 5.207,
       "score_technique": 20.544,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.82,
@@ -1909,7 +1911,7 @@
       "cours_actuel": 221.449997,
       "reasons": [
         "σ ≤ -0.5 (-1.83σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1938,10 +1940,10 @@
     {
       "ticker": "MDT",
       "decision": "WATCH",
-      "score_global": 57.05,
+      "score_global": 57.48,
       "score_fondamental": 5.946,
       "score_technique": 19.562,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.83,
@@ -1955,7 +1957,7 @@
       "cours_actuel": 77.959999,
       "reasons": [
         "σ ≤ -0.5 (-1.96σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -1984,10 +1986,10 @@
     {
       "ticker": "BBY",
       "decision": "WATCH",
-      "score_global": 56.74,
+      "score_global": 57.18,
       "score_fondamental": 5.366,
       "score_technique": 19.58,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.17,
@@ -2001,7 +2003,7 @@
       "cours_actuel": 58.540001,
       "reasons": [
         "σ ≤ -0.5 (-1.85σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2030,10 +2032,10 @@
     {
       "ticker": "SU.PA",
       "decision": "WATCH",
-      "score_global": 56.73,
+      "score_global": 57.17,
       "score_fondamental": 6.869,
       "score_technique": 13.558,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.58,
@@ -2047,7 +2049,7 @@
       "cours_actuel": 275.200012,
       "reasons": [
         "Fondamental ≥ 6.0 (6.87/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2074,10 +2076,10 @@
     {
       "ticker": "UNH",
       "decision": "WATCH",
-      "score_global": 56.63,
+      "score_global": 57.06,
       "score_fondamental": 3.961,
       "score_technique": 25.088,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.73,
@@ -2091,7 +2093,7 @@
       "cours_actuel": 369.73999,
       "reasons": [
         "σ ≤ -0.5 (-2.68σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2120,10 +2122,10 @@
     {
       "ticker": "MCD",
       "decision": "WATCH",
-      "score_global": 56.43,
+      "score_global": 56.86,
       "score_fondamental": 5.232,
       "score_technique": 19.801,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.97,
@@ -2137,7 +2139,7 @@
       "cours_actuel": 283.700012,
       "reasons": [
         "σ ≤ -0.5 (-2.59σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2166,10 +2168,10 @@
     {
       "ticker": "ADP",
       "decision": "WATCH",
-      "score_global": 56.36,
+      "score_global": 56.79,
       "score_fondamental": 6.003,
       "score_technique": 21.648,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 3.0,
       "hiboo_note_20": 9.1,
@@ -2184,7 +2186,7 @@
       "reasons": [
         "Fondamental ≥ 6.0 (6.00/10)",
         "σ ≤ -0.5 (-4.25σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -2215,10 +2217,10 @@
     {
       "ticker": "CRM",
       "decision": "WATCH",
-      "score_global": 56.32,
+      "score_global": 56.75,
       "score_fondamental": 4.999,
       "score_technique": 20.624,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.01,
@@ -2232,7 +2234,7 @@
       "cours_actuel": 186.339996,
       "reasons": [
         "σ ≤ -0.5 (-3.14σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2261,10 +2263,10 @@
     {
       "ticker": "UPS",
       "decision": "WATCH",
-      "score_global": 56.27,
+      "score_global": 56.7,
       "score_fondamental": 4.324,
       "score_technique": 23.274,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.63,
@@ -2278,7 +2280,7 @@
       "cours_actuel": 100.099998,
       "reasons": [
         "σ ≤ -0.5 (-2.22σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2307,10 +2309,10 @@
     {
       "ticker": "CME",
       "decision": "WATCH",
-      "score_global": 56.16,
+      "score_global": 56.59,
       "score_fondamental": 5.587,
       "score_technique": 18.107,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 15.12,
@@ -2324,7 +2326,7 @@
       "cours_actuel": 286.850006,
       "reasons": [
         "σ ≤ -0.5 (-0.55σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2353,10 +2355,10 @@
     {
       "ticker": "REGN",
       "decision": "WATCH",
-      "score_global": 56.14,
+      "score_global": 56.58,
       "score_fondamental": 4.911,
       "score_technique": 20.801,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.26,
@@ -2370,7 +2372,7 @@
       "cours_actuel": 709.099976,
       "reasons": [
         "σ ≤ -0.5 (-1.14σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2399,10 +2401,10 @@
     {
       "ticker": "ACN",
       "decision": "WATCH",
-      "score_global": 55.92,
+      "score_global": 56.35,
       "score_fondamental": 5.474,
       "score_technique": 20.322,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.34,
@@ -2416,7 +2418,7 @@
       "cours_actuel": 180.190002,
       "reasons": [
         "σ ≤ -0.5 (-4.79σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -2445,10 +2447,10 @@
     {
       "ticker": "AMD",
       "decision": "WATCH",
-      "score_global": 55.84,
+      "score_global": 56.27,
       "score_fondamental": 6.041,
       "score_technique": 15.973,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.31,
@@ -2462,7 +2464,7 @@
       "cours_actuel": 408.459991,
       "reasons": [
         "Fondamental ≥ 6.0 (6.04/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -2491,10 +2493,10 @@
     {
       "ticker": "GOOG",
       "decision": "WATCH",
-      "score_global": 55.79,
+      "score_global": 56.22,
       "score_fondamental": 7.396,
       "score_technique": 10.508,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.67,
@@ -2508,7 +2510,7 @@
       "cours_actuel": 395.299988,
       "reasons": [
         "Fondamental ≥ 6.0 (7.40/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2537,10 +2539,10 @@
     {
       "ticker": "COST",
       "decision": "WATCH",
-      "score_global": 55.68,
+      "score_global": 56.11,
       "score_fondamental": 6.404,
       "score_technique": 16.359,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.93,
@@ -2554,7 +2556,7 @@
       "cours_actuel": 1012.059998,
       "reasons": [
         "Fondamental ≥ 6.0 (6.40/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2583,10 +2585,10 @@
     {
       "ticker": "PEP",
       "decision": "WATCH",
-      "score_global": 55.67,
+      "score_global": 56.11,
       "score_fondamental": 3.91,
       "score_technique": 24.334,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.12,
@@ -2600,7 +2602,7 @@
       "cours_actuel": 156.289993,
       "reasons": [
         "σ ≤ -0.5 (-2.06σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2629,10 +2631,10 @@
     {
       "ticker": "TGT",
       "decision": "WATCH",
-      "score_global": 55.63,
+      "score_global": 56.06,
       "score_fondamental": 4.06,
       "score_technique": 23.686,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.27,
@@ -2646,7 +2648,7 @@
       "cours_actuel": 125.879997,
       "reasons": [
         "σ ≤ -0.5 (-1.03σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2675,10 +2677,10 @@
     {
       "ticker": "ORLY",
       "decision": "WATCH",
-      "score_global": 55.62,
+      "score_global": 56.05,
       "score_fondamental": 5.948,
       "score_technique": 16.129,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 15.57,
@@ -2692,7 +2694,7 @@
       "cours_actuel": 94.580002,
       "reasons": [
         "σ ≤ -0.5 (-0.89σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2721,10 +2723,10 @@
     {
       "ticker": "RI.PA",
       "decision": "WATCH",
-      "score_global": 55.51,
+      "score_global": 55.95,
       "score_fondamental": 6.08,
       "score_technique": 17.493,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.77,
@@ -2739,7 +2741,7 @@
       "reasons": [
         "Fondamental ≥ 6.0 (6.08/10)",
         "σ ≤ -0.5 (-3.65σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2766,10 +2768,10 @@
     {
       "ticker": "LLY",
       "decision": "WATCH",
-      "score_global": 55.4,
+      "score_global": 55.83,
       "score_fondamental": 6.237,
       "score_technique": 14.749,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.88,
@@ -2783,7 +2785,7 @@
       "cours_actuel": 974.960022,
       "reasons": [
         "Fondamental ≥ 6.0 (6.24/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -2812,10 +2814,10 @@
     {
       "ticker": "HO.PA",
       "decision": "WATCH",
-      "score_global": 55.37,
+      "score_global": 55.8,
       "score_fondamental": 7.307,
       "score_technique": 12.444,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.54,
@@ -2829,7 +2831,7 @@
       "cours_actuel": 235.899994,
       "reasons": [
         "Fondamental ≥ 6.0 (7.31/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2856,10 +2858,10 @@
     {
       "ticker": "HD",
       "decision": "WATCH",
-      "score_global": 55.36,
+      "score_global": 55.79,
       "score_fondamental": 5.141,
       "score_technique": 19.093,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.56,
@@ -2873,7 +2875,7 @@
       "cours_actuel": 322.640015,
       "reasons": [
         "σ ≤ -0.5 (-2.77σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2902,10 +2904,10 @@
     {
       "ticker": "BMY",
       "decision": "WATCH",
-      "score_global": 55.24,
+      "score_global": 55.67,
       "score_fondamental": 5.265,
       "score_technique": 18.476,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.14,
@@ -2919,7 +2921,7 @@
       "cours_actuel": 56.25,
       "reasons": [
         "σ ≤ -0.5 (-0.81σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -2948,10 +2950,10 @@
     {
       "ticker": "LOW",
       "decision": "WATCH",
-      "score_global": 55.19,
+      "score_global": 55.62,
       "score_fondamental": 4.312,
       "score_technique": 22.237,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 9.92,
@@ -2965,7 +2967,7 @@
       "cours_actuel": 230.880005,
       "reasons": [
         "σ ≤ -0.5 (-2.38σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -2994,10 +2996,10 @@
     {
       "ticker": "CMCSA",
       "decision": "WATCH",
-      "score_global": 54.39,
+      "score_global": 54.82,
       "score_fondamental": 5.129,
       "score_technique": 18.174,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.3,
@@ -3011,7 +3013,7 @@
       "cours_actuel": 26.24,
       "reasons": [
         "σ ≤ -0.5 (-2.32σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3040,10 +3042,10 @@
     {
       "ticker": "KER.PA",
       "decision": "WATCH",
-      "score_global": 54.25,
+      "score_global": 54.68,
       "score_fondamental": 6.577,
       "score_technique": 23.237,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 7.0,
       "hiboo_note_20": 14.94,
@@ -3058,7 +3060,7 @@
       "reasons": [
         "Fondamental ≥ 6.0 (6.58/10)",
         "σ ≤ -0.5 (-2.04σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3090,10 +3092,10 @@
     {
       "ticker": "FTNT",
       "decision": "WATCH",
-      "score_global": 54.06,
+      "score_global": 54.49,
       "score_fondamental": 6.42,
       "score_technique": 17.18,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.5,
       "penalites": 3.0,
       "hiboo_note_20": 13.33,
@@ -3108,7 +3110,7 @@
       "reasons": [
         "Fondamental ≥ 6.0 (6.42/10)",
         "σ ≤ -0.5 (-0.68σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3139,10 +3141,10 @@
     {
       "ticker": "SAF.PA",
       "decision": "WATCH",
-      "score_global": 53.95,
+      "score_global": 54.38,
       "score_fondamental": 6.257,
       "score_technique": 15.225,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.5,
@@ -3156,7 +3158,7 @@
       "cours_actuel": 294.799988,
       "reasons": [
         "Fondamental ≥ 6.0 (6.26/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -3183,10 +3185,10 @@
     {
       "ticker": "CI",
       "decision": "WATCH",
-      "score_global": 53.32,
+      "score_global": 53.75,
       "score_fondamental": 4.117,
       "score_technique": 21.15,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.91,
@@ -3200,7 +3202,7 @@
       "cours_actuel": 284.040009,
       "reasons": [
         "σ ≤ -0.5 (-1.91σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -3229,10 +3231,10 @@
     {
       "ticker": "DHR",
       "decision": "WATCH",
-      "score_global": 53.19,
+      "score_global": 53.62,
       "score_fondamental": 4.198,
       "score_technique": 20.693,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 8.28,
@@ -3246,7 +3248,7 @@
       "cours_actuel": 175.660004,
       "reasons": [
         "σ ≤ -0.5 (-3.22σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3275,10 +3277,10 @@
     {
       "ticker": "HON",
       "decision": "WATCH",
-      "score_global": 53.18,
+      "score_global": 53.62,
       "score_fondamental": 3.805,
       "score_technique": 22.264,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 9.45,
@@ -3292,7 +3294,7 @@
       "cours_actuel": 216.070007,
       "reasons": [
         "σ ≤ -0.5 (-1.58σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -3321,10 +3323,10 @@
     {
       "ticker": "PG",
       "decision": "WATCH",
-      "score_global": 52.93,
+      "score_global": 53.36,
       "score_fondamental": 4.887,
       "score_technique": 19.681,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.2,
@@ -3338,7 +3340,7 @@
       "cours_actuel": 146.059998,
       "reasons": [
         "σ ≤ -0.5 (-2.06σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3367,10 +3369,10 @@
     {
       "ticker": "TMUS",
       "decision": "WATCH",
-      "score_global": 52.68,
+      "score_global": 53.11,
       "score_fondamental": 4.85,
       "score_technique": 17.582,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.88,
@@ -3384,7 +3386,7 @@
       "cours_actuel": 194.199997,
       "reasons": [
         "σ ≤ -0.5 (-1.68σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3413,10 +3415,10 @@
     {
       "ticker": "SBUX",
       "decision": "WATCH",
-      "score_global": 52.02,
+      "score_global": 52.45,
       "score_fondamental": 3.748,
       "score_technique": 23.324,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.08,
@@ -3430,7 +3432,7 @@
       "cours_actuel": 104.260002,
       "reasons": [
         "σ ≤ -0.5 (-1.22σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3459,10 +3461,10 @@
     {
       "ticker": "TSLA",
       "decision": "WATCH",
-      "score_global": 51.47,
+      "score_global": 51.9,
       "score_fondamental": 3.572,
       "score_technique": 21.477,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 8.99,
@@ -3476,7 +3478,7 @@
       "cours_actuel": 411.790009,
       "reasons": [
         "σ ≤ -0.5 (-0.77σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -3505,10 +3507,10 @@
     {
       "ticker": "GE",
       "decision": "WATCH",
-      "score_global": 51.4,
+      "score_global": 51.84,
       "score_fondamental": 6.686,
       "score_technique": 8.959,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 15.0,
@@ -3522,7 +3524,7 @@
       "cours_actuel": 302.630005,
       "reasons": [
         "Fondamental ≥ 6.0 (6.69/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -3551,10 +3553,10 @@
     {
       "ticker": "AI.PA",
       "decision": "WATCH",
-      "score_global": 51.28,
+      "score_global": 51.71,
       "score_fondamental": 6.268,
       "score_technique": 16.505,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 2.0,
       "hiboo_note_20": 15.41,
@@ -3568,7 +3570,7 @@
       "cours_actuel": 176.699997,
       "reasons": [
         "Fondamental ≥ 6.0 (6.27/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3598,10 +3600,10 @@
     {
       "ticker": "WMT",
       "decision": "WATCH",
-      "score_global": 51.07,
+      "score_global": 51.5,
       "score_fondamental": 6.264,
       "score_technique": 10.313,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.57,
@@ -3615,7 +3617,7 @@
       "cours_actuel": 130.199997,
       "reasons": [
         "Fondamental ≥ 6.0 (6.26/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3644,10 +3646,10 @@
     {
       "ticker": "PLD",
       "decision": "WATCH",
-      "score_global": 51.06,
+      "score_global": 51.49,
       "score_fondamental": 3.92,
       "score_technique": 22.683,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 8.48,
@@ -3661,7 +3663,7 @@
       "cours_actuel": 142.289993,
       "reasons": [
         "σ ≤ -0.5 (-0.82σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -3692,10 +3694,10 @@
     {
       "ticker": "VIE.PA",
       "decision": "WATCH",
-      "score_global": 50.91,
+      "score_global": 51.34,
       "score_fondamental": 6.013,
       "score_technique": 17.154,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 2.0,
       "hiboo_note_20": 14.55,
@@ -3709,7 +3711,7 @@
       "cours_actuel": 35.91,
       "reasons": [
         "Fondamental ≥ 6.0 (6.01/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -3739,10 +3741,10 @@
     {
       "ticker": "AKE.PA",
       "decision": "WATCH",
-      "score_global": 49.97,
+      "score_global": 50.4,
       "score_fondamental": 4.423,
       "score_technique": 18.574,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 5.08,
@@ -3756,7 +3758,7 @@
       "cours_actuel": 62.299999,
       "reasons": [
         "σ ≤ -0.5 (-1.72σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3783,10 +3785,10 @@
     {
       "ticker": "AMAT",
       "decision": "WATCH",
-      "score_global": 49.92,
+      "score_global": 50.36,
       "score_fondamental": 6.057,
       "score_technique": 11.996,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.78,
@@ -3800,7 +3802,7 @@
       "cours_actuel": 410.640015,
       "reasons": [
         "Fondamental ≥ 6.0 (6.06/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3829,10 +3831,10 @@
     {
       "ticker": "D",
       "decision": "WATCH",
-      "score_global": 49.91,
+      "score_global": 50.35,
       "score_fondamental": 4.71,
       "score_technique": 17.374,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 2.0,
       "hiboo_note_20": 11.12,
@@ -3846,7 +3848,7 @@
       "cours_actuel": 61.610001,
       "reasons": [
         "σ ≤ -0.5 (-0.60σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3876,10 +3878,10 @@
     {
       "ticker": "ISRG",
       "decision": "WATCH",
-      "score_global": 49.68,
+      "score_global": 50.11,
       "score_fondamental": 5.286,
       "score_technique": 14.837,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 2.0,
       "hiboo_note_20": 13.84,
@@ -3893,7 +3895,7 @@
       "cours_actuel": 453.48999,
       "reasons": [
         "σ ≤ -0.5 (-1.03σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -3923,10 +3925,10 @@
     {
       "ticker": "EL.PA",
       "decision": "WATCH",
-      "score_global": 49.0,
+      "score_global": 49.43,
       "score_fondamental": 5.671,
       "score_technique": 18.611,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 4.0,
       "hiboo_note_20": 9.19,
@@ -3940,7 +3942,7 @@
       "cours_actuel": 176.300003,
       "reasons": [
         "σ ≤ -0.5 (-2.19σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -3970,10 +3972,10 @@
     {
       "ticker": "NKE",
       "decision": "WATCH",
-      "score_global": 48.63,
+      "score_global": 49.06,
       "score_fondamental": 4.508,
       "score_technique": 18.898,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 2.0,
       "hiboo_note_20": 8.78,
@@ -3987,7 +3989,7 @@
       "cours_actuel": 44.41,
       "reasons": [
         "σ ≤ -0.5 (-3.41σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4017,10 +4019,10 @@
     {
       "ticker": "GLO.PA",
       "decision": "WATCH",
-      "score_global": 48.59,
+      "score_global": 49.02,
       "score_fondamental": 6.199,
       "score_technique": 10.094,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.28,
@@ -4034,7 +4036,7 @@
       "cours_actuel": 34.299999,
       "reasons": [
         "Fondamental ≥ 6.0 (6.20/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4061,10 +4063,10 @@
     {
       "ticker": "AMT",
       "decision": "WATCH",
-      "score_global": 48.08,
+      "score_global": 48.51,
       "score_fondamental": 3.002,
       "score_technique": 20.368,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 8.6,
@@ -4078,7 +4080,7 @@
       "cours_actuel": 179.770004,
       "reasons": [
         "σ ≤ -0.5 (-2.29σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4107,10 +4109,10 @@
     {
       "ticker": "PUB.PA",
       "decision": "WATCH",
-      "score_global": 47.87,
+      "score_global": 48.3,
       "score_fondamental": 6.82,
       "score_technique": 10.887,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 2.0,
       "hiboo_note_20": 17.04,
@@ -4124,7 +4126,7 @@
       "cours_actuel": 81.720001,
       "reasons": [
         "Fondamental ≥ 6.0 (6.82/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4153,10 +4155,10 @@
     {
       "ticker": "ABBV",
       "decision": "WATCH",
-      "score_global": 47.7,
+      "score_global": 48.13,
       "score_fondamental": 3.788,
       "score_technique": 16.847,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.42,
@@ -4170,7 +4172,7 @@
       "cours_actuel": 202.710007,
       "reasons": [
         "σ ≤ -0.5 (-0.50σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4199,10 +4201,10 @@
     {
       "ticker": "SK.PA",
       "decision": "WATCH",
-      "score_global": 47.54,
+      "score_global": 47.97,
       "score_fondamental": 4.555,
       "score_technique": 16.618,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 7.32,
@@ -4216,7 +4218,7 @@
       "cours_actuel": 53.75,
       "reasons": [
         "σ ≤ -0.5 (-2.35σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4246,10 +4248,10 @@
     {
       "ticker": "FR.PA",
       "decision": "WATCH",
-      "score_global": 47.35,
+      "score_global": 47.78,
       "score_fondamental": 4.797,
       "score_technique": 14.463,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.44,
@@ -4263,7 +4265,7 @@
       "cours_actuel": 11.48,
       "reasons": [
         "σ ≤ -0.5 (-0.92σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4290,10 +4292,10 @@
     {
       "ticker": "ANTIN.PA",
       "decision": "WATCH",
-      "score_global": 46.83,
+      "score_global": 47.26,
       "score_fondamental": 7.249,
       "score_technique": 4.137,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 16.67,
@@ -4307,7 +4309,7 @@
       "cours_actuel": 10.06,
       "reasons": [
         "Fondamental ≥ 6.0 (7.25/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4334,10 +4336,10 @@
     {
       "ticker": "CHTR",
       "decision": "WATCH",
-      "score_global": 46.23,
+      "score_global": 46.66,
       "score_fondamental": 3.729,
       "score_technique": 17.111,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.5,
       "penalites": 0.0,
       "hiboo_note_20": 7.1,
@@ -4351,7 +4353,7 @@
       "cours_actuel": 160.240005,
       "reasons": [
         "σ ≤ -0.5 (-3.04σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4380,10 +4382,10 @@
     {
       "ticker": "BA",
       "decision": "WATCH",
-      "score_global": 45.4,
+      "score_global": 45.83,
       "score_fondamental": 3.618,
       "score_technique": 18.225,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 8.58,
@@ -4397,7 +4399,7 @@
       "cours_actuel": 231.029999,
       "reasons": [
         "σ ≤ -0.5 (-0.76σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4428,10 +4430,10 @@
     {
       "ticker": "IBM",
       "decision": "WATCH",
-      "score_global": 44.66,
+      "score_global": 45.09,
       "score_fondamental": 6.028,
       "score_technique": 4.849,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.77,
@@ -4445,7 +4447,7 @@
       "cours_actuel": 231.309998,
       "reasons": [
         "Fondamental ≥ 6.0 (6.03/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4474,10 +4476,10 @@
     {
       "ticker": "O",
       "decision": "WATCH",
-      "score_global": 43.94,
+      "score_global": 44.37,
       "score_fondamental": 1.993,
       "score_technique": 20.267,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 7.52,
@@ -4491,7 +4493,7 @@
       "cours_actuel": 61.790001,
       "reasons": [
         "σ ≤ -0.5 (-0.91σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4521,10 +4523,10 @@
     {
       "ticker": "EL",
       "decision": "WATCH",
-      "score_global": 42.61,
+      "score_global": 43.04,
       "score_fondamental": 3.106,
       "score_technique": 21.483,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 5.0,
       "hiboo_note_20": 3.69,
@@ -4538,7 +4540,7 @@
       "cours_actuel": 85.290001,
       "reasons": [
         "σ ≤ -0.5 (-2.07σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4570,10 +4572,10 @@
     {
       "ticker": "CCI",
       "decision": "WATCH",
-      "score_global": 42.43,
+      "score_global": 42.86,
       "score_fondamental": 2.603,
       "score_technique": 21.315,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 5.0,
       "hiboo_note_20": 8.2,
@@ -4587,7 +4589,7 @@
       "cours_actuel": 91.07,
       "reasons": [
         "σ ≤ -0.5 (-2.02σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4619,10 +4621,10 @@
     {
       "ticker": "NEE",
       "decision": "WATCH",
-      "score_global": 42.2,
+      "score_global": 42.63,
       "score_fondamental": 1.608,
       "score_technique": 23.067,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 6.31,
@@ -4636,7 +4638,7 @@
       "cours_actuel": 93.32,
       "reasons": [
         "σ ≤ -0.5 (-1.04σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4667,10 +4669,10 @@
     {
       "ticker": "ALO.PA",
       "decision": "WATCH",
-      "score_global": 35.82,
+      "score_global": 36.25,
       "score_fondamental": 4.067,
       "score_technique": 11.349,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 4.5,
       "penalites": 2.0,
       "hiboo_note_20": 6.92,
@@ -4684,7 +4686,7 @@
       "cours_actuel": 17.535,
       "reasons": [
         "σ ≤ -0.5 (-1.14σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4714,10 +4716,10 @@
     {
       "ticker": "UBI.PA",
       "decision": "WATCH",
-      "score_global": 35.21,
+      "score_global": 35.64,
       "score_fondamental": 4.422,
       "score_technique": 12.322,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 4.5,
       "penalites": 5.0,
       "hiboo_note_20": 6.53,
@@ -4731,7 +4733,7 @@
       "cours_actuel": 4.895,
       "reasons": [
         "σ ≤ -0.5 (-2.50σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4763,10 +4765,10 @@
     {
       "ticker": "VIV.PA",
       "decision": "WATCH",
-      "score_global": 34.23,
+      "score_global": 34.66,
       "score_fondamental": 3.0,
       "score_technique": 16.532,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 8.0,
       "hiboo_note_20": 4.19,
@@ -4780,7 +4782,7 @@
       "cours_actuel": 2.07,
       "reasons": [
         "σ ≤ -0.5 (-3.20σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4813,10 +4815,10 @@
     {
       "ticker": "WLN.PA",
       "decision": "WATCH",
-      "score_global": 33.45,
+      "score_global": 33.88,
       "score_fondamental": 3.924,
       "score_technique": 10.554,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.5,
       "penalites": 5.0,
       "hiboo_note_20": 6.68,
@@ -4830,7 +4832,7 @@
       "cours_actuel": 0.2565,
       "reasons": [
         "σ ≤ -0.5 (-3.94σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -4862,10 +4864,10 @@
     {
       "ticker": "RNO.PA",
       "decision": "WATCH",
-      "score_global": 30.54,
+      "score_global": 30.97,
       "score_fondamental": 4.077,
       "score_technique": 8.528,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 8.0,
       "hiboo_note_20": 7.06,
@@ -4879,7 +4881,7 @@
       "cours_actuel": 28.940001,
       "reasons": [
         "σ ≤ -0.5 (-0.60σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4912,10 +4914,10 @@
     {
       "ticker": "BIG.PA",
       "decision": "WATCH",
-      "score_global": 30.21,
+      "score_global": 30.64,
       "score_fondamental": 3.911,
       "score_technique": 12.367,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 4.5,
       "penalites": 8.0,
       "hiboo_note_20": 3.05,
@@ -4929,7 +4931,7 @@
       "cours_actuel": 0.367,
       "reasons": [
         "σ ≤ -0.5 (-3.32σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -4962,10 +4964,10 @@
     {
       "ticker": "CO.PA",
       "decision": "WATCH",
-      "score_global": 24.56,
+      "score_global": 24.99,
       "score_fondamental": 1.062,
       "score_technique": 18.111,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 4.5,
       "penalites": 8.0,
       "hiboo_note_20": 0.0,
@@ -4979,7 +4981,7 @@
       "cours_actuel": 0.2308,
       "reasons": [
         "σ ≤ -0.5 (-2.39σ)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5012,10 +5014,10 @@
     {
       "ticker": "ROST",
       "decision": "SKIP",
-      "score_global": 57.49,
+      "score_global": 57.92,
       "score_fondamental": 5.818,
       "score_technique": 18.516,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.95,
@@ -5028,7 +5030,7 @@
       "univers": "US",
       "cours_actuel": 224.479996,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5057,10 +5059,10 @@
     {
       "ticker": "NVDA",
       "decision": "SKIP",
-      "score_global": 56.03,
+      "score_global": 56.46,
       "score_fondamental": 5.944,
       "score_technique": 16.552,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.79,
@@ -5073,7 +5075,7 @@
       "univers": "US",
       "cours_actuel": 211.5,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5102,10 +5104,10 @@
     {
       "ticker": "PANW",
       "decision": "SKIP",
-      "score_global": 55.24,
+      "score_global": 55.67,
       "score_fondamental": 5.838,
       "score_technique": 18.19,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.54,
@@ -5118,7 +5120,7 @@
       "univers": "US",
       "cours_actuel": 196.529999,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5148,10 +5150,10 @@
     {
       "ticker": "TJX",
       "decision": "SKIP",
-      "score_global": 54.14,
+      "score_global": 54.57,
       "score_fondamental": 5.935,
       "score_technique": 14.702,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.68,
@@ -5164,7 +5166,7 @@
       "univers": "US",
       "cours_actuel": 154.479996,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5193,10 +5195,10 @@
     {
       "ticker": "ANET",
       "decision": "SKIP",
-      "score_global": 53.66,
+      "score_global": 54.09,
       "score_fondamental": 5.662,
       "score_technique": 15.307,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.49,
@@ -5209,7 +5211,7 @@
       "univers": "US",
       "cours_actuel": 141.75,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5238,10 +5240,10 @@
     {
       "ticker": "GD",
       "decision": "SKIP",
-      "score_global": 53.66,
+      "score_global": 54.09,
       "score_fondamental": 5.161,
       "score_technique": 17.316,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.1,
@@ -5254,7 +5256,7 @@
       "univers": "US",
       "cours_actuel": 347.76001,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5283,10 +5285,10 @@
     {
       "ticker": "BAC",
       "decision": "SKIP",
-      "score_global": 52.97,
+      "score_global": 53.41,
       "score_fondamental": 5.109,
       "score_technique": 16.838,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.39,
@@ -5299,7 +5301,7 @@
       "univers": "US",
       "cours_actuel": 52.75,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5328,10 +5330,10 @@
     {
       "ticker": "IPN.PA",
       "decision": "SKIP",
-      "score_global": 52.5,
+      "score_global": 52.93,
       "score_fondamental": 5.779,
       "score_technique": 19.68,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 2.0,
       "hiboo_note_20": 10.48,
@@ -5344,7 +5346,7 @@
       "univers": "FR",
       "cours_actuel": 168.5,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5373,10 +5375,10 @@
     {
       "ticker": "AZO",
       "decision": "SKIP",
-      "score_global": 50.61,
+      "score_global": 51.04,
       "score_fondamental": 5.749,
       "score_technique": 13.915,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.83,
@@ -5389,7 +5391,7 @@
       "univers": "US",
       "cours_actuel": 3554.879883,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5418,10 +5420,10 @@
     {
       "ticker": "NSC",
       "decision": "SKIP",
-      "score_global": 50.44,
+      "score_global": 50.88,
       "score_fondamental": 3.403,
       "score_technique": 21.131,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.89,
@@ -5434,7 +5436,7 @@
       "univers": "US",
       "cours_actuel": 313.390015,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5463,10 +5465,10 @@
     {
       "ticker": "CS.PA",
       "decision": "SKIP",
-      "score_global": 49.73,
+      "score_global": 50.16,
       "score_fondamental": 5.833,
       "score_technique": 12.697,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.33,
@@ -5479,7 +5481,7 @@
       "univers": "FR",
       "cours_actuel": 41.580002,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5506,10 +5508,10 @@
     {
       "ticker": "VZ",
       "decision": "SKIP",
-      "score_global": 49.47,
+      "score_global": 49.9,
       "score_fondamental": 4.283,
       "score_technique": 16.633,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.89,
@@ -5522,7 +5524,7 @@
       "univers": "US",
       "cours_actuel": 47.09,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5551,10 +5553,10 @@
     {
       "ticker": "CRWD",
       "decision": "SKIP",
-      "score_global": 49.1,
+      "score_global": 49.53,
       "score_fondamental": 3.935,
       "score_technique": 17.66,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 6.56,
@@ -5567,7 +5569,7 @@
       "univers": "US",
       "cours_actuel": 505.720001,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5598,10 +5600,10 @@
     {
       "ticker": "EOG",
       "decision": "SKIP",
-      "score_global": 48.86,
+      "score_global": 49.29,
       "score_fondamental": 5.109,
       "score_technique": 14.724,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 2.0,
       "hiboo_note_20": 12.47,
@@ -5614,7 +5616,7 @@
       "univers": "US",
       "cours_actuel": 130.889999,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5644,10 +5646,10 @@
     {
       "ticker": "JPM",
       "decision": "SKIP",
-      "score_global": 48.67,
+      "score_global": 49.1,
       "score_fondamental": 5.104,
       "score_technique": 12.556,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.61,
@@ -5660,7 +5662,7 @@
       "univers": "US",
       "cours_actuel": 306.269989,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5689,10 +5691,10 @@
     {
       "ticker": "SO",
       "decision": "SKIP",
-      "score_global": 48.23,
+      "score_global": 48.66,
       "score_fondamental": 5.191,
       "score_technique": 11.761,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.03,
@@ -5705,7 +5707,7 @@
       "univers": "US",
       "cours_actuel": 92.43,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5734,10 +5736,10 @@
     {
       "ticker": "CSCO",
       "decision": "SKIP",
-      "score_global": 47.97,
+      "score_global": 48.4,
       "score_fondamental": 5.225,
       "score_technique": 13.365,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.96,
@@ -5750,7 +5752,7 @@
       "univers": "US",
       "cours_actuel": 92.160004,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5779,10 +5781,10 @@
     {
       "ticker": "APH",
       "decision": "SKIP",
-      "score_global": 47.94,
+      "score_global": 48.37,
       "score_fondamental": 5.724,
       "score_technique": 9.343,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 14.29,
@@ -5795,7 +5797,7 @@
       "univers": "US",
       "cours_actuel": 136.619995,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5824,10 +5826,10 @@
     {
       "ticker": "EBAY",
       "decision": "SKIP",
-      "score_global": 47.73,
+      "score_global": 48.16,
       "score_fondamental": 4.577,
       "score_technique": 13.725,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.21,
@@ -5840,7 +5842,7 @@
       "univers": "US",
       "cours_actuel": 106.419998,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5869,10 +5871,10 @@
     {
       "ticker": "XOM",
       "decision": "SKIP",
-      "score_global": 47.62,
+      "score_global": 48.05,
       "score_fondamental": 5.258,
       "score_technique": 10.886,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 8.87,
@@ -5885,7 +5887,7 @@
       "univers": "US",
       "cours_actuel": 146.580002,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -5914,10 +5916,10 @@
     {
       "ticker": "GILD",
       "decision": "SKIP",
-      "score_global": 47.61,
+      "score_global": 48.04,
       "score_fondamental": 5.024,
       "score_technique": 14.813,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 11.48,
@@ -5930,7 +5932,7 @@
       "univers": "US",
       "cours_actuel": 134.059998,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -5961,10 +5963,10 @@
     {
       "ticker": "CVX",
       "decision": "SKIP",
-      "score_global": 47.57,
+      "score_global": 48.01,
       "score_fondamental": 4.55,
       "score_technique": 13.674,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 8.83,
@@ -5977,7 +5979,7 @@
       "univers": "US",
       "cours_actuel": 182.5,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -6006,10 +6008,10 @@
     {
       "ticker": "QCOM",
       "decision": "SKIP",
-      "score_global": 47.53,
+      "score_global": 47.96,
       "score_fondamental": 5.076,
       "score_technique": 13.524,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 13.24,
@@ -6022,7 +6024,7 @@
       "univers": "US",
       "cours_actuel": 202.550003,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6051,10 +6053,10 @@
     {
       "ticker": "MMM",
       "decision": "SKIP",
-      "score_global": 47.37,
+      "score_global": 47.8,
       "score_fondamental": 4.773,
       "score_technique": 12.576,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.47,
@@ -6067,7 +6069,7 @@
       "univers": "US",
       "cours_actuel": 143.75,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6096,10 +6098,10 @@
     {
       "ticker": "LR.PA",
       "decision": "SKIP",
-      "score_global": 47.31,
+      "score_global": 47.75,
       "score_fondamental": 5.821,
       "score_technique": 13.33,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 3.0,
       "hiboo_note_20": 10.12,
@@ -6112,7 +6114,7 @@
       "univers": "FR",
       "cours_actuel": 157.399994,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -6142,10 +6144,10 @@
     {
       "ticker": "TE.PA",
       "decision": "SKIP",
-      "score_global": 46.55,
+      "score_global": 46.98,
       "score_fondamental": 4.111,
       "score_technique": 18.402,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 2.0,
       "hiboo_note_20": 9.32,
@@ -6158,7 +6160,7 @@
       "univers": "FR",
       "cours_actuel": 37.82,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6187,10 +6189,10 @@
     {
       "ticker": "ORCL",
       "decision": "SKIP",
-      "score_global": 46.26,
+      "score_global": 46.69,
       "score_fondamental": 5.739,
       "score_technique": 9.602,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.91,
@@ -6203,7 +6205,7 @@
       "univers": "US",
       "cours_actuel": 194.589996,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6232,10 +6234,10 @@
     {
       "ticker": "DE",
       "decision": "SKIP",
-      "score_global": 45.88,
+      "score_global": 46.31,
       "score_fondamental": 3.953,
       "score_technique": 16.366,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 7.17,
@@ -6248,7 +6250,7 @@
       "univers": "US",
       "cours_actuel": 580.539978,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -6277,10 +6279,10 @@
     {
       "ticker": "KO",
       "decision": "SKIP",
-      "score_global": 45.71,
+      "score_global": 46.14,
       "score_fondamental": 5.044,
       "score_technique": 11.834,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 2.0,
       "hiboo_note_20": 12.09,
@@ -6293,7 +6295,7 @@
       "univers": "US",
       "cours_actuel": 78.43,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6323,10 +6325,10 @@
     {
       "ticker": "CA.PA",
       "decision": "SKIP",
-      "score_global": 45.61,
+      "score_global": 46.04,
       "score_fondamental": 5.043,
       "score_technique": 11.738,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.77,
@@ -6339,7 +6341,7 @@
       "univers": "FR",
       "cours_actuel": 17.110001,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6366,10 +6368,10 @@
     {
       "ticker": "SPG",
       "decision": "SKIP",
-      "score_global": 45.54,
+      "score_global": 45.97,
       "score_fondamental": 7.588,
       "score_technique": 12.484,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 8.87,
@@ -6383,7 +6385,7 @@
       "cours_actuel": 201.399994,
       "reasons": [
         "Fondamental ≥ 6.0 (7.59/10)",
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -6414,10 +6416,10 @@
     {
       "ticker": "FDX",
       "decision": "SKIP",
-      "score_global": 45.36,
+      "score_global": 45.8,
       "score_fondamental": 4.001,
       "score_technique": 15.66,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.45,
@@ -6430,7 +6432,7 @@
       "univers": "US",
       "cours_actuel": 375.929993,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6457,57 +6459,12 @@
       }
     },
     {
-      "ticker": "ELIOR.PA",
-      "decision": "SKIP",
-      "score_global": 43.91,
-      "score_fondamental": 4.442,
-      "score_technique": 12.441,
-      "score_macro": 5.7,
-      "score_qualite": 8.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 9.97,
-      "sigma": 0.9285,
-      "r_squared": 0.8069,
-      "pente_annuelle_pct": -18.528,
-      "data_quality_flag": "PARTIAL",
-      "n_piliers_valides": 3,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 2.766,
-      "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
-        "Marché NORMAL (= NORMAL)",
-        "Qualité données (PARTIAL)"
-      ],
-      "warnings": [
-        "Dilution : actions en hausse de 7.8%/an"
-      ],
-      "raison_principale": "Conditions insuffisantes (3/6)",
-      "urgence": 0,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": null,
-        "roe": 0.104067,
-        "cagr_ca_5ans": 0.136219,
-        "marge_fcf": 0.031545,
-        "rendement_actionnaire": 0.0,
-        "couverture_interets": null,
-        "marge_fcf_precedent": 0.028746
-      },
-      "piliers": {
-        "solidite": 4.547,
-        "croissance": null,
-        "agilite": 6.637,
-        "rentabilite": 1.541
-      }
-    },
-    {
       "ticker": "BN.PA",
       "decision": "SKIP",
-      "score_global": 43.9,
+      "score_global": 44.34,
       "score_fondamental": 5.798,
       "score_technique": 11.012,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 2.0,
       "hiboo_note_20": 11.07,
@@ -6520,7 +6477,7 @@
       "univers": "FR",
       "cours_actuel": 63.279999,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6547,12 +6504,57 @@
       }
     },
     {
+      "ticker": "ELIOR.PA",
+      "decision": "SKIP",
+      "score_global": 44.34,
+      "score_fondamental": 4.442,
+      "score_technique": 12.441,
+      "score_macro": 6.132,
+      "score_qualite": 8.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 9.97,
+      "sigma": 0.9285,
+      "r_squared": 0.8069,
+      "pente_annuelle_pct": -18.528,
+      "data_quality_flag": "PARTIAL",
+      "n_piliers_valides": 3,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 2.766,
+      "reasons": [
+        "Macro ≥ 5.0 (6.1/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (PARTIAL)"
+      ],
+      "warnings": [
+        "Dilution : actions en hausse de 7.8%/an"
+      ],
+      "raison_principale": "Conditions insuffisantes (3/6)",
+      "urgence": 0,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": null,
+        "roe": 0.104067,
+        "cagr_ca_5ans": 0.136219,
+        "marge_fcf": 0.031545,
+        "rendement_actionnaire": 0.0,
+        "couverture_interets": null,
+        "marge_fcf_precedent": 0.028746
+      },
+      "piliers": {
+        "solidite": 4.547,
+        "croissance": null,
+        "agilite": 6.637,
+        "rentabilite": 1.541
+      }
+    },
+    {
       "ticker": "T",
       "decision": "SKIP",
-      "score_global": 43.21,
+      "score_global": 43.65,
       "score_fondamental": 4.504,
       "score_technique": 9.498,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.98,
@@ -6565,7 +6567,7 @@
       "univers": "US",
       "cours_actuel": 25.26,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6594,10 +6596,10 @@
     {
       "ticker": "ALL",
       "decision": "SKIP",
-      "score_global": 43.15,
+      "score_global": 43.58,
       "score_fondamental": 3.583,
       "score_technique": 16.12,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 9.48,
@@ -6610,7 +6612,7 @@
       "univers": "US",
       "cours_actuel": 213.669998,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -6641,10 +6643,10 @@
     {
       "ticker": "BRK-B",
       "decision": "SKIP",
-      "score_global": 42.93,
+      "score_global": 43.36,
       "score_fondamental": 3.632,
       "score_technique": 12.701,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.54,
@@ -6657,7 +6659,7 @@
       "univers": "US",
       "cours_actuel": 475.079987,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -6686,10 +6688,10 @@
     {
       "ticker": "SGO.PA",
       "decision": "SKIP",
-      "score_global": 42.86,
+      "score_global": 43.29,
       "score_fondamental": 4.867,
       "score_technique": 9.693,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.16,
@@ -6702,7 +6704,7 @@
       "univers": "FR",
       "cours_actuel": 80.18,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6729,10 +6731,10 @@
     {
       "ticker": "TFI.PA",
       "decision": "SKIP",
-      "score_global": 42.48,
+      "score_global": 42.91,
       "score_fondamental": 5.167,
       "score_technique": 6.108,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.01,
@@ -6745,7 +6747,7 @@
       "univers": "FR",
       "cours_actuel": 6.75,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6772,10 +6774,10 @@
     {
       "ticker": "RTX",
       "decision": "SKIP",
-      "score_global": 42.29,
+      "score_global": 42.72,
       "score_fondamental": 5.232,
       "score_technique": 8.659,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 3.0,
       "hiboo_note_20": 10.34,
@@ -6788,7 +6790,7 @@
       "univers": "US",
       "cours_actuel": 176.779999,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6819,10 +6821,10 @@
     {
       "ticker": "URW.PA",
       "decision": "SKIP",
-      "score_global": 41.91,
+      "score_global": 42.34,
       "score_fondamental": 4.922,
       "score_technique": 8.52,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 4.17,
@@ -6835,7 +6837,7 @@
       "univers": "FR",
       "cours_actuel": 102.150002,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -6862,10 +6864,10 @@
     {
       "ticker": "CAT",
       "decision": "SKIP",
-      "score_global": 41.61,
+      "score_global": 42.04,
       "score_fondamental": 3.86,
       "score_technique": 10.466,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 9.45,
@@ -6878,7 +6880,7 @@
       "univers": "US",
       "cours_actuel": 895.690002,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6907,10 +6909,10 @@
     {
       "ticker": "DUK",
       "decision": "SKIP",
-      "score_global": 41.41,
+      "score_global": 41.84,
       "score_fondamental": 2.831,
       "score_technique": 14.382,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 6.62,
@@ -6923,7 +6925,7 @@
       "univers": "US",
       "cours_actuel": 124.870003,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -6952,10 +6954,10 @@
     {
       "ticker": "ORA.PA",
       "decision": "SKIP",
-      "score_global": 40.78,
+      "score_global": 41.21,
       "score_fondamental": 4.907,
       "score_technique": 11.455,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 2.0,
       "hiboo_note_20": 7.48,
@@ -6968,7 +6970,7 @@
       "univers": "FR",
       "cours_actuel": 17.67,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -6997,10 +6999,10 @@
     {
       "ticker": "TTE.PA",
       "decision": "SKIP",
-      "score_global": 40.56,
+      "score_global": 41.0,
       "score_fondamental": 3.739,
       "score_technique": 11.908,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 6.02,
@@ -7013,7 +7015,7 @@
       "univers": "FR",
       "cours_actuel": 75.269997,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -7040,10 +7042,10 @@
     {
       "ticker": "COV.PA",
       "decision": "SKIP",
-      "score_global": 39.87,
+      "score_global": 40.3,
       "score_fondamental": 3.611,
       "score_technique": 14.728,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 3.0,
       "hiboo_note_20": 4.26,
@@ -7056,7 +7058,7 @@
       "univers": "FR",
       "cours_actuel": 55.799999,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7086,10 +7088,10 @@
     {
       "ticker": "AVGO",
       "decision": "SKIP",
-      "score_global": 39.25,
+      "score_global": 39.69,
       "score_fondamental": 4.187,
       "score_technique": 11.805,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 3.0,
       "hiboo_note_20": 10.37,
@@ -7102,7 +7104,7 @@
       "univers": "US",
       "cours_actuel": 412.559998,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -7134,10 +7136,10 @@
     {
       "ticker": "COP",
       "decision": "SKIP",
-      "score_global": 39.2,
+      "score_global": 39.63,
       "score_fondamental": 2.24,
       "score_technique": 14.542,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 9.95,
@@ -7150,7 +7152,7 @@
       "univers": "US",
       "cours_actuel": 114.879997,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7180,10 +7182,10 @@
     {
       "ticker": "GNFT.PA",
       "decision": "SKIP",
-      "score_global": 38.85,
+      "score_global": 39.28,
       "score_fondamental": 4.478,
       "score_technique": 14.237,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 5.0,
       "hiboo_note_20": 9.56,
@@ -7196,7 +7198,7 @@
       "univers": "FR",
       "cours_actuel": 8.4,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7228,10 +7230,10 @@
     {
       "ticker": "MS",
       "decision": "SKIP",
-      "score_global": 38.35,
+      "score_global": 38.79,
       "score_fondamental": 4.836,
       "score_technique": 13.31,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.0,
@@ -7244,7 +7246,7 @@
       "univers": "US",
       "cours_actuel": 190.169998,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7273,10 +7275,10 @@
     {
       "ticker": "ARAMI.PA",
       "decision": "SKIP",
-      "score_global": 38.11,
+      "score_global": 38.54,
       "score_fondamental": 5.892,
       "score_technique": 0.84,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.04,
@@ -7289,7 +7291,7 @@
       "univers": "FR",
       "cours_actuel": 4.0,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7316,10 +7318,10 @@
     {
       "ticker": "AIG",
       "decision": "SKIP",
-      "score_global": 37.97,
+      "score_global": 38.4,
       "score_fondamental": 3.116,
       "score_technique": 9.808,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 6.67,
@@ -7332,7 +7334,7 @@
       "univers": "US",
       "cours_actuel": 76.43,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7361,10 +7363,10 @@
     {
       "ticker": "AXP",
       "decision": "SKIP",
-      "score_global": 37.76,
+      "score_global": 38.2,
       "score_fondamental": 5.0,
       "score_technique": 12.064,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.0,
@@ -7377,7 +7379,7 @@
       "univers": "US",
       "cours_actuel": 318.690002,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7406,10 +7408,10 @@
     {
       "ticker": "MERY.PA",
       "decision": "SKIP",
-      "score_global": 37.45,
+      "score_global": 37.88,
       "score_fondamental": 4.149,
       "score_technique": 10.149,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 3.0,
       "hiboo_note_20": 2.83,
@@ -7422,7 +7424,7 @@
       "univers": "FR",
       "cours_actuel": 11.66,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7452,10 +7454,10 @@
     {
       "ticker": "USB",
       "decision": "SKIP",
-      "score_global": 37.4,
+      "score_global": 37.83,
       "score_fondamental": 3.774,
       "score_technique": 16.603,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.0,
@@ -7468,7 +7470,7 @@
       "univers": "US",
       "cours_actuel": 55.310001,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7497,10 +7499,10 @@
     {
       "ticker": "GS",
       "decision": "SKIP",
-      "score_global": 36.76,
+      "score_global": 37.19,
       "score_fondamental": 5.0,
       "score_technique": 11.057,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.0,
@@ -7513,7 +7515,7 @@
       "univers": "US",
       "cours_actuel": 925.869995,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7542,10 +7544,10 @@
     {
       "ticker": "AFL",
       "decision": "SKIP",
-      "score_global": 36.65,
+      "score_global": 37.08,
       "score_fondamental": 2.222,
       "score_technique": 12.057,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 6.67,
@@ -7558,7 +7560,7 @@
       "univers": "US",
       "cours_actuel": 113.599998,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7587,10 +7589,10 @@
     {
       "ticker": "ERA.PA",
       "decision": "SKIP",
-      "score_global": 34.59,
+      "score_global": 35.02,
       "score_fondamental": 4.278,
       "score_technique": 11.274,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.5,
       "penalites": 6.0,
       "hiboo_note_20": 5.9,
@@ -7603,7 +7605,7 @@
       "univers": "FR",
       "cours_actuel": 58.299999,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7635,10 +7637,10 @@
     {
       "ticker": "ENGI.PA",
       "decision": "SKIP",
-      "score_global": 34.24,
+      "score_global": 34.67,
       "score_fondamental": 3.89,
       "score_technique": 9.98,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 5.0,
       "hiboo_note_20": 8.38,
@@ -7651,7 +7653,7 @@
       "univers": "FR",
       "cours_actuel": 26.860001,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -7682,10 +7684,10 @@
     {
       "ticker": "CB",
       "decision": "SKIP",
-      "score_global": 33.93,
+      "score_global": 34.36,
       "score_fondamental": 3.333,
       "score_technique": 14.895,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 12.45,
@@ -7698,7 +7700,7 @@
       "univers": "US",
       "cours_actuel": 321.279999,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7727,10 +7729,10 @@
     {
       "ticker": "MET",
       "decision": "SKIP",
-      "score_global": 33.52,
+      "score_global": 33.95,
       "score_fondamental": 3.333,
       "score_technique": 14.483,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 11.82,
@@ -7743,7 +7745,7 @@
       "univers": "US",
       "cours_actuel": 78.82,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7772,10 +7774,10 @@
     {
       "ticker": "PNC",
       "decision": "SKIP",
-      "score_global": 32.58,
+      "score_global": 33.01,
       "score_fondamental": 2.417,
       "score_technique": 17.21,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 6.38,
@@ -7788,7 +7790,7 @@
       "univers": "US",
       "cours_actuel": 219.289993,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7817,10 +7819,10 @@
     {
       "ticker": "COF",
       "decision": "SKIP",
-      "score_global": 31.7,
+      "score_global": 32.13,
       "score_fondamental": 3.333,
       "score_technique": 12.664,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 10.0,
@@ -7833,7 +7835,7 @@
       "univers": "US",
       "cours_actuel": 192.589996,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7862,10 +7864,10 @@
     {
       "ticker": "INTC",
       "decision": "SKIP",
-      "score_global": 30.21,
+      "score_global": 30.64,
       "score_fondamental": 2.512,
       "score_technique": 10.959,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.5,
       "penalites": 5.0,
       "hiboo_note_20": 3.33,
@@ -7878,7 +7880,7 @@
       "univers": "US",
       "cours_actuel": 109.620003,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -7911,10 +7913,10 @@
     {
       "ticker": "SRE",
       "decision": "SKIP",
-      "score_global": 27.81,
+      "score_global": 28.24,
       "score_fondamental": 0.826,
       "score_technique": 18.805,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 10.0,
       "penalites": 0.0,
       "hiboo_note_20": 0.0,
@@ -7927,7 +7929,7 @@
       "univers": "US",
       "cours_actuel": 91.57,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -7956,10 +7958,10 @@
     {
       "ticker": "AMUN.PA",
       "decision": "SKIP",
-      "score_global": 26.81,
+      "score_global": 27.24,
       "score_fondamental": 2.335,
       "score_technique": 13.769,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 0.0,
       "hiboo_note_20": 7.0,
@@ -7972,7 +7974,7 @@
       "univers": "FR",
       "cours_actuel": 84.599998,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -8000,10 +8002,10 @@
     {
       "ticker": "AVT.PA",
       "decision": "SKIP",
-      "score_global": 26.63,
+      "score_global": 27.06,
       "score_fondamental": 1.552,
       "score_technique": 20.223,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 4.5,
       "penalites": 10.0,
       "hiboo_note_20": 0.0,
@@ -8016,7 +8018,7 @@
       "univers": "FR",
       "cours_actuel": 0.0894,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -8049,10 +8051,10 @@
     {
       "ticker": "DEEZR.PA",
       "decision": "SKIP",
-      "score_global": 26.31,
+      "score_global": 26.74,
       "score_fondamental": 5.018,
       "score_technique": 3.534,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.0,
       "penalites": 9.0,
       "hiboo_note_20": 10.3,
@@ -8065,7 +8067,7 @@
       "univers": "FR",
       "cours_actuel": 1.15,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (COMPLETE)"
       ],
@@ -8098,10 +8100,10 @@
     {
       "ticker": "GLE.PA",
       "decision": "SKIP",
-      "score_global": 25.53,
+      "score_global": 25.96,
       "score_fondamental": 3.826,
       "score_technique": 9.524,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 3.0,
       "hiboo_note_20": 5.31,
@@ -8114,7 +8116,7 @@
       "univers": "FR",
       "cours_actuel": 69.629997,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -8144,10 +8146,10 @@
     {
       "ticker": "EAPI.PA",
       "decision": "SKIP",
-      "score_global": 25.0,
+      "score_global": 25.43,
       "score_fondamental": 3.444,
       "score_technique": 2.023,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.5,
       "penalites": 3.0,
       "hiboo_note_20": 0.0,
@@ -8160,7 +8162,7 @@
       "univers": "FR",
       "cours_actuel": 1.504,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -8191,10 +8193,10 @@
     {
       "ticker": "ABNX.PA",
       "decision": "SKIP",
-      "score_global": 24.26,
+      "score_global": 24.69,
       "score_fondamental": 1.934,
       "score_technique": 10.326,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 6.5,
       "penalites": 6.0,
       "hiboo_note_20": 0.0,
@@ -8207,7 +8209,7 @@
       "univers": "FR",
       "cours_actuel": 3.6,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],
@@ -8240,10 +8242,10 @@
     {
       "ticker": "BNP.PA",
       "decision": "SKIP",
-      "score_global": 19.29,
+      "score_global": 19.72,
       "score_fondamental": 1.946,
       "score_technique": 10.805,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 8.0,
       "penalites": 3.0,
       "hiboo_note_20": 5.84,
@@ -8256,7 +8258,7 @@
       "univers": "FR",
       "cours_actuel": 93.239998,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)"
       ],
       "warnings": [
@@ -8286,10 +8288,10 @@
     {
       "ticker": "ALFOR.PA",
       "decision": "SKIP",
-      "score_global": 8.7,
+      "score_global": 9.14,
       "score_fondamental": 2.251,
       "score_technique": 0.0,
-      "score_macro": 5.7,
+      "score_macro": 6.132,
       "score_qualite": 2.0,
       "penalites": 8.0,
       "hiboo_note_20": 4.0,
@@ -8302,7 +8304,7 @@
       "univers": "FR",
       "cours_actuel": 0.295,
       "reasons": [
-        "Macro ≥ 5.0 (5.7/10)",
+        "Macro ≥ 5.0 (6.1/10)",
         "Marché NORMAL (= NORMAL)",
         "Qualité données (PARTIAL)"
       ],

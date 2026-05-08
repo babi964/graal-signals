@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T19:56:09.343947",
+    "generated_at": "2026-05-08T20:38:01.397600",
     "date": "2026-05-08",
     "version": "8.0",
     "market_state": "NORMAL",
@@ -16,10 +16,10 @@
     "vix": 17.08,
     "hy_oas": 2.79,
     "spy_ret_20d": 0.07671,
-    "n_tickers_total": 178,
+    "n_tickers_total": 180,
     "n_buy": 16,
     "n_sell": 0,
-    "n_watch": 90,
+    "n_watch": 91,
     "n_hold": 0
   },
   "signals": [
@@ -2580,6 +2580,52 @@
         "croissance": 7.671,
         "agilite": 9.347,
         "rentabilite": 3.993
+      }
+    },
+    {
+      "ticker": "PEP",
+      "decision": "WATCH",
+      "score_global": 56.22,
+      "score_fondamental": 3.91,
+      "score_technique": 24.334,
+      "score_macro": 6.242,
+      "score_qualite": 10.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 11.12,
+      "sigma": -2.0611,
+      "r_squared": 0.9532,
+      "pente_annuelle_pct": 10.26,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 4,
+      "compte": "CTO_US",
+      "univers": "US",
+      "cours_actuel": 156.289993,
+      "reasons": [
+        "σ ≤ -0.5 (-2.06σ)",
+        "Macro ≥ 5.0 (6.2/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Historique limité : 3 exercices (≥ 5 recommandés pour CAGR fiables)"
+      ],
+      "raison_principale": "4/6 conditions BUY remplies",
+      "urgence": 0,
+      "hiboo_ratios": {
+        "dette_ebitda": 2.831025,
+        "roce": 0.154056,
+        "roe": 358.26087,
+        "cagr_ca_5ans": 0.013371,
+        "marge_fcf": 0.054746,
+        "rendement_actionnaire": 0.0,
+        "couverture_interets": null,
+        "marge_fcf_precedent": 0.065027
+      },
+      "piliers": {
+        "solidite": 2.378,
+        "croissance": 1.722,
+        "agilite": 7.762,
+        "rentabilite": 4.128
       }
     },
     {
@@ -5820,6 +5866,51 @@
         "croissance": 2.495,
         "agilite": 7.017,
         "rentabilite": 5.0
+      }
+    },
+    {
+      "ticker": "XOM",
+      "decision": "SKIP",
+      "score_global": 48.16,
+      "score_fondamental": 5.258,
+      "score_technique": 10.886,
+      "score_macro": 6.242,
+      "score_qualite": 10.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 8.87,
+      "sigma": 1.7295,
+      "r_squared": 0.5087,
+      "pente_annuelle_pct": 5.705,
+      "data_quality_flag": "PARTIAL",
+      "n_piliers_valides": 3,
+      "compte": "CTO_US",
+      "univers": "US",
+      "cours_actuel": 146.580002,
+      "reasons": [
+        "Macro ≥ 5.0 (6.2/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (PARTIAL)"
+      ],
+      "warnings": [
+        "Historique limité : 3 exercices (≥ 5 recommandés pour CAGR fiables)"
+      ],
+      "raison_principale": "Conditions insuffisantes (3/6)",
+      "urgence": 0,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": null,
+        "roe": 0.625005,
+        "cagr_ca_5ans": -0.018063,
+        "marge_fcf": 0.093713,
+        "rendement_actionnaire": 0.0,
+        "couverture_interets": null,
+        "marge_fcf_precedent": 0.076136
+      },
+      "piliers": {
+        "solidite": null,
+        "croissance": 3.333,
+        "agilite": 8.722,
+        "rentabilite": 3.333
       }
     },
     {

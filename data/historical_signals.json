@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T11:25:37.601370",
+    "generated_at": "2026-05-12T11:47:15.727582",
     "period_days": 30,
     "cutoff_date": "2026-04-12",
-    "n_records": 198
+    "n_records": 189
   },
   "history": [
     {
@@ -376,18 +376,6 @@
       "position_sigma": -1.4924,
       "r_squared": 0.9378,
       "pente_annuelle": 0.1386,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
-      "ticker": "FREY.PA",
-      "score_global": 32.38,
-      "score_fondamental": null,
-      "score_technique": 20.364,
-      "score_macro": 5.516,
-      "position_sigma": -0.299,
-      "r_squared": 0.906,
-      "pente_annuelle": 0.0997,
       "data_quality_flag": "UNAVAILABLE"
     },
     {
@@ -896,6 +884,18 @@
     },
     {
       "date": "2026-05-12",
+      "ticker": "VMX.PA",
+      "score_global": 29.38,
+      "score_fondamental": null,
+      "score_technique": 17.366,
+      "score_macro": 5.516,
+      "position_sigma": -1.4456,
+      "r_squared": 0.6379,
+      "pente_annuelle": -0.15499,
+      "data_quality_flag": "UNAVAILABLE"
+    },
+    {
+      "date": "2026-05-12",
       "ticker": "PG",
       "score_global": 29.27,
       "score_fondamental": null,
@@ -976,18 +976,6 @@
       "position_sigma": -3.5344,
       "r_squared": 0.741,
       "pente_annuelle": 0.12852,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
-      "ticker": "ATLD.PA",
-      "score_global": 28.59,
-      "score_fondamental": null,
-      "score_technique": 18.573,
-      "score_macro": 5.516,
-      "position_sigma": -1.5399,
-      "r_squared": 0.9434,
-      "pente_annuelle": 0.14826,
       "data_quality_flag": "UNAVAILABLE"
     },
     {
@@ -1136,18 +1124,6 @@
     },
     {
       "date": "2026-05-12",
-      "ticker": "ALGAE.PA",
-      "score_global": 27.74,
-      "score_fondamental": null,
-      "score_technique": 16.228,
-      "score_macro": 5.516,
-      "position_sigma": 0.3794,
-      "r_squared": 0.7703,
-      "pente_annuelle": -0.20503,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
       "ticker": "GNFT.PA",
       "score_global": 27.64,
       "score_fondamental": null,
@@ -1192,18 +1168,6 @@
       "position_sigma": 0.0781,
       "r_squared": 0.9445,
       "pente_annuelle": 0.26285,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
-      "ticker": "VMX.PA",
-      "score_global": 27.38,
-      "score_fondamental": null,
-      "score_technique": 17.366,
-      "score_macro": 5.516,
-      "position_sigma": -1.4456,
-      "r_squared": 0.6379,
-      "pente_annuelle": -0.15499,
       "data_quality_flag": "UNAVAILABLE"
     },
     {
@@ -1472,18 +1436,6 @@
     },
     {
       "date": "2026-05-12",
-      "ticker": "GUI.PA",
-      "score_global": 26.27,
-      "score_fondamental": null,
-      "score_technique": 16.259,
-      "score_macro": 5.516,
-      "position_sigma": -1.1984,
-      "r_squared": 0.6132,
-      "pente_annuelle": 0.17196,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
       "ticker": "DBV.PA",
       "score_global": 26.22,
       "score_fondamental": null,
@@ -1724,6 +1676,18 @@
     },
     {
       "date": "2026-05-12",
+      "ticker": "ADOC.PA",
+      "score_global": 24.81,
+      "score_fondamental": null,
+      "score_technique": 12.791,
+      "score_macro": 5.516,
+      "position_sigma": -0.1592,
+      "r_squared": 0.2992,
+      "pente_annuelle": -0.10499,
+      "data_quality_flag": "UNAVAILABLE"
+    },
+    {
+      "date": "2026-05-12",
       "ticker": "EXA.PA",
       "score_global": 24.77,
       "score_fondamental": null,
@@ -1732,18 +1696,6 @@
       "position_sigma": 2.4542,
       "r_squared": 0.6478,
       "pente_annuelle": 0.14365,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
-      "ticker": "CEN.PA",
-      "score_global": 24.69,
-      "score_fondamental": null,
-      "score_technique": 14.672,
-      "score_macro": 5.516,
-      "position_sigma": -1.3839,
-      "r_squared": 0.6952,
-      "pente_annuelle": 0.1184,
       "data_quality_flag": "UNAVAILABLE"
     },
     {
@@ -1828,18 +1780,6 @@
       "position_sigma": 1.5406,
       "r_squared": 0.1572,
       "pente_annuelle": -0.11169,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
-      "ticker": "SIGHT.PA",
-      "score_global": 24.25,
-      "score_fondamental": null,
-      "score_technique": 14.23,
-      "score_macro": 5.516,
-      "position_sigma": -1.4095,
-      "r_squared": 0.6476,
-      "pente_annuelle": -0.3213,
       "data_quality_flag": "UNAVAILABLE"
     },
     {
@@ -1948,18 +1888,6 @@
       "position_sigma": -0.3783,
       "r_squared": 0.9735,
       "pente_annuelle": 0.12885,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
-      "ticker": "ADOC.PA",
-      "score_global": 22.81,
-      "score_fondamental": null,
-      "score_technique": 12.791,
-      "score_macro": 5.516,
-      "position_sigma": -0.1592,
-      "r_squared": 0.2992,
-      "pente_annuelle": -0.10499,
       "data_quality_flag": "UNAVAILABLE"
     },
     {
@@ -2252,30 +2180,6 @@
     },
     {
       "date": "2026-05-12",
-      "ticker": "SFCA.PA",
-      "score_global": 19.61,
-      "score_fondamental": null,
-      "score_technique": 9.594,
-      "score_macro": 5.516,
-      "position_sigma": 0.6992,
-      "r_squared": 0.0016,
-      "pente_annuelle": -0.00261,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
-      "ticker": "EXE.PA",
-      "score_global": 19.09,
-      "score_fondamental": null,
-      "score_technique": 9.079,
-      "score_macro": 5.516,
-      "position_sigma": -1.7976,
-      "r_squared": 0.1604,
-      "pente_annuelle": 0.03381,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
       "ticker": "APH",
       "score_global": 19.01,
       "score_fondamental": null,
@@ -2352,18 +2256,6 @@
       "score_global": 14.0,
       "score_fondamental": null,
       "score_technique": 1.987,
-      "score_macro": 5.516,
-      "position_sigma": null,
-      "r_squared": null,
-      "pente_annuelle": null,
-      "data_quality_flag": "UNAVAILABLE"
-    },
-    {
-      "date": "2026-05-12",
-      "ticker": "ARAMI.PA",
-      "score_global": 13.73,
-      "score_fondamental": null,
-      "score_technique": 0.217,
       "score_macro": 5.516,
       "position_sigma": null,
       "r_squared": null,

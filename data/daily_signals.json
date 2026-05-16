@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T21:00:43.367842",
+    "generated_at": "2026-05-16T21:23:42.693152",
     "date": "2026-05-16",
     "version": "8.2",
     "market_state": "NORMAL",
@@ -17,10 +17,10 @@
     "hy_oas": 2.76,
     "spy_ret_20d": 0.04296,
     "n_tickers_total": 145,
-    "n_buy": 4,
+    "n_buy": 5,
     "n_sell": 0,
     "n_take_profit": 0,
-    "n_watch": 52,
+    "n_watch": 51,
     "n_hold": 0
   },
   "signals": [
@@ -79,6 +79,65 @@
         "croissance": null,
         "agilite": 7.617,
         "rentabilite": 4.005
+      }
+    },
+    {
+      "ticker": "ITP.PA",
+      "decision": "BUY",
+      "score_global": 63.33,
+      "score_global_effective": 65.83,
+      "soldes_bonus": 2.5,
+      "score_fondamental": 7.568,
+      "score_technique": 17.192,
+      "score_macro": 5.867,
+      "score_qualite": 10.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 15.58,
+      "sigma": -1.9751,
+      "r_squared": 0.6767,
+      "pente_annuelle_pct": 14.107,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 22.219999,
+      "reasons": [
+        "Score global ≥ 62 (65.8)",
+        "Fondamental ≥ 6.5 (7.57/10)",
+        "σ ≤ -1.0 (-1.98σ)",
+        "Macro ≥ 5.5 (5.9/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Baisse de marge récurrente",
+        "Aucun événement management explicite disponible",
+        "Baisse de marge récurrente sur plusieurs trimestres",
+        "Aucun événement management explicite disponible"
+      ],
+      "raison_principale": "Toutes conditions BUY (6/6)",
+      "urgence": 0,
+      "tranche": 1,
+      "n_tranches": 3,
+      "prix_limite": 22.22,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": 0.206835,
+        "roe": 0.173609,
+        "cagr_ca_5ans": 0.158138,
+        "marge_fcf": 0.203099,
+        "rendement_actionnaire": 0.0
+      },
+      "piliers": {
+        "solidite": 8.96,
+        "croissance": 6.614,
+        "agilite": 8.0,
+        "rentabilite": 6.315
       }
     },
     {
@@ -307,65 +366,6 @@
         "croissance": null,
         "agilite": null,
         "rentabilite": 6.667
-      }
-    },
-    {
-      "ticker": "ITP.PA",
-      "decision": "WATCH",
-      "score_global": 63.33,
-      "score_global_effective": 65.83,
-      "soldes_bonus": 2.5,
-      "score_fondamental": 7.568,
-      "score_technique": 17.192,
-      "score_macro": 5.867,
-      "score_qualite": 10.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 15.58,
-      "sigma": -1.9751,
-      "r_squared": 0.6767,
-      "pente_annuelle_pct": 14.107,
-      "data_quality_flag": "COMPLETE",
-      "n_piliers_valides": 5,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 22.219999,
-      "reasons": [
-        "Score global ≥ 62 (65.8)",
-        "Fondamental ≥ 6.5 (7.57/10)",
-        "σ ≤ -1.0 (-1.98σ)",
-        "Macro ≥ 5.5 (5.9/10)",
-        "Marché NORMAL (= NORMAL)",
-        "Qualité données (COMPLETE)"
-      ],
-      "warnings": [
-        "Baisse de marge récurrente",
-        "Aucun événement management explicite disponible",
-        "Baisse de marge récurrente sur plusieurs trimestres",
-        "Aucun événement management explicite disponible"
-      ],
-      "raison_principale": "Toutes conditions BUY (6/6)",
-      "urgence": 0,
-      "tranche": 1,
-      "n_tranches": 3,
-      "prix_limite": 22.22,
-      "fraction_suggeree": null,
-      "palier_declenche": null,
-      "gain_pct": null,
-      "pnl_latent": null,
-      "position_recommendation": null,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": 0.206835,
-        "roe": 0.173609,
-        "cagr_ca_5ans": 0.158138,
-        "marge_fcf": 0.203099,
-        "rendement_actionnaire": 0.0
-      },
-      "piliers": {
-        "solidite": 8.96,
-        "croissance": 6.614,
-        "agilite": 8.0,
-        "rentabilite": 6.315
       }
     },
     {

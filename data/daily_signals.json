@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T20:50:39.891897",
+    "generated_at": "2026-05-16T21:00:43.367842",
     "date": "2026-05-16",
     "version": "8.2",
     "market_state": "NORMAL",
@@ -17,10 +17,10 @@
     "hy_oas": 2.76,
     "spy_ret_20d": 0.04296,
     "n_tickers_total": 145,
-    "n_buy": 5,
+    "n_buy": 4,
     "n_sell": 0,
     "n_take_profit": 0,
-    "n_watch": 51,
+    "n_watch": 52,
     "n_hold": 0
   },
   "signals": [
@@ -194,64 +194,6 @@
         "croissance": null,
         "agilite": 6.94,
         "rentabilite": 3.19
-      }
-    },
-    {
-      "ticker": "EL.PA",
-      "decision": "BUY",
-      "score_global": 58.63,
-      "score_global_effective": 63.63,
-      "soldes_bonus": 5.0,
-      "score_fondamental": 7.433,
-      "score_technique": 19.029,
-      "score_macro": 5.867,
-      "score_qualite": 6.0,
-      "penalites": 2.0,
-      "hiboo_note_20": 8.97,
-      "sigma": -2.4017,
-      "r_squared": 0.8913,
-      "pente_annuelle_pct": 12.157,
-      "data_quality_flag": "PARTIAL",
-      "n_piliers_valides": 4,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 173.25,
-      "reasons": [
-        "Score global ≥ 62 (63.6)",
-        "Fondamental ≥ 6.5 (7.43/10)",
-        "σ ≤ -1.0 (-2.40σ)",
-        "Macro ≥ 5.5 (5.9/10)",
-        "Marché NORMAL (= NORMAL)",
-        "Qualité données (PARTIAL)"
-      ],
-      "warnings": [
-        "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Données fondamentales STALE −2pts"
-      ],
-      "raison_principale": "Toutes conditions BUY (6/6)",
-      "urgence": 0,
-      "tranche": 1,
-      "n_tranches": 3,
-      "prix_limite": 173.25,
-      "fraction_suggeree": null,
-      "palier_declenche": null,
-      "gain_pct": null,
-      "pnl_latent": null,
-      "position_recommendation": null,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": null,
-        "roe": 0.057535,
-        "cagr_ca_5ans": 0.144862,
-        "marge_fcf": null,
-        "rendement_actionnaire": 0.0
-      },
-      "piliers": {
-        "solidite": 9.698,
-        "croissance": 5.988,
-        "agilite": null,
-        "rentabilite": 4.484
       }
     },
     {
@@ -924,6 +866,64 @@
         "croissance": null,
         "agilite": 6.039,
         "rentabilite": 6.277
+      }
+    },
+    {
+      "ticker": "EL.PA",
+      "decision": "WATCH",
+      "score_global": 58.63,
+      "score_global_effective": 63.63,
+      "soldes_bonus": 5.0,
+      "score_fondamental": 7.433,
+      "score_technique": 19.029,
+      "score_macro": 5.867,
+      "score_qualite": 6.0,
+      "penalites": 2.0,
+      "hiboo_note_20": 8.97,
+      "sigma": -2.4017,
+      "r_squared": 0.8913,
+      "pente_annuelle_pct": 12.157,
+      "data_quality_flag": "PARTIAL",
+      "n_piliers_valides": 4,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 173.25,
+      "reasons": [
+        "Score global ≥ 62 (63.6)",
+        "Fondamental ≥ 6.5 (7.43/10)",
+        "σ ≤ -1.0 (-2.40σ)",
+        "Macro ≥ 5.5 (5.9/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (PARTIAL)"
+      ],
+      "warnings": [
+        "Aucun événement management explicite disponible",
+        "Aucun événement management explicite disponible",
+        "Données fondamentales STALE −2pts"
+      ],
+      "raison_principale": "Toutes conditions BUY (6/6)",
+      "urgence": 0,
+      "tranche": 1,
+      "n_tranches": 3,
+      "prix_limite": 173.25,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": null,
+        "roe": 0.057535,
+        "cagr_ca_5ans": 0.144862,
+        "marge_fcf": null,
+        "rendement_actionnaire": 0.0
+      },
+      "piliers": {
+        "solidite": 9.698,
+        "croissance": 5.988,
+        "agilite": null,
+        "rentabilite": 4.484
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T19:21:52.022124",
+    "generated_at": "2026-05-17T20:00:29.923172",
     "date": "2026-05-17",
     "version": "8.2",
     "market_state": "NORMAL",
@@ -16,11 +16,11 @@
     "vix": 18.43,
     "hy_oas": 2.76,
     "spy_ret_20d": 0.04296,
-    "n_tickers_total": 141,
+    "n_tickers_total": 146,
     "n_buy": 2,
     "n_sell": 0,
     "n_take_profit": 0,
-    "n_watch": 41,
+    "n_watch": 44,
     "n_hold": 0
   },
   "signals": [
@@ -196,6 +196,61 @@
         "croissance": 5.163,
         "agilite": 8.0,
         "rentabilite": 6.315
+      }
+    },
+    {
+      "ticker": "SU.PA",
+      "decision": "WATCH",
+      "score_global": 60.85,
+      "score_global_effective": 60.85,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 7.45,
+      "score_technique": 17.186,
+      "score_macro": 5.867,
+      "score_qualite": 8.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 13.58,
+      "sigma": 0.3295,
+      "r_squared": 0.9348,
+      "pente_annuelle_pct": 17.36,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 263.75,
+      "reasons": [
+        "Fondamental ≥ 6.5 (7.45/10)",
+        "Macro ≥ 5.5 (5.9/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Aucun événement management explicite disponible",
+        "Aucun événement management explicite disponible"
+      ],
+      "raison_principale": "4/6 conditions BUY remplies",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": 2.13569,
+        "roce": 0.152734,
+        "roe": 0.172032,
+        "cagr_ca_5ans": 0.055185,
+        "marge_fcf": 0.114266,
+        "rendement_actionnaire": 0.0
+      },
+      "piliers": {
+        "solidite": 6.678,
+        "croissance": 8.383,
+        "agilite": 8.802,
+        "rentabilite": 5.132
       }
     },
     {
@@ -1541,6 +1596,64 @@
       }
     },
     {
+      "ticker": "AM.PA",
+      "decision": "WATCH",
+      "score_global": 52.32,
+      "score_global_effective": 52.32,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 6.699,
+      "score_technique": 11.658,
+      "score_macro": 5.867,
+      "score_qualite": 8.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 15.99,
+      "sigma": 0.48,
+      "r_squared": 0.6952,
+      "pente_annuelle_pct": 12.118,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 275.399994,
+      "reasons": [
+        "Fondamental ≥ 6.5 (6.70/10)",
+        "Macro ≥ 5.5 (5.9/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Baisse de marge récurrente",
+        "Dégradation composite des marges",
+        "Aucun événement management explicite disponible",
+        "Baisse de marge récurrente sur plusieurs trimestres",
+        "Aucun événement management explicite disponible"
+      ],
+      "raison_principale": "4/6 conditions BUY remplies",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": 0.139918,
+        "roce": 0.182047,
+        "roe": 0.146841,
+        "cagr_ca_5ans": 0.02233,
+        "marge_fcf": 0.222704,
+        "rendement_actionnaire": 0.017176
+      },
+      "piliers": {
+        "solidite": 6.644,
+        "croissance": 4.357,
+        "agilite": 7.804,
+        "rentabilite": 8.555
+      }
+    },
+    {
       "ticker": "BIG.PA",
       "decision": "WATCH",
       "score_global": 50.84,
@@ -2101,6 +2214,64 @@
         "croissance": 6.834,
         "agilite": null,
         "rentabilite": 5.0
+      }
+    },
+    {
+      "ticker": "SK.PA",
+      "decision": "WATCH",
+      "score_global": 43.73,
+      "score_global_effective": 43.73,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 4.891,
+      "score_technique": 13.297,
+      "score_macro": 5.867,
+      "score_qualite": 8.0,
+      "penalites": 3.0,
+      "hiboo_note_20": 7.32,
+      "sigma": -1.1248,
+      "r_squared": 0.4439,
+      "pente_annuelle_pct": -7.578,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 52.299999,
+      "reasons": [
+        "σ ≤ -1.0 (-1.12σ)",
+        "Macro ≥ 5.5 (5.9/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Baisse de marge récurrente",
+        "Aucun événement management explicite disponible",
+        "Baisse de marge récurrente sur plusieurs trimestres",
+        "Aucun événement management explicite disponible",
+        "FCF négatif (marge=-0.2%) −3pts"
+      ],
+      "raison_principale": "4/6 conditions BUY remplies",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": 4.618711,
+        "roce": 0.075802,
+        "roe": 0.075599,
+        "cagr_ca_5ans": 0.008706,
+        "marge_fcf": -0.002105,
+        "rendement_actionnaire": 0.071794
+      },
+      "piliers": {
+        "solidite": 8.505,
+        "croissance": 0.58,
+        "agilite": 1.543,
+        "rentabilite": 5.517
       }
     },
     {
@@ -2718,6 +2889,63 @@
         "croissance": 3.55,
         "agilite": 6.718,
         "rentabilite": 6.387
+      }
+    },
+    {
+      "ticker": "ML.PA",
+      "decision": "SKIP",
+      "score_global": 55.6,
+      "score_global_effective": 55.6,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 5.925,
+      "score_technique": 18.029,
+      "score_macro": 5.867,
+      "score_qualite": 8.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 12.38,
+      "sigma": -0.6264,
+      "r_squared": 0.8076,
+      "pente_annuelle_pct": 7.5,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 31.32,
+      "reasons": [
+        "Macro ≥ 5.5 (5.9/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Baisse de marge récurrente",
+        "Recul du chiffre d'affaires récurrent",
+        "Aucun événement management explicite disponible",
+        "Baisse de marge récurrente sur plusieurs trimestres",
+        "Baisse du chiffre d'affaires sur plusieurs trimestres"
+      ],
+      "raison_principale": "Conditions insuffisantes (3/6)",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": 1.421687,
+        "roce": 0.09493,
+        "roe": 0.091965,
+        "cagr_ca_5ans": -0.031257,
+        "marge_fcf": 0.068867,
+        "rendement_actionnaire": 0.04361
+      },
+      "piliers": {
+        "solidite": 8.728,
+        "croissance": 0.0,
+        "agilite": 7.848,
+        "rentabilite": 7.506
       }
     },
     {
@@ -3656,6 +3884,61 @@
         "croissance": 4.566,
         "agilite": 7.367,
         "rentabilite": 5.948
+      }
+    },
+    {
+      "ticker": "TFI.PA",
+      "decision": "SKIP",
+      "score_global": 49.51,
+      "score_global_effective": 49.51,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 5.575,
+      "score_technique": 13.343,
+      "score_macro": 5.867,
+      "score_qualite": 8.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 12.01,
+      "sigma": -0.7389,
+      "r_squared": 0.566,
+      "pente_annuelle_pct": 8.313,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 6.83,
+      "reasons": [
+        "Macro ≥ 5.5 (5.9/10)",
+        "Marché NORMAL (= NORMAL)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Dégradation composite des marges",
+        "Aucun événement management explicite disponible",
+        "Aucun événement management explicite disponible"
+      ],
+      "raison_principale": "Conditions insuffisantes (3/6)",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": 0.329661,
+        "roce": 0.110739,
+        "roe": 0.074236,
+        "cagr_ca_5ans": -0.028844,
+        "marge_fcf": 0.042797,
+        "rendement_actionnaire": 0.087567
+      },
+      "piliers": {
+        "solidite": 8.065,
+        "croissance": 0.0,
+        "agilite": 4.952,
+        "rentabilite": 7.564
       }
     },
     {

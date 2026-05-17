@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T19:02:55.763192",
+    "generated_at": "2026-05-17T19:21:52.022124",
     "date": "2026-05-17",
     "version": "8.2",
     "market_state": "NORMAL",
@@ -17,10 +17,10 @@
     "hy_oas": 2.76,
     "spy_ret_20d": 0.04296,
     "n_tickers_total": 141,
-    "n_buy": 3,
+    "n_buy": 2,
     "n_sell": 0,
     "n_take_profit": 0,
-    "n_watch": 40,
+    "n_watch": 41,
     "n_hold": 0
   },
   "signals": [
@@ -141,7 +141,7 @@
     },
     {
       "ticker": "ITP.PA",
-      "decision": "BUY",
+      "decision": "WATCH",
       "score_global": 62.06,
       "score_global_effective": 64.56,
       "soldes_bonus": 2.5,

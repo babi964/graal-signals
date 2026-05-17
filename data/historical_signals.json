@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T19:21:52.036707",
+    "generated_at": "2026-05-17T20:00:29.939495",
     "period_days": 30,
     "cutoff_date": "2026-04-17",
-    "n_records": 141
+    "n_records": 146
   },
   "history": [
     {
@@ -40,6 +40,18 @@
       "position_sigma": -1.9751,
       "r_squared": 0.6767,
       "pente_annuelle": 0.14107,
+      "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "SU.PA",
+      "score_global": 60.85,
+      "score_fondamental": 7.45,
+      "score_technique": 17.186,
+      "score_macro": 5.867,
+      "position_sigma": 0.3295,
+      "r_squared": 0.9348,
+      "pente_annuelle": 0.1736,
       "data_quality_flag": "COMPLETE"
     },
     {
@@ -232,6 +244,18 @@
       "position_sigma": -1.6051,
       "r_squared": 0.8131,
       "pente_annuelle": 0.16163,
+      "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "ML.PA",
+      "score_global": 55.6,
+      "score_fondamental": 5.925,
+      "score_technique": 18.029,
+      "score_macro": 5.867,
+      "position_sigma": -0.6264,
+      "r_squared": 0.8076,
+      "pente_annuelle": 0.075,
       "data_quality_flag": "COMPLETE"
     },
     {
@@ -524,6 +548,18 @@
     },
     {
       "date": "2026-05-17",
+      "ticker": "AM.PA",
+      "score_global": 52.32,
+      "score_fondamental": 6.699,
+      "score_technique": 11.658,
+      "score_macro": 5.867,
+      "position_sigma": 0.48,
+      "r_squared": 0.6952,
+      "pente_annuelle": 0.12118,
+      "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-05-17",
       "ticker": "TEP.PA",
       "score_global": 51.82,
       "score_fondamental": 5.964,
@@ -616,6 +652,18 @@
       "position_sigma": 1.5753,
       "r_squared": 0.338,
       "pente_annuelle": 0.05666,
+      "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "TFI.PA",
+      "score_global": 49.51,
+      "score_fondamental": 5.575,
+      "score_technique": 13.343,
+      "score_macro": 5.867,
+      "position_sigma": -0.7389,
+      "r_squared": 0.566,
+      "pente_annuelle": 0.08313,
       "data_quality_flag": "COMPLETE"
     },
     {
@@ -1048,6 +1096,18 @@
       "position_sigma": -0.8486,
       "r_squared": 0.5044,
       "pente_annuelle": -0.2069,
+      "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "SK.PA",
+      "score_global": 43.73,
+      "score_fondamental": 4.891,
+      "score_technique": 13.297,
+      "score_macro": 5.867,
+      "position_sigma": -1.1248,
+      "r_squared": 0.4439,
+      "pente_annuelle": -0.07578,
       "data_quality_flag": "COMPLETE"
     },
     {

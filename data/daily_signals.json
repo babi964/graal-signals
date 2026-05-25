@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T09:33:53.246889",
-    "date": "2026-05-24",
+    "generated_at": "2026-05-25T11:38:19.347510",
+    "date": "2026-05-25",
     "version": "8.2",
     "market_state": "NORMAL",
     "crisis_score": 0.0,
@@ -3309,7 +3309,7 @@
       "n_piliers_valides": 3,
       "compte": "PEA",
       "univers": "FR",
-      "cours_actuel": 62.200001,
+      "cours_actuel": 58.599998,
       "reasons": [
         "Macro ≥ 5.5 (6.2/10)",
         "Marché NORMAL (= NORMAL)",

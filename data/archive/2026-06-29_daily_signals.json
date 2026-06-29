@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T16:21:21.751854",
+    "generated_at": "2026-06-29T16:40:26.663718",
     "date": "2026-06-29",
     "version": "8.2",
     "market_state": "STRESS",
@@ -20,10 +20,81 @@
     "n_buy": 0,
     "n_sell": 0,
     "n_take_profit": 0,
-    "n_watch": 10,
+    "n_watch": 12,
     "n_hold": 0
   },
   "signals": [
+    {
+      "ticker": "ITP.PA",
+      "decision": "WATCH",
+      "score_global": 63.94,
+      "score_global_effective": 63.94,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 7.73,
+      "score_technique": 18.398,
+      "score_macro": 4.621,
+      "score_qualite": 10.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 15.58,
+      "sigma": -1.4764,
+      "r_squared": 0.6532,
+      "pente_annuelle_pct": 13.589,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 25.360001,
+      "reasons": [
+        "Score global ≥ 53 (63.9)",
+        "Fondamental ≥ 6.5 (7.73/10)",
+        "σ ≤ -1.0 (-1.48σ)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Baisse de marge récurrente",
+        "Dégradation composite des marges",
+        "Aucun événement management explicite disponible",
+        "Baisse de marge récurrente sur plusieurs trimestres",
+        "Aucun événement management explicite disponible"
+      ],
+      "raison_principale": "4/6 conditions BUY remplies",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": 0.206835,
+        "roe": 0.173609,
+        "cagr_ca_5ans": 0.158138,
+        "marge_fcf": 0.203099,
+        "rendement_actionnaire": 0.0,
+        "fcf_yield": null,
+        "gross_margin": 0.647258,
+        "ebit_margin": 0.194838,
+        "net_margin": 0.141238,
+        "fcf_margin": 0.203099,
+        "net_debt_to_ebitda": null,
+        "interest_coverage": null,
+        "current_ratio": 2.949066,
+        "debt_to_equity": null,
+        "revenue_cagr_3y": 0.08475,
+        "dividend_yield": null,
+        "ebitda_source": null,
+        "total_debt_incomplete": 0.0
+      },
+      "piliers": {
+        "solidite": 10.0,
+        "croissance": 6.614,
+        "agilite": 8.0,
+        "rentabilite": 6.315
+      }
+    },
     {
       "ticker": "SAN.PA",
       "decision": "WATCH",
@@ -90,6 +161,74 @@
         "croissance": null,
         "agilite": 6.94,
         "rentabilite": 3.19
+      }
+    },
+    {
+      "ticker": "IPS.PA",
+      "decision": "WATCH",
+      "score_global": 57.38,
+      "score_global_effective": 57.38,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 7.029,
+      "score_technique": 14.645,
+      "score_macro": 4.621,
+      "score_qualite": 10.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 11.29,
+      "sigma": -1.1258,
+      "r_squared": 0.5538,
+      "pente_annuelle_pct": 8.284,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 35.299999,
+      "reasons": [
+        "Score global ≥ 53 (57.4)",
+        "Fondamental ≥ 6.5 (7.03/10)",
+        "σ ≤ -1.0 (-1.13σ)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "Aucun événement management explicite disponible",
+        "Aucun événement management explicite disponible"
+      ],
+      "raison_principale": "4/6 conditions BUY remplies",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": 0.118591,
+        "roe": 0.120168,
+        "cagr_ca_5ans": 0.051084,
+        "marge_fcf": 0.086722,
+        "rendement_actionnaire": 0.0,
+        "fcf_yield": null,
+        "gross_margin": 0.677697,
+        "ebit_margin": 0.110208,
+        "net_margin": 0.074617,
+        "fcf_margin": 0.086722,
+        "net_debt_to_ebitda": null,
+        "interest_coverage": null,
+        "current_ratio": 1.546135,
+        "debt_to_equity": null,
+        "revenue_cagr_3y": 0.027665,
+        "dividend_yield": null,
+        "ebitda_source": null,
+        "total_debt_incomplete": 0.0
+      },
+      "piliers": {
+        "solidite": 9.244,
+        "croissance": 3.729,
+        "agilite": 7.755,
+        "rentabilite": 5.602
       }
     },
     {
@@ -687,76 +826,6 @@
       }
     },
     {
-      "ticker": "ITP.PA",
-      "decision": "SKIP",
-      "score_global": 63.94,
-      "score_global_effective": 63.94,
-      "soldes_bonus": 0.0,
-      "score_fondamental": 7.73,
-      "score_technique": 18.398,
-      "score_macro": 4.621,
-      "score_qualite": 10.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 15.58,
-      "sigma": -1.4764,
-      "r_squared": 0.6532,
-      "pente_annuelle_pct": 13.589,
-      "data_quality_flag": "COMPLETE",
-      "n_piliers_valides": 5,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 25.360001,
-      "reasons": [
-        "Fondamental ≥ 6.5 (7.73/10)",
-        "σ ≤ -1.0 (-1.48σ)",
-        "Qualité données (COMPLETE)"
-      ],
-      "warnings": [
-        "Baisse de marge récurrente",
-        "Dégradation composite des marges",
-        "Aucun événement management explicite disponible",
-        "Baisse de marge récurrente sur plusieurs trimestres",
-        "Aucun événement management explicite disponible"
-      ],
-      "raison_principale": "Conditions insuffisantes (3/6)",
-      "urgence": 0,
-      "tranche": null,
-      "n_tranches": null,
-      "prix_limite": null,
-      "fraction_suggeree": null,
-      "palier_declenche": null,
-      "gain_pct": null,
-      "pnl_latent": null,
-      "position_recommendation": null,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": 0.206835,
-        "roe": 0.173609,
-        "cagr_ca_5ans": 0.158138,
-        "marge_fcf": 0.203099,
-        "rendement_actionnaire": 0.0,
-        "fcf_yield": null,
-        "gross_margin": 0.647258,
-        "ebit_margin": 0.194838,
-        "net_margin": 0.141238,
-        "fcf_margin": 0.203099,
-        "net_debt_to_ebitda": null,
-        "interest_coverage": null,
-        "current_ratio": 2.949066,
-        "debt_to_equity": null,
-        "revenue_cagr_3y": 0.08475,
-        "dividend_yield": null,
-        "ebitda_source": null,
-        "total_debt_incomplete": 0.0
-      },
-      "piliers": {
-        "solidite": 10.0,
-        "croissance": 6.614,
-        "agilite": 8.0,
-        "rentabilite": 6.315
-      }
-    },
-    {
       "ticker": "AUB.PA",
       "decision": "SKIP",
       "score_global": 62.65,
@@ -777,6 +846,7 @@
       "univers": "FR",
       "cours_actuel": 54.799999,
       "reasons": [
+        "Score global ≥ 53 (62.6)",
         "Fondamental ≥ 6.5 (7.44/10)",
         "Qualité données (PARTIAL)"
       ],
@@ -784,7 +854,7 @@
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "Conditions insuffisantes (2/6)",
+      "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,
@@ -843,6 +913,7 @@
       "univers": "FR",
       "cours_actuel": 26.120001,
       "reasons": [
+        "Score global ≥ 53 (60.2)",
         "Fondamental ≥ 6.5 (7.78/10)",
         "Qualité données (PARTIAL)"
       ],
@@ -850,7 +921,7 @@
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "Conditions insuffisantes (2/6)",
+      "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,
@@ -909,6 +980,7 @@
       "univers": "FR",
       "cours_actuel": 15.08,
       "reasons": [
+        "Score global ≥ 53 (58.0)",
         "Fondamental ≥ 6.5 (7.46/10)",
         "Qualité données (PARTIAL)"
       ],
@@ -916,7 +988,7 @@
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "Conditions insuffisantes (2/6)",
+      "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,
@@ -955,73 +1027,6 @@
       }
     },
     {
-      "ticker": "IPS.PA",
-      "decision": "SKIP",
-      "score_global": 57.38,
-      "score_global_effective": 57.38,
-      "soldes_bonus": 0.0,
-      "score_fondamental": 7.029,
-      "score_technique": 14.645,
-      "score_macro": 4.621,
-      "score_qualite": 10.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 11.29,
-      "sigma": -1.1258,
-      "r_squared": 0.5538,
-      "pente_annuelle_pct": 8.284,
-      "data_quality_flag": "COMPLETE",
-      "n_piliers_valides": 5,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 35.299999,
-      "reasons": [
-        "Fondamental ≥ 6.5 (7.03/10)",
-        "σ ≤ -1.0 (-1.13σ)",
-        "Qualité données (COMPLETE)"
-      ],
-      "warnings": [
-        "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible"
-      ],
-      "raison_principale": "Conditions insuffisantes (3/6)",
-      "urgence": 0,
-      "tranche": null,
-      "n_tranches": null,
-      "prix_limite": null,
-      "fraction_suggeree": null,
-      "palier_declenche": null,
-      "gain_pct": null,
-      "pnl_latent": null,
-      "position_recommendation": null,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": 0.118591,
-        "roe": 0.120168,
-        "cagr_ca_5ans": 0.051084,
-        "marge_fcf": 0.086722,
-        "rendement_actionnaire": 0.0,
-        "fcf_yield": null,
-        "gross_margin": 0.677697,
-        "ebit_margin": 0.110208,
-        "net_margin": 0.074617,
-        "fcf_margin": 0.086722,
-        "net_debt_to_ebitda": null,
-        "interest_coverage": null,
-        "current_ratio": 1.546135,
-        "debt_to_equity": null,
-        "revenue_cagr_3y": 0.027665,
-        "dividend_yield": null,
-        "ebitda_source": null,
-        "total_debt_incomplete": 0.0
-      },
-      "piliers": {
-        "solidite": 9.244,
-        "croissance": 3.729,
-        "agilite": 7.755,
-        "rentabilite": 5.602
-      }
-    },
-    {
       "ticker": "AC.PA",
       "decision": "SKIP",
       "score_global": 55.18,
@@ -1042,6 +1047,7 @@
       "univers": "FR",
       "cours_actuel": 50.18,
       "reasons": [
+        "Score global ≥ 53 (55.2)",
         "Fondamental ≥ 6.5 (7.72/10)",
         "Qualité données (PARTIAL)"
       ],
@@ -1049,7 +1055,7 @@
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "Conditions insuffisantes (2/6)",
+      "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,
@@ -1108,6 +1114,7 @@
       "univers": "FR",
       "cours_actuel": 83.400002,
       "reasons": [
+        "Score global ≥ 53 (54.1)",
         "Fondamental ≥ 6.5 (6.67/10)",
         "Qualité données (PARTIAL)"
       ],
@@ -1115,7 +1122,7 @@
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "Conditions insuffisantes (2/6)",
+      "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,
@@ -1174,13 +1181,14 @@
       "univers": "FR",
       "cours_actuel": 27.459999,
       "reasons": [
+        "Score global ≥ 53 (53.5)",
         "Qualité données (COMPLETE)"
       ],
       "warnings": [
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "Conditions insuffisantes (1/6)",
+      "raison_principale": "Conditions insuffisantes (2/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,

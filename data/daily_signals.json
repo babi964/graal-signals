@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T16:14:13.410686",
+    "generated_at": "2026-06-29T16:21:21.751854",
     "date": "2026-06-29",
     "version": "8.2",
     "market_state": "STRESS",
@@ -45,7 +45,7 @@
       "univers": "FR",
       "cours_actuel": 75.07,
       "reasons": [
-        "Score global ≥ 53 (60.4)",
+        "Score global ≥ 48 (60.4)",
         "Fondamental ≥ 6.5 (6.82/10)",
         "σ ≤ -1.0 (-1.63σ)",
         "Qualité données (PARTIAL)"
@@ -113,7 +113,7 @@
       "univers": "FR",
       "cours_actuel": 17.93,
       "reasons": [
-        "Score global ≥ 53 (60.4)",
+        "Score global ≥ 48 (60.4)",
         "Fondamental ≥ 6.5 (6.80/10)",
         "σ ≤ -1.0 (-2.03σ)",
         "Qualité données (COMPLETE)"
@@ -181,7 +181,7 @@
       "univers": "FR",
       "cours_actuel": 89.68,
       "reasons": [
-        "Score global ≥ 53 (56.0)",
+        "Score global ≥ 48 (56.0)",
         "Fondamental ≥ 6.5 (6.82/10)",
         "σ ≤ -1.0 (-2.27σ)",
         "Qualité données (COMPLETE)"
@@ -1307,6 +1307,7 @@
       "univers": "FR",
       "cours_actuel": 43.41,
       "reasons": [
+        "Score global ≥ 48 (52.0)",
         "Fondamental ≥ 6.5 (7.00/10)",
         "Qualité données (COMPLETE)"
       ],
@@ -1314,7 +1315,7 @@
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "Conditions insuffisantes (2/6)",
+      "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,
@@ -1840,13 +1841,14 @@
       "univers": "FR",
       "cours_actuel": 80.599998,
       "reasons": [
+        "Score global ≥ 48 (50.5)",
         "Qualité données (PARTIAL)"
       ],
       "warnings": [
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "Conditions insuffisantes (1/6)",
+      "raison_principale": "Conditions insuffisantes (2/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,
@@ -1905,6 +1907,7 @@
       "univers": "FR",
       "cours_actuel": 86.620003,
       "reasons": [
+        "Score global ≥ 48 (50.4)",
         "Fondamental ≥ 6.5 (7.17/10)",
         "Qualité données (COMPLETE)"
       ],
@@ -1913,7 +1916,7 @@
         "Aucun événement management explicite disponible",
         "Données fondamentales STALE −2pts"
       ],
-      "raison_principale": "Conditions insuffisantes (2/6)",
+      "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,

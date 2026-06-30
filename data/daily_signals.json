@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T19:19:11.788582",
+    "generated_at": "2026-06-30T20:39:27.111597",
     "date": "2026-06-30",
     "version": "8.2",
     "market_state": "NORMAL",
@@ -45,7 +45,7 @@
       "univers": "FR",
       "cours_actuel": 25.32,
       "reasons": [
-        "Score global ≥ 58 (64.2)",
+        "Score global ≥ 60 (64.2)",
         "Fondamental ≥ 6.0 (7.73/10)",
         "σ ≤ -0.8 (-1.48σ)",
         "Macro ≥ 4.5 (5.0/10)",
@@ -259,7 +259,7 @@
       "univers": "FR",
       "cours_actuel": 26.360001,
       "reasons": [
-        "Score global ≥ 58 (60.5)",
+        "Score global ≥ 60 (60.5)",
         "Fondamental ≥ 6.0 (7.78/10)",
         "Macro ≥ 4.5 (5.0/10)",
         "Marché NORMAL (≠ CRISE/EXTREME)",
@@ -328,7 +328,6 @@
       "univers": "FR",
       "cours_actuel": 15.02,
       "reasons": [
-        "Score global ≥ 58 (58.3)",
         "Fondamental ≥ 6.0 (7.46/10)",
         "Macro ≥ 4.5 (5.0/10)",
         "Marché NORMAL (≠ CRISE/EXTREME)",
@@ -338,7 +337,7 @@
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
-      "raison_principale": "5/6 conditions BUY remplies",
+      "raison_principale": "4/6 conditions BUY remplies",
       "urgence": 0,
       "tranche": null,
       "n_tranches": null,

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T06:57:04.078975",
+    "generated_at": "2026-06-30T08:12:54.429863",
     "period_days": 30,
     "cutoff_date": "2026-05-31",
-    "n_records": 60
+    "n_records": 67
   },
   "history": [
     {
@@ -20,18 +20,6 @@
     },
     {
       "date": "2026-06-30",
-      "ticker": "AUB.PA",
-      "score_global": 61.75,
-      "score_fondamental": 7.121,
-      "score_technique": 18.407,
-      "score_macro": 4.858,
-      "position_sigma": -0.1776,
-      "r_squared": 0.7763,
-      "pente_annuelle": 0.14638,
-      "data_quality_flag": "PARTIAL"
-    },
-    {
-      "date": "2026-06-30",
       "ticker": "BVI.PA",
       "score_global": 59.12,
       "score_fondamental": 7.471,
@@ -41,6 +29,18 @@
       "r_squared": 0.8432,
       "pente_annuelle": 0.06144,
       "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-06-30",
+      "ticker": "ATE.PA",
+      "score_global": 57.74,
+      "score_fondamental": 7.024,
+      "score_technique": 14.79,
+      "score_macro": 4.858,
+      "position_sigma": -0.9775,
+      "r_squared": 0.7533,
+      "pente_annuelle": -0.16995,
+      "data_quality_flag": "COMPLETE"
     },
     {
       "date": "2026-06-30",
@@ -104,6 +104,18 @@
     },
     {
       "date": "2026-06-30",
+      "ticker": "IPN.PA",
+      "score_global": 54.07,
+      "score_fondamental": 7.212,
+      "score_technique": 16.366,
+      "score_macro": 4.858,
+      "position_sigma": 0.7866,
+      "r_squared": 0.6989,
+      "pente_annuelle": 0.10407,
+      "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-06-30",
       "ticker": "ELIS.PA",
       "score_global": 53.44,
       "score_fondamental": 6.009,
@@ -112,6 +124,18 @@
       "position_sigma": 0.7115,
       "r_squared": 0.7727,
       "pente_annuelle": 0.14455,
+      "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-06-30",
+      "ticker": "IDL.PA",
+      "score_global": 53.38,
+      "score_fondamental": 5.081,
+      "score_technique": 18.195,
+      "score_macro": 4.858,
+      "position_sigma": -1.6958,
+      "r_squared": 0.8834,
+      "pente_annuelle": 0.16092,
       "data_quality_flag": "COMPLETE"
     },
     {
@@ -137,6 +161,18 @@
       "r_squared": 0.9214,
       "pente_annuelle": 0.32816,
       "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-06-30",
+      "ticker": "ANTIN.PA",
+      "score_global": 52.32,
+      "score_fondamental": 7.762,
+      "score_technique": 8.419,
+      "score_macro": 4.858,
+      "position_sigma": 0.3518,
+      "r_squared": 0.7026,
+      "pente_annuelle": -0.16764,
+      "data_quality_flag": "COMPLETE"
     },
     {
       "date": "2026-06-30",
@@ -332,6 +368,18 @@
     },
     {
       "date": "2026-06-30",
+      "ticker": "AYV.PA",
+      "score_global": 48.64,
+      "score_fondamental": 6.316,
+      "score_technique": 8.522,
+      "score_macro": 4.858,
+      "position_sigma": 1.3229,
+      "r_squared": 0.1245,
+      "pente_annuelle": 0.04798,
+      "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-06-30",
       "ticker": "MF.PA",
       "score_global": 48.51,
       "score_fondamental": 6.015,
@@ -440,6 +488,18 @@
     },
     {
       "date": "2026-06-30",
+      "ticker": "ENX.PA",
+      "score_global": 44.94,
+      "score_fondamental": 4.33,
+      "score_technique": 12.762,
+      "score_macro": 4.858,
+      "position_sigma": 0.3088,
+      "r_squared": 0.8586,
+      "pente_annuelle": 0.16322,
+      "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-06-30",
       "ticker": "FNAC.PA",
       "score_global": 44.82,
       "score_fondamental": 5.057,
@@ -496,6 +556,18 @@
       "position_sigma": 1.318,
       "r_squared": 0.7323,
       "pente_annuelle": 0.11747,
+      "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-06-30",
+      "ticker": "EXA.PA",
+      "score_global": 42.73,
+      "score_fondamental": 4.41,
+      "score_technique": 11.73,
+      "score_macro": 4.858,
+      "position_sigma": 1.4811,
+      "r_squared": 0.574,
+      "pente_annuelle": 0.2163,
       "data_quality_flag": "PARTIAL"
     },
     {
@@ -572,18 +644,6 @@
     },
     {
       "date": "2026-06-30",
-      "ticker": "DBV.PA",
-      "score_global": 41.06,
-      "score_fondamental": 4.383,
-      "score_technique": 12.171,
-      "score_macro": 4.858,
-      "position_sigma": 1.1399,
-      "r_squared": 0.6501,
-      "pente_annuelle": -0.26158,
-      "data_quality_flag": "PARTIAL"
-    },
-    {
-      "date": "2026-06-30",
       "ticker": "COV.PA",
       "score_global": 41.0,
       "score_fondamental": 5.961,
@@ -632,6 +692,18 @@
     },
     {
       "date": "2026-06-30",
+      "ticker": "CARM.PA",
+      "score_global": 40.12,
+      "score_fondamental": 5.191,
+      "score_technique": 10.494,
+      "score_macro": 4.858,
+      "position_sigma": 0.5142,
+      "r_squared": 0.5744,
+      "pente_annuelle": 0.064,
+      "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-06-30",
       "ticker": "VIV.PA",
       "score_global": 39.94,
       "score_fondamental": 3.281,
@@ -665,6 +737,18 @@
       "r_squared": 0.6574,
       "pente_annuelle": -0.18907,
       "data_quality_flag": "COMPLETE"
+    },
+    {
+      "date": "2026-06-30",
+      "ticker": "ETL.PA",
+      "score_global": 37.55,
+      "score_fondamental": 2.597,
+      "score_technique": 18.801,
+      "score_macro": 4.858,
+      "position_sigma": -0.8876,
+      "r_squared": 0.7617,
+      "pente_annuelle": -0.15157,
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-06-30",

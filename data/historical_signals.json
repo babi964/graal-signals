@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T20:39:27.119663",
+    "generated_at": "2026-06-30T20:42:35.037250",
     "period_days": 30,
     "cutoff_date": "2026-05-31",
-    "n_records": 53
+    "n_records": 52
   },
   "history": [
     {
@@ -268,18 +268,6 @@
       "position_sigma": -0.1972,
       "r_squared": 0.76,
       "pente_annuelle": 0.11728,
-      "data_quality_flag": "PARTIAL"
-    },
-    {
-      "date": "2026-06-30",
-      "ticker": "WLN.PA",
-      "score_global": 50.52,
-      "score_fondamental": 5.488,
-      "score_technique": 15.585,
-      "score_macro": 4.981,
-      "position_sigma": -1.4222,
-      "r_squared": 0.6661,
-      "pente_annuelle": -0.35857,
       "data_quality_flag": "PARTIAL"
     },
     {

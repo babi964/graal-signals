@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T21:49:31.770113",
+    "generated_at": "2026-07-02T21:53:44.673762",
     "eurusd": 1.1435,
     "n_partial_sales": 0,
     "pnl_partial_eur": 0.0
   },
   "summary": {
-    "n_positions": 3,
-    "valeur_totale_eur": 150.81,
-    "pnl_total_eur": -1.01,
+    "n_positions": 4,
+    "valeur_totale_eur": 169.2,
+    "pnl_total_eur": -3.26,
     "pnl_moyen_ann_pct": null,
     "par_compte": {
       "PEA": {
-        "n_positions": 3,
-        "valeur_eur": 150.81,
-        "pnl_eur": -1.01
+        "n_positions": 4,
+        "valeur_eur": 169.2,
+        "pnl_eur": -3.26
       },
       "CTO_FR": {
         "n_positions": 0,
@@ -63,6 +63,18 @@
       "valeur_eur": null,
       "pnl_eur": null,
       "pnl_pct": null,
+      "perf_annualisee": null,
+      "jours_detention": 0
+    },
+    {
+      "ticker": "DSY.PA",
+      "compte": "PEA",
+      "devise": "EUR",
+      "prix_achat": 20.64,
+      "cours_actuel": 18.385,
+      "valeur_eur": 18.39,
+      "pnl_eur": -2.25,
+      "pnl_pct": -10.9254,
       "perf_annualisee": null,
       "jours_detention": 0
     }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T09:21:54.824476",
+    "generated_at": "2026-07-02T11:14:23.070076",
     "date": "2026-07-02",
     "version": "8.2",
     "market_state": "NORMAL",
@@ -20,7 +20,7 @@
     "n_buy": 4,
     "n_sell": 0,
     "n_take_profit": 0,
-    "n_watch": 33,
+    "n_watch": 32,
     "n_hold": 0
   },
   "signals": [
@@ -746,6 +746,7 @@
         "Qualité données (PARTIAL)"
       ],
       "warnings": [
+        "Ratio conversion FCF aberrant (5.9x) — plafonné pour scoring",
         "Recul du chiffre d'affaires récurrent",
         "Aucun événement management explicite disponible",
         "Baisse du chiffre d'affaires sur plusieurs trimestres",
@@ -1068,10 +1069,10 @@
     {
       "ticker": "TE.PA",
       "decision": "WATCH",
-      "score_global": 53.11,
-      "score_global_effective": 53.11,
+      "score_global": 52.55,
+      "score_global_effective": 52.55,
       "soldes_bonus": 0.0,
-      "score_fondamental": 5.339,
+      "score_fondamental": 5.199,
       "score_technique": 17.657,
       "score_macro": 6.093,
       "score_qualite": 8.0,
@@ -1086,7 +1087,7 @@
       "univers": "FR",
       "cours_actuel": 32.68,
       "reasons": [
-        "Score global ≥ 49 (53.1)",
+        "Score global ≥ 49 (52.5)",
         "σ ≤ -0.8 (-1.49σ)",
         "Macro ≥ 4.5 (6.1/10)",
         "Marché NORMAL (≠ CRISE/EXTREME)",
@@ -1094,6 +1095,7 @@
       ],
       "warnings": [
         "Couverture intérêts faible : 1.0x",
+        "BFR négatif faible (0.6% du CA) — potentiellement tendu, score ajusté à 8.0",
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible"
       ],
@@ -1131,7 +1133,7 @@
       "piliers": {
         "solidite": 2.279,
         "croissance": null,
-        "agilite": 7.141,
+        "agilite": 6.475,
         "rentabilite": 6.157
       }
     },
@@ -1227,6 +1229,7 @@
         "Qualité données (PARTIAL)"
       ],
       "warnings": [
+        "BFR négatif faible (4.0% du CA) — potentiellement tendu, score ajusté à 8.0",
         "Baisse de marge récurrente",
         "Aucun événement management explicite disponible",
         "Baisse de marge récurrente sur plusieurs trimestres",
@@ -1640,6 +1643,7 @@
         "Qualité données (PARTIAL)"
       ],
       "warnings": [
+        "BFR négatif faible (4.0% du CA) — potentiellement tendu, score ajusté à 8.0",
         "Baisse de marge récurrente",
         "Aucun événement management explicite disponible",
         "Baisse de marge récurrente sur plusieurs trimestres",
@@ -1917,7 +1921,8 @@
         "Baisse de marge récurrente",
         "Aucun événement management explicite disponible",
         "Baisse de marge récurrente sur plusieurs trimestres",
-        "Aucun événement management explicite disponible"
+        "Aucun événement management explicite disponible",
+        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
       ],
       "raison_principale": "4/6 conditions BUY remplies",
       "urgence": 0,
@@ -1955,76 +1960,6 @@
         "croissance": 0.58,
         "agilite": 3.086,
         "rentabilite": 5.517
-      }
-    },
-    {
-      "ticker": "BN.PA",
-      "decision": "WATCH",
-      "score_global": 48.59,
-      "score_global_effective": 48.59,
-      "soldes_bonus": 0.0,
-      "score_fondamental": 6.051,
-      "score_technique": 10.291,
-      "score_macro": 6.093,
-      "score_qualite": 8.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 11.25,
-      "sigma": 0.8963,
-      "r_squared": 0.6433,
-      "pente_annuelle_pct": 4.697,
-      "data_quality_flag": "COMPLETE",
-      "n_piliers_valides": 5,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 72.199997,
-      "reasons": [
-        "Fondamental ≥ 6.0 (6.05/10)",
-        "Macro ≥ 4.5 (6.1/10)",
-        "Marché NORMAL (≠ CRISE/EXTREME)",
-        "Qualité données (COMPLETE)"
-      ],
-      "warnings": [
-        "Recul du chiffre d'affaires récurrent",
-        "Aucun événement management explicite disponible",
-        "Baisse du chiffre d'affaires sur plusieurs trimestres",
-        "Aucun événement management explicite disponible"
-      ],
-      "raison_principale": "4/6 conditions BUY remplies",
-      "urgence": 0,
-      "tranche": null,
-      "n_tranches": null,
-      "prix_limite": null,
-      "fraction_suggeree": null,
-      "palier_declenche": null,
-      "gain_pct": null,
-      "pnl_latent": null,
-      "position_recommendation": null,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": 0.107066,
-        "roe": 0.117627,
-        "cagr_ca_5ans": 0.045729,
-        "marge_fcf": 0.106224,
-        "rendement_actionnaire": 0.0,
-        "fcf_yield": null,
-        "gross_margin": null,
-        "ebit_margin": 0.123429,
-        "net_margin": 0.07671,
-        "fcf_margin": 0.106224,
-        "net_debt_to_ebitda": null,
-        "interest_coverage": null,
-        "current_ratio": 0.93111,
-        "debt_to_equity": null,
-        "revenue_cagr_3y": 0.045729,
-        "dividend_yield": null,
-        "ebitda_source": null,
-        "total_debt_incomplete": 0.0
-      },
-      "piliers": {
-        "solidite": 6.617,
-        "croissance": 4.784,
-        "agilite": 8.019,
-        "rentabilite": 3.673
       }
     },
     {
@@ -2703,6 +2638,76 @@
       }
     },
     {
+      "ticker": "BN.PA",
+      "decision": "SKIP",
+      "score_global": 48.33,
+      "score_global_effective": 48.33,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 5.987,
+      "score_technique": 10.291,
+      "score_macro": 6.093,
+      "score_qualite": 8.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 11.25,
+      "sigma": 0.8963,
+      "r_squared": 0.6433,
+      "pente_annuelle_pct": 4.697,
+      "data_quality_flag": "COMPLETE",
+      "n_piliers_valides": 5,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 72.199997,
+      "reasons": [
+        "Macro ≥ 4.5 (6.1/10)",
+        "Marché NORMAL (≠ CRISE/EXTREME)",
+        "Qualité données (COMPLETE)"
+      ],
+      "warnings": [
+        "BFR négatif faible (3.5% du CA) — potentiellement tendu, score ajusté à 8.0",
+        "Recul du chiffre d'affaires récurrent",
+        "Aucun événement management explicite disponible",
+        "Baisse du chiffre d'affaires sur plusieurs trimestres",
+        "Aucun événement management explicite disponible"
+      ],
+      "raison_principale": "Conditions insuffisantes (3/6)",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": 0.107066,
+        "roe": 0.117627,
+        "cagr_ca_5ans": 0.045729,
+        "marge_fcf": 0.106224,
+        "rendement_actionnaire": 0.0,
+        "fcf_yield": null,
+        "gross_margin": null,
+        "ebit_margin": 0.123429,
+        "net_margin": 0.07671,
+        "fcf_margin": 0.106224,
+        "net_debt_to_ebitda": null,
+        "interest_coverage": null,
+        "current_ratio": 0.93111,
+        "debt_to_equity": null,
+        "revenue_cagr_3y": 0.045729,
+        "dividend_yield": null,
+        "ebitda_source": null,
+        "total_debt_incomplete": 0.0
+      },
+      "piliers": {
+        "solidite": 6.617,
+        "croissance": 4.784,
+        "agilite": 7.619,
+        "rentabilite": 3.673
+      }
+    },
+    {
       "ticker": "GLE.PA",
       "decision": "SKIP",
       "score_global": 48.12,
@@ -2796,6 +2801,7 @@
         "Qualité données (PARTIAL)"
       ],
       "warnings": [
+        "BFR négatif faible (3.1% du CA) — potentiellement tendu, score ajusté à 8.0",
         "Baisse de marge récurrente",
         "Aucun événement management explicite disponible",
         "Baisse de marge récurrente sur plusieurs trimestres",
@@ -3004,7 +3010,8 @@
         "Recul du chiffre d'affaires récurrent",
         "Aucun événement management explicite disponible",
         "Baisse du chiffre d'affaires sur plusieurs trimestres",
-        "Aucun événement management explicite disponible"
+        "Aucun événement management explicite disponible",
+        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
       ],
       "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
@@ -3045,76 +3052,6 @@
       }
     },
     {
-      "ticker": "TTE.PA",
-      "decision": "SKIP",
-      "score_global": 44.4,
-      "score_global_effective": 44.4,
-      "soldes_bonus": 0.0,
-      "score_fondamental": 3.406,
-      "score_technique": 14.685,
-      "score_macro": 6.093,
-      "score_qualite": 10.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 6.31,
-      "sigma": 0.5234,
-      "r_squared": 0.8211,
-      "pente_annuelle_pct": 10.225,
-      "data_quality_flag": "PARTIAL",
-      "n_piliers_valides": 4,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 65.919998,
-      "reasons": [
-        "Macro ≥ 4.5 (6.1/10)",
-        "Marché NORMAL (≠ CRISE/EXTREME)",
-        "Qualité données (PARTIAL)"
-      ],
-      "warnings": [
-        "Recul du chiffre d'affaires récurrent",
-        "Dégradation composite des marges",
-        "Aucun événement management explicite disponible",
-        "Baisse du chiffre d'affaires sur plusieurs trimestres",
-        "Aucun événement management explicite disponible"
-      ],
-      "raison_principale": "Conditions insuffisantes (3/6)",
-      "urgence": 0,
-      "tranche": null,
-      "n_tranches": null,
-      "prix_limite": null,
-      "fraction_suggeree": null,
-      "palier_declenche": null,
-      "gain_pct": null,
-      "pnl_latent": null,
-      "position_recommendation": null,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": null,
-        "roe": 0.113654,
-        "cagr_ca_5ans": -0.106553,
-        "marge_fcf": 0.051641,
-        "rendement_actionnaire": 0.0,
-        "fcf_yield": null,
-        "gross_margin": null,
-        "ebit_margin": null,
-        "net_margin": 0.066388,
-        "fcf_margin": 0.051641,
-        "net_debt_to_ebitda": null,
-        "interest_coverage": null,
-        "current_ratio": 0.966574,
-        "debt_to_equity": null,
-        "revenue_cagr_3y": -0.106553,
-        "dividend_yield": null,
-        "ebitda_source": null,
-        "total_debt_incomplete": 0.0
-      },
-      "piliers": {
-        "solidite": null,
-        "croissance": 0.0,
-        "agilite": 7.486,
-        "rentabilite": 2.182
-      }
-    },
-    {
       "ticker": "TKO.PA",
       "decision": "SKIP",
       "score_global": 44.38,
@@ -3141,7 +3078,8 @@
       ],
       "warnings": [
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible"
+        "Aucun événement management explicite disponible",
+        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
       ],
       "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
@@ -3179,6 +3117,76 @@
         "croissance": 2.748,
         "agilite": 0.952,
         "rentabilite": 0.836
+      }
+    },
+    {
+      "ticker": "TTE.PA",
+      "decision": "SKIP",
+      "score_global": 43.95,
+      "score_global_effective": 43.95,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 3.292,
+      "score_technique": 14.685,
+      "score_macro": 6.093,
+      "score_qualite": 10.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 6.31,
+      "sigma": 0.5234,
+      "r_squared": 0.8211,
+      "pente_annuelle_pct": 10.225,
+      "data_quality_flag": "PARTIAL",
+      "n_piliers_valides": 4,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 65.919998,
+      "reasons": [
+        "Macro ≥ 4.5 (6.1/10)",
+        "Marché NORMAL (≠ CRISE/EXTREME)",
+        "Qualité données (PARTIAL)"
+      ],
+      "warnings": [
+        "BFR négatif faible (1.5% du CA) — potentiellement tendu, score ajusté à 8.0",
+        "Recul du chiffre d'affaires récurrent",
+        "Dégradation composite des marges",
+        "Aucun événement management explicite disponible",
+        "Baisse du chiffre d'affaires sur plusieurs trimestres"
+      ],
+      "raison_principale": "Conditions insuffisantes (3/6)",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": null,
+        "roe": 0.113654,
+        "cagr_ca_5ans": -0.106553,
+        "marge_fcf": 0.051641,
+        "rendement_actionnaire": 0.0,
+        "fcf_yield": null,
+        "gross_margin": null,
+        "ebit_margin": null,
+        "net_margin": 0.066388,
+        "fcf_margin": 0.051641,
+        "net_debt_to_ebitda": null,
+        "interest_coverage": null,
+        "current_ratio": 0.966574,
+        "debt_to_equity": null,
+        "revenue_cagr_3y": -0.106553,
+        "dividend_yield": null,
+        "ebitda_source": null,
+        "total_debt_incomplete": 0.0
+      },
+      "piliers": {
+        "solidite": null,
+        "croissance": 0.0,
+        "agilite": 6.986,
+        "rentabilite": 2.182
       }
     },
     {

@@ -1,17 +1,82 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T21:46:30.737883",
-    "eurusd": null,
+    "generated_at": "2026-07-03T23:10:40.090801",
+    "eurusd": 1.144,
     "n_partial_sales": 0,
     "pnl_partial_eur": 0.0
   },
   "summary": {
-    "n_positions": 0,
-    "valeur_totale_eur": null,
-    "pnl_total_eur": null,
+    "n_positions": 4,
+    "valeur_totale_eur": 174.92,
+    "pnl_total_eur": 2.46,
     "pnl_moyen_ann_pct": null,
-    "par_compte": {},
+    "par_compte": {
+      "PEA": {
+        "n_positions": 4,
+        "valeur_eur": 174.92,
+        "pnl_eur": 2.46
+      },
+      "CTO_FR": {
+        "n_positions": 0,
+        "valeur_eur": 0.0,
+        "pnl_eur": 0.0
+      },
+      "CTO_US": {
+        "n_positions": 0,
+        "valeur_eur": 0.0,
+        "pnl_eur": 0.0
+      }
+    },
     "secteurs": {}
   },
-  "positions": []
+  "positions": [
+    {
+      "ticker": "SAN.PA",
+      "compte": "PEA",
+      "devise": "EUR",
+      "prix_achat": 75.23,
+      "cours_actuel": 75.25,
+      "valeur_eur": 75.25,
+      "pnl_eur": 0.02,
+      "pnl_pct": 0.0266,
+      "perf_annualisee": null,
+      "jours_detention": 1
+    },
+    {
+      "ticker": "ITP.PA",
+      "compte": "PEA",
+      "devise": "EUR",
+      "prix_achat": 25.53,
+      "cours_actuel": 27.0,
+      "valeur_eur": 81.0,
+      "pnl_eur": 4.41,
+      "pnl_pct": 5.7579,
+      "perf_annualisee": null,
+      "jours_detention": 1
+    },
+    {
+      "ticker": "DSY.SE",
+      "compte": "PEA",
+      "devise": "EUR",
+      "prix_achat": 20.64,
+      "cours_actuel": null,
+      "valeur_eur": null,
+      "pnl_eur": null,
+      "pnl_pct": null,
+      "perf_annualisee": null,
+      "jours_detention": 1
+    },
+    {
+      "ticker": "DSY.PA",
+      "compte": "PEA",
+      "devise": "EUR",
+      "prix_achat": 20.64,
+      "cours_actuel": 18.67,
+      "valeur_eur": 18.67,
+      "pnl_eur": -1.97,
+      "pnl_pct": -9.5446,
+      "perf_annualisee": null,
+      "jours_detention": 1
+    }
+  ]
 }

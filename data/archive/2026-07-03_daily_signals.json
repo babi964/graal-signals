@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "generated_at": "2026-07-03T21:46:30.736635",
+    "date": "2026-07-03",
+    "version": "8.2",
+    "market_state": "NORMAL",
+    "crisis_score": 0.0,
+    "crisis_method": "fixe",
+    "crisis_pct": {},
+    "macro_score": 0.0,
+    "macro_label": "N/A",
+    "vix": null,
+    "hy_oas": null,
+    "spy_ret_20d": null,
+    "n_tickers_total": 0,
+    "n_buy": 0,
+    "n_sell": 0,
+    "n_take_profit": 0,
+    "n_buy_stress": 0,
+    "n_watch": 0,
+    "n_hold": 0,
+    "n_skip": 0,
+    "n_reduce": 0
+  },
+  "signals": []
+}

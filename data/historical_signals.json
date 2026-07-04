@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T20:52:47.917562",
+    "generated_at": "2026-07-04T21:13:18.589729",
     "period_days": 30,
     "cutoff_date": "2026-06-04",
     "n_records": 57
@@ -464,18 +464,6 @@
     },
     {
       "date": "2026-07-04",
-      "ticker": "EDEN.PA",
-      "score_global": 43.33,
-      "score_fondamental": 4.49,
-      "score_technique": 6.195,
-      "score_macro": 6.37,
-      "position_sigma": 0.8216,
-      "r_squared": 0.659,
-      "pente_annuelle": -0.18917,
-      "data_quality_flag": "COMPLETE"
-    },
-    {
-      "date": "2026-07-04",
       "ticker": "GLE.PA",
       "score_global": 43.08,
       "score_fondamental": 4.351,
@@ -520,6 +508,18 @@
       "position_sigma": 0.3381,
       "r_squared": 0.3968,
       "pente_annuelle": -0.04734,
+      "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-07-04",
+      "ticker": "EDEN.PA",
+      "score_global": 41.94,
+      "score_fondamental": 4.249,
+      "score_technique": 6.195,
+      "score_macro": 6.37,
+      "position_sigma": 0.8216,
+      "r_squared": 0.659,
+      "pente_annuelle": -0.18917,
       "data_quality_flag": "PARTIAL"
     },
     {
@@ -572,6 +572,18 @@
     },
     {
       "date": "2026-07-04",
+      "ticker": "MERY.PA",
+      "score_global": 38.79,
+      "score_fondamental": 4.331,
+      "score_technique": 8.572,
+      "score_macro": 6.37,
+      "position_sigma": 0.3571,
+      "r_squared": 0.7787,
+      "pente_annuelle": 0.15575,
+      "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-07-04",
       "ticker": "RNO.PA",
       "score_global": 38.78,
       "score_fondamental": 3.601,
@@ -604,18 +616,6 @@
       "position_sigma": 0.3611,
       "r_squared": 0.1274,
       "pente_annuelle": 0.01962,
-      "data_quality_flag": "PARTIAL"
-    },
-    {
-      "date": "2026-07-04",
-      "ticker": "MERY.PA",
-      "score_global": 36.83,
-      "score_fondamental": 3.993,
-      "score_technique": 8.572,
-      "score_macro": 6.37,
-      "position_sigma": 0.3571,
-      "r_squared": 0.7787,
-      "pente_annuelle": 0.15575,
       "data_quality_flag": "PARTIAL"
     },
     {

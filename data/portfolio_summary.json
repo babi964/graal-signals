@@ -1,18 +1,18 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T13:54:48.803218",
+    "generated_at": "2026-07-04T15:38:44.295546",
     "eurusd": 1.144,
     "n_partial_sales": 0,
     "pnl_partial_eur": 0.0
   },
   "summary": {
-    "n_positions": 4,
+    "n_positions": 3,
     "valeur_totale_eur": 175.25,
     "pnl_total_eur": 2.79,
     "pnl_moyen_ann_pct": null,
     "par_compte": {
       "PEA": {
-        "n_positions": 4,
+        "n_positions": 3,
         "valeur_eur": 175.25,
         "pnl_eur": 2.79
       },
@@ -51,18 +51,6 @@
       "valeur_eur": 80.94,
       "pnl_eur": 4.35,
       "pnl_pct": 5.6796,
-      "perf_annualisee": null,
-      "jours_detention": 2
-    },
-    {
-      "ticker": "DSY.SE",
-      "compte": "PEA",
-      "devise": "EUR",
-      "prix_achat": 20.64,
-      "cours_actuel": null,
-      "valeur_eur": null,
-      "pnl_eur": null,
-      "pnl_pct": null,
       "perf_annualisee": null,
       "jours_detention": 2
     },

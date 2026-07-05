@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T22:28:43.870376",
+    "generated_at": "2026-07-05T08:58:57.815974",
     "eurusd": 1.144,
     "n_partial_sales": 0,
     "pnl_partial_eur": 0.0
@@ -40,7 +40,7 @@
       "pnl_eur": 0.58,
       "pnl_pct": 0.771,
       "perf_annualisee": null,
-      "jours_detention": 2
+      "jours_detention": 3
     },
     {
       "ticker": "ITP.PA",
@@ -52,7 +52,7 @@
       "pnl_eur": 4.35,
       "pnl_pct": 5.6796,
       "perf_annualisee": null,
-      "jours_detention": 2
+      "jours_detention": 3
     },
     {
       "ticker": "DSY.PA",
@@ -64,7 +64,7 @@
       "pnl_eur": -2.14,
       "pnl_pct": -10.3924,
       "perf_annualisee": null,
-      "jours_detention": 2
+      "jours_detention": 3
     }
   ]
 }

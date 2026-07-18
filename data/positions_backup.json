@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T15:50:48.320689",
+    "generated_at": "2026-07-18T12:16:59.956786",
     "version": "v9.2.5",
     "n_positions": 3,
     "n_budget_log": 0,
-    "n_tranches_log": 29,
+    "n_tranches_log": 35,
     "schema": "positions_backup_v2"
   },
   "positions": [
@@ -44,6 +44,60 @@
   ],
   "budget_log": [],
   "tranches_log": [
+    {
+      "ticker": "BVI.PA",
+      "tranche": 1,
+      "n_tranches": 3,
+      "prix_limite": 27.4,
+      "date_signal": "2026-07-18",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "CAP.PA",
+      "tranche": 1,
+      "n_tranches": 3,
+      "prix_limite": 91.32,
+      "date_signal": "2026-07-18",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "DSY.PA",
+      "tranche": 3,
+      "n_tranches": 3,
+      "prix_limite": 16.8119,
+      "date_signal": "2026-07-18",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "IPS.PA",
+      "tranche": 1,
+      "n_tranches": 3,
+      "prix_limite": 35.74,
+      "date_signal": "2026-07-18",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "ITP.PA",
+      "tranche": 3,
+      "n_tranches": 3,
+      "prix_limite": 24.6092,
+      "date_signal": "2026-07-18",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "SAN.PA",
+      "tranche": 3,
+      "n_tranches": 3,
+      "prix_limite": 72.6996,
+      "date_signal": "2026-07-18",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
     {
       "ticker": "BVI.PA",
       "tranche": 1,

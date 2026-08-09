@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "generated_at": "2026-08-09T09:22:16.935658+00:00",
+    "date": "2026-08-09",
+    "version": "8.2",
+    "market_state": "NORMAL",
+    "crisis_score": 0.0,
+    "crisis_method": "dynamique",
+    "crisis_pct": {
+      "vix_pct": 9.5,
+      "hy_pct": 16.3,
+      "spy_dd_pct": 25.4
+    },
+    "macro_score": 7.83,
+    "macro_label": "FAVORABLE",
+    "vix": 14.9,
+    "hy_oas": 2.71,
+    "spy_ret_20d": 0.03216,
+    "n_tickers_total": 0,
+    "n_buy": 0,
+    "n_sell": 0,
+    "n_take_profit": 0,
+    "n_buy_stress": 0,
+    "n_watch": 0,
+    "n_hold": 0,
+    "n_skip": 0,
+    "n_reduce": 0
+  },
+  "signals": []
+}

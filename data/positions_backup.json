@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T16:42:12.687600+00:00",
+    "generated_at": "2026-08-10T21:07:26.573957+00:00",
     "version": "v9.2.5",
     "n_positions": 3,
     "n_budget_log": 2,
@@ -45,18 +45,18 @@
   "budget_log": [
     {
       "month": "2026-08",
-      "ticker": "ITP.PA",
-      "montant_eur": 75.46,
-      "n_actions": 3,
-      "prix_achat": 24.81999969482422,
-      "date_decision": "2026-08-08"
-    },
-    {
-      "month": "2026-08",
       "ticker": "DSY.PA",
       "montant_eur": 23.25,
       "n_actions": 1,
       "prix_achat": 22.25,
+      "date_decision": "2026-08-08"
+    },
+    {
+      "month": "2026-08",
+      "ticker": "ITP.PA",
+      "montant_eur": 75.46,
+      "n_actions": 3,
+      "prix_achat": 24.81999969482422,
       "date_decision": "2026-08-08"
     }
   ],

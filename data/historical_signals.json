@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T21:07:26.560361+00:00",
+    "generated_at": "2026-08-10T21:08:03.356134+00:00",
     "period_days": 30,
     "cutoff_date": "2026-07-11",
     "n_records": 1
@@ -16,7 +16,9 @@
       "position_sigma": 2.5018,
       "r_squared": 0.3398,
       "pente_annuelle": -0.03817,
-      "data_quality_flag": "UNAVAILABLE"
+      "data_quality_flag": "UNAVAILABLE",
+      "score_global_effective": null,
+      "soldes_bonus": null
     }
   ]
 }

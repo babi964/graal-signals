@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T10:43:19.945403+00:00",
+    "generated_at": "2026-08-12T22:51:15.562573+00:00",
     "version": "v9.2.5",
     "n_positions": 3,
     "n_budget_log": 2,
-    "n_tranches_log": 313,
+    "n_tranches_log": 322,
     "schema": "positions_backup_v2"
   },
   "positions": [
@@ -45,18 +45,18 @@
   "budget_log": [
     {
       "month": "2026-08",
-      "ticker": "ITP.PA",
-      "montant_eur": 75.46,
-      "n_actions": 3,
-      "prix_achat": 24.81999969482422,
-      "date_decision": "2026-08-08"
-    },
-    {
-      "month": "2026-08",
       "ticker": "DSY.PA",
       "montant_eur": 23.25,
       "n_actions": 1,
       "prix_achat": 22.25,
+      "date_decision": "2026-08-08"
+    },
+    {
+      "month": "2026-08",
+      "ticker": "ITP.PA",
+      "montant_eur": 75.46,
+      "n_actions": 3,
+      "prix_achat": 24.81999969482422,
       "date_decision": "2026-08-08"
     }
   ],
@@ -192,6 +192,87 @@
       "tranche": 1,
       "n_tranches": 1,
       "prix_limite": 38.4,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "ITP.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 24.7,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "MC.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 478.8,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "OR.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 383.7,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "RMS.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 1643.5,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "SAN.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 75.4,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "CAP.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 109.5,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "DSY.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 22.1,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "EL.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 171.75,
+      "date_signal": "2026-08-12",
+      "status": "ACTIVE",
+      "suspend_reason": null
+    },
+    {
+      "ticker": "ELIS.PA",
+      "tranche": 1,
+      "n_tranches": 1,
+      "prix_limite": 24.68,
       "date_signal": "2026-08-12",
       "status": "ACTIVE",
       "suspend_reason": null

@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T08:49:33.255783+00:00",
-    "eurusd": 1.1531,
+    "generated_at": "2026-08-13T09:36:49.413521+00:00",
+    "eurusd": 1.1535,
     "n_partial_sales": 0,
     "pnl_partial_eur": 0.0
   },
   "summary": {
     "n_positions": 3,
-    "valeur_totale_eur": 171.6,
-    "pnl_total_eur": -0.86,
+    "valeur_totale_eur": 170.2,
+    "pnl_total_eur": -2.26,
     "pnl_moyen_ann_pct": null,
     "par_compte": {
       "PEA": {
         "n_positions": 3,
-        "valeur_eur": 171.6,
-        "pnl_eur": -0.86
+        "valeur_eur": 170.2,
+        "pnl_eur": -2.26
       },
       "CTO_FR": {
         "n_positions": 0,
@@ -35,10 +35,10 @@
       "compte": "PEA",
       "devise": "EUR",
       "prix_achat": 75.23,
-      "cours_actuel": 75.4,
-      "valeur_eur": 75.4,
-      "pnl_eur": 0.17,
-      "pnl_pct": 0.226,
+      "cours_actuel": 75.42,
+      "valeur_eur": 75.42,
+      "pnl_eur": 0.19,
+      "pnl_pct": 0.2526,
       "perf_annualisee": null,
       "jours_detention": 42
     },
@@ -47,10 +47,10 @@
       "compte": "PEA",
       "devise": "EUR",
       "prix_achat": 25.53,
-      "cours_actuel": 24.7,
-      "valeur_eur": 74.1,
-      "pnl_eur": -2.49,
-      "pnl_pct": -3.2511,
+      "cours_actuel": 24.46,
+      "valeur_eur": 73.38,
+      "pnl_eur": -3.21,
+      "pnl_pct": -4.1912,
       "perf_annualisee": null,
       "jours_detention": 42
     },
@@ -59,10 +59,10 @@
       "compte": "PEA",
       "devise": "EUR",
       "prix_achat": 20.64,
-      "cours_actuel": 22.1,
-      "valeur_eur": 22.1,
-      "pnl_eur": 1.46,
-      "pnl_pct": 7.0736,
+      "cours_actuel": 21.4,
+      "valeur_eur": 21.4,
+      "pnl_eur": 0.76,
+      "pnl_pct": 3.6822,
       "perf_annualisee": null,
       "jours_detention": 42
     }

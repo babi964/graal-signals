@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T09:40:16.242174+00:00",
+    "generated_at": "2026-08-13T12:04:57.588847+00:00",
     "date": "2026-08-13",
     "version": "8.2",
     "market_state": "NORMAL",
@@ -253,10 +253,10 @@
       "ticker": "BVI.PA",
       "decision": "BUY",
       "decision_variant": "BUY",
-      "score_global": 68.65,
-      "score_global_effective": 68.65,
+      "score_global": 68.6,
+      "score_global_effective": 68.6,
       "soldes_bonus": 0.0,
-      "score_fondamental": 7.613,
+      "score_fondamental": 7.605,
       "score_technique": 10.148,
       "score_macro": 7.93,
       "score_qualite": 8.0,
@@ -271,7 +271,7 @@
       "univers": "FR",
       "cours_actuel": 27.74,
       "reasons": [
-        "Score global ≥ 49 (68.7)",
+        "Score global ≥ 49 (68.6)",
         "Fondamental ≥ 6.0 (7.61/10)",
         "σ ≤ 0.0 (-0.04σ)",
         "Macro ≥ 4.5 (7.9/10)",
@@ -281,8 +281,7 @@
       "warnings": [
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+        "Aucun événement management explicite disponible"
       ],
       "raison_principale": "Toutes conditions BUY (6/6)",
       "urgence": 0,
@@ -295,7 +294,7 @@
       "pnl_latent": null,
       "position_recommendation": null,
       "hiboo_ratios": {
-        "dette_ebitda": 0.792476,
+        "dette_ebitda": 0.849524,
         "roce": null,
         "roe": 0.34765,
         "cagr_ca_5ans": 0.111596,
@@ -307,17 +306,17 @@
         "ebitda_margin": 0.199787,
         "net_margin": 0.094256,
         "fcf_margin": null,
-        "net_debt_to_ebitda": 0.792476,
+        "net_debt_to_ebitda": 0.849524,
         "interest_coverage": null,
         "current_ratio": null,
-        "debt_to_equity": 1.363164,
+        "debt_to_equity": 1.405202,
         "revenue_cagr_3y": 0.046532,
         "dividend_yield": null,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 8.243,
+        "solidite": 8.23,
         "croissance": null,
         "agilite": null,
         "rentabilite": 6.667
@@ -1133,29 +1132,102 @@
       }
     },
     {
+      "ticker": "ML.PA",
+      "decision": "WATCH",
+      "decision_variant": "WATCH",
+      "score_global": 61.66,
+      "score_global_effective": 61.66,
+      "soldes_bonus": 0.0,
+      "score_fondamental": 6.701,
+      "score_technique": 8.453,
+      "score_macro": 7.93,
+      "score_qualite": 8.0,
+      "penalites": 0.0,
+      "hiboo_note_20": 9.21,
+      "sigma": 0.3868,
+      "r_squared": 0.8186,
+      "pente_annuelle_pct": 7.535,
+      "data_quality_flag": "PARTIAL",
+      "n_piliers_valides": 4,
+      "compte": "PEA",
+      "univers": "FR",
+      "cours_actuel": 34.610001,
+      "reasons": [
+        "Score global ≥ 60 (61.7)",
+        "Fondamental ≥ 6.0 (6.70/10)",
+        "Macro ≥ 4.5 (7.9/10)",
+        "Marché NORMAL (≠ CRISE/EXTREME)",
+        "Qualité données (PARTIAL)"
+      ],
+      "warnings": [
+        "Historique fondamental trimestriel indisponible",
+        "Aucun événement management explicite disponible",
+        "Aucun événement management explicite disponible",
+        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+      ],
+      "raison_principale": "5/6 conditions BUY remplies",
+      "urgence": 0,
+      "tranche": null,
+      "n_tranches": null,
+      "prix_limite": null,
+      "fraction_suggeree": null,
+      "palier_declenche": null,
+      "gain_pct": null,
+      "pnl_latent": null,
+      "position_recommendation": null,
+      "hiboo_ratios": {
+        "dette_ebitda": null,
+        "roce": 0.085989,
+        "roe": 0.092056,
+        "cagr_ca_5ans": 0.027833,
+        "marge_fcf": 0.069329,
+        "rendement_actionnaire": 0.0,
+        "fcf_yield": null,
+        "gross_margin": 0.270045,
+        "ebit_margin": 0.091028,
+        "ebitda_margin": null,
+        "net_margin": 0.06402,
+        "fcf_margin": 0.069329,
+        "net_debt_to_ebitda": null,
+        "interest_coverage": null,
+        "current_ratio": 1.902039,
+        "debt_to_equity": 0.279376,
+        "revenue_cagr_3y": -0.031619,
+        "dividend_yield": null,
+        "ebitda_source": null,
+        "total_debt_incomplete": 1.0
+      },
+      "piliers": {
+        "solidite": 9.489,
+        "croissance": 4.713,
+        "agilite": 6.365,
+        "rentabilite": 5.174
+      }
+    },
+    {
       "ticker": "AC.PA",
       "decision": "WATCH",
       "decision_variant": "WATCH",
-      "score_global": 61.65,
-      "score_global_effective": 61.65,
+      "score_global": 61.4,
+      "score_global_effective": 61.4,
       "soldes_bonus": 0.0,
-      "score_fondamental": 7.374,
+      "score_fondamental": 7.332,
       "score_technique": 4.535,
       "score_macro": 7.93,
       "score_qualite": 8.0,
       "penalites": 0.0,
-      "hiboo_note_20": 15.02,
+      "hiboo_note_20": 16.02,
       "sigma": 0.7521,
       "r_squared": 0.35,
       "pente_annuelle_pct": 4.362,
       "data_quality_flag": "PARTIAL",
-      "n_piliers_valides": 3,
+      "n_piliers_valides": 4,
       "compte": "PEA",
       "univers": "FR",
       "cours_actuel": 46.34,
       "reasons": [
-        "Score global ≥ 60 (61.6)",
-        "Fondamental ≥ 6.0 (7.37/10)",
+        "Score global ≥ 60 (61.4)",
+        "Fondamental ≥ 6.0 (7.33/10)",
         "Macro ≥ 4.5 (7.9/10)",
         "Marché NORMAL (≠ CRISE/EXTREME)",
         "Qualité données (PARTIAL)"
@@ -1176,7 +1248,7 @@
       "pnl_latent": null,
       "position_recommendation": null,
       "hiboo_ratios": {
-        "dette_ebitda": null,
+        "dette_ebitda": -0.578716,
         "roce": 0.089957,
         "roe": 0.105788,
         "cagr_ca_5ans": 0.339135,
@@ -1198,7 +1270,7 @@
         "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": null,
+        "solidite": 7.249,
         "croissance": 6.727,
         "agilite": 6.832,
         "rentabilite": 8.585
@@ -1353,10 +1425,10 @@
       "ticker": "SU.PA",
       "decision": "WATCH",
       "decision_variant": "WATCH",
-      "score_global": 61.06,
-      "score_global_effective": 61.06,
+      "score_global": 60.85,
+      "score_global_effective": 60.85,
       "soldes_bonus": 0.0,
-      "score_fondamental": 7.116,
+      "score_fondamental": 7.079,
       "score_technique": 5.447,
       "score_macro": 7.93,
       "score_qualite": 8.0,
@@ -1371,8 +1443,8 @@
       "univers": "FR",
       "cours_actuel": 311.0,
       "reasons": [
-        "Score global ≥ 49 (61.1)",
-        "Fondamental ≥ 6.0 (7.12/10)",
+        "Score global ≥ 49 (60.9)",
+        "Fondamental ≥ 6.0 (7.08/10)",
         "Macro ≥ 4.5 (7.9/10)",
         "Marché NORMAL (CRISE OK conviction)",
         "Qualité données (PARTIAL)"
@@ -1380,8 +1452,7 @@
       "warnings": [
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+        "Aucun événement management explicite disponible"
       ],
       "raison_principale": "5/6 conditions BUY remplies",
       "urgence": 0,
@@ -1409,14 +1480,14 @@
         "net_debt_to_ebitda": null,
         "interest_coverage": null,
         "current_ratio": 1.190857,
-        "debt_to_equity": 0.61423,
+        "debt_to_equity": 0.731139,
         "revenue_cagr_3y": 0.055853,
         "dividend_yield": 0.012742,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 6.78,
+        "solidite": 6.669,
         "croissance": 7.205,
         "agilite": 8.94,
         "rentabilite": 6.053
@@ -1492,79 +1563,6 @@
         "croissance": 5.33,
         "agilite": 6.039,
         "rentabilite": 6.277
-      }
-    },
-    {
-      "ticker": "ML.PA",
-      "decision": "WATCH",
-      "decision_variant": "WATCH",
-      "score_global": 60.17,
-      "score_global_effective": 60.17,
-      "soldes_bonus": 0.0,
-      "score_fondamental": 6.443,
-      "score_technique": 8.453,
-      "score_macro": 7.93,
-      "score_qualite": 8.0,
-      "penalites": 0.0,
-      "hiboo_note_20": 9.21,
-      "sigma": 0.3868,
-      "r_squared": 0.8186,
-      "pente_annuelle_pct": 7.535,
-      "data_quality_flag": "PARTIAL",
-      "n_piliers_valides": 4,
-      "compte": "PEA",
-      "univers": "FR",
-      "cours_actuel": 34.610001,
-      "reasons": [
-        "Score global ≥ 60 (60.2)",
-        "Fondamental ≥ 6.0 (6.44/10)",
-        "Macro ≥ 4.5 (7.9/10)",
-        "Marché NORMAL (≠ CRISE/EXTREME)",
-        "Qualité données (PARTIAL)"
-      ],
-      "warnings": [
-        "Historique fondamental trimestriel indisponible",
-        "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
-      ],
-      "raison_principale": "5/6 conditions BUY remplies",
-      "urgence": 0,
-      "tranche": null,
-      "n_tranches": null,
-      "prix_limite": null,
-      "fraction_suggeree": null,
-      "palier_declenche": null,
-      "gain_pct": null,
-      "pnl_latent": null,
-      "position_recommendation": null,
-      "hiboo_ratios": {
-        "dette_ebitda": null,
-        "roce": 0.085989,
-        "roe": 0.092056,
-        "cagr_ca_5ans": 0.027833,
-        "marge_fcf": 0.069329,
-        "rendement_actionnaire": 0.0,
-        "fcf_yield": null,
-        "gross_margin": 0.270045,
-        "ebit_margin": 0.091028,
-        "ebitda_margin": null,
-        "net_margin": 0.06402,
-        "fcf_margin": 0.069329,
-        "net_debt_to_ebitda": null,
-        "interest_coverage": null,
-        "current_ratio": 1.902039,
-        "debt_to_equity": 0.279376,
-        "revenue_cagr_3y": -0.031619,
-        "dividend_yield": null,
-        "ebitda_source": null,
-        "total_debt_incomplete": 1.0
-      },
-      "piliers": {
-        "solidite": 8.714,
-        "croissance": 4.713,
-        "agilite": 6.365,
-        "rentabilite": 5.174
       }
     },
     {
@@ -2215,10 +2213,10 @@
       "ticker": "CLARI.PA",
       "decision": "WATCH",
       "decision_variant": "WATCH",
-      "score_global": 52.51,
-      "score_global_effective": 52.51,
+      "score_global": 52.54,
+      "score_global_effective": 52.54,
       "soldes_bonus": 0.0,
-      "score_fondamental": 5.359,
+      "score_fondamental": 5.365,
       "score_technique": 7.082,
       "score_macro": 7.93,
       "score_qualite": 8.0,
@@ -2237,8 +2235,7 @@
         "Ratio conversion FCF aberrant (88.7x) — plafonné pour scoring",
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+        "Aucun événement management explicite disponible"
       ],
       "raison_principale": "DECLINING_TREND : -20.1%/an (R²=0.554) — bonus soldes annulé",
       "urgence": 0,
@@ -2251,7 +2248,7 @@
       "pnl_latent": null,
       "position_recommendation": null,
       "hiboo_ratios": {
-        "dette_ebitda": 2.274769,
+        "dette_ebitda": 2.279195,
         "roce": null,
         "roe": 0.002357,
         "cagr_ca_5ans": 0.082206,
@@ -2263,17 +2260,17 @@
         "ebitda_margin": 0.20204,
         "net_margin": 0.001732,
         "fcf_margin": 0.153648,
-        "net_debt_to_ebitda": 2.274769,
+        "net_debt_to_ebitda": 2.279195,
         "interest_coverage": 1.09058,
         "current_ratio": null,
-        "debt_to_equity": 0.826669,
+        "debt_to_equity": 0.827886,
         "revenue_cagr_3y": 0.064386,
         "dividend_yield": null,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 5.192,
+        "solidite": 5.209,
         "croissance": 6.328,
         "agilite": 6.693,
         "rentabilite": 3.38
@@ -2310,7 +2307,6 @@
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)",
         "Données fondamentales STALE −2pts"
       ],
       "raison_principale": "4/6 conditions BUY remplies",
@@ -2339,11 +2335,11 @@
         "net_debt_to_ebitda": null,
         "interest_coverage": null,
         "current_ratio": null,
-        "debt_to_equity": 0.626234,
+        "debt_to_equity": 0.662961,
         "revenue_cagr_3y": 0.092195,
         "dividend_yield": 0.052253,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
         "solidite": 5.913,
@@ -2528,7 +2524,6 @@
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)",
         "Données fondamentales STALE −2pts"
       ],
       "raison_principale": "4/6 conditions BUY remplies",
@@ -2542,7 +2537,7 @@
       "pnl_latent": null,
       "position_recommendation": null,
       "hiboo_ratios": {
-        "dette_ebitda": 1.056034,
+        "dette_ebitda": 1.060129,
         "roce": null,
         "roe": 0.084206,
         "cagr_ca_5ans": 0.201962,
@@ -2554,17 +2549,17 @@
         "ebitda_margin": 0.081759,
         "net_margin": 0.021532,
         "fcf_margin": 0.046941,
-        "net_debt_to_ebitda": 1.056034,
+        "net_debt_to_ebitda": 1.060129,
         "interest_coverage": null,
         "current_ratio": null,
-        "debt_to_equity": 0.721265,
+        "debt_to_equity": 0.722574,
         "revenue_cagr_3y": 0.201962,
         "dividend_yield": null,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 6.895,
+        "solidite": 6.894,
         "croissance": 6.667,
         "agilite": 5.986,
         "rentabilite": 3.987
@@ -2714,15 +2709,15 @@
       "ticker": "MF.PA",
       "decision": "WATCH",
       "decision_variant": "WATCH",
-      "score_global": 48.88,
-      "score_global_effective": 48.88,
+      "score_global": 49.32,
+      "score_global_effective": 49.32,
       "soldes_bonus": 0.0,
-      "score_fondamental": 6.03,
+      "score_fondamental": 6.105,
       "score_technique": 4.563,
       "score_macro": 7.93,
       "score_qualite": 8.0,
       "penalites": 0.0,
-      "hiboo_note_20": 14.86,
+      "hiboo_note_20": 14.7,
       "sigma": 0.2788,
       "r_squared": 0.1501,
       "pente_annuelle_pct": 1.797,
@@ -2732,7 +2727,7 @@
       "univers": "FR",
       "cours_actuel": 86.199997,
       "reasons": [
-        "Fondamental ≥ 6.0 (6.03/10)",
+        "Fondamental ≥ 6.0 (6.11/10)",
         "Macro ≥ 4.5 (7.9/10)",
         "Marché NORMAL (≠ CRISE/EXTREME)",
         "Qualité données (PARTIAL)"
@@ -2741,7 +2736,6 @@
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)",
         "behavior_flags: -5.0pts (1 flag(s): ['dette_explosive'])"
       ],
       "raison_principale": "4/6 conditions BUY remplies",
@@ -2755,7 +2749,7 @@
       "pnl_latent": null,
       "position_recommendation": null,
       "hiboo_ratios": {
-        "dette_ebitda": 1.59554,
+        "dette_ebitda": 1.757874,
         "roce": null,
         "roe": 0.063415,
         "cagr_ca_5ans": 0.049403,
@@ -2767,17 +2761,17 @@
         "ebitda_margin": 0.121576,
         "net_margin": 0.04429,
         "fcf_margin": null,
-        "net_debt_to_ebitda": 1.59554,
+        "net_debt_to_ebitda": 1.757874,
         "interest_coverage": 3.140297,
         "current_ratio": null,
-        "debt_to_equity": 0.870189,
+        "debt_to_equity": 0.898447,
         "revenue_cagr_3y": 0.049403,
         "dividend_yield": 0.175473,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 9.705,
+        "solidite": 9.928,
         "croissance": 2.37,
         "agilite": 2.48,
         "rentabilite": 7.753
@@ -2928,10 +2922,10 @@
       "ticker": "EDEN.PA",
       "decision": "WATCH",
       "decision_variant": "WATCH",
-      "score_global": 38.02,
-      "score_global_effective": 38.02,
+      "score_global": 38.42,
+      "score_global_effective": 38.42,
       "soldes_bonus": 0.0,
-      "score_fondamental": 4.148,
+      "score_fondamental": 4.217,
       "score_technique": 3.616,
       "score_macro": 7.93,
       "score_qualite": 8.0,
@@ -2979,14 +2973,14 @@
         "net_debt_to_ebitda": null,
         "interest_coverage": null,
         "current_ratio": 0.840611,
-        "debt_to_equity": -3.671367,
+        "debt_to_equity": -3.834056,
         "revenue_cagr_3y": 0.121609,
         "dividend_yield": null,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 2.676,
+        "solidite": 2.845,
         "croissance": 6.667,
         "agilite": null,
         "rentabilite": 3.333
@@ -3064,10 +3058,10 @@
       "ticker": "VIV.PA",
       "decision": "WATCH",
       "decision_variant": "WATCH",
-      "score_global": 34.04,
-      "score_global_effective": 34.04,
+      "score_global": 34.72,
+      "score_global_effective": 34.72,
       "soldes_bonus": 0.0,
-      "score_fondamental": 2.128,
+      "score_fondamental": 2.246,
       "score_technique": 12.353,
       "score_macro": 7.93,
       "score_qualite": 8.0,
@@ -3122,7 +3116,7 @@
         "total_debt_incomplete": 1.0
       },
       "piliers": {
-        "solidite": 4.451,
+        "solidite": 4.804,
         "croissance": 0.0,
         "agilite": 3.52,
         "rentabilite": 0.085
@@ -3439,8 +3433,7 @@
       "warnings": [
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+        "Aucun événement management explicite disponible"
       ],
       "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
@@ -3453,7 +3446,7 @@
       "pnl_latent": null,
       "position_recommendation": null,
       "hiboo_ratios": {
-        "dette_ebitda": -1.019,
+        "dette_ebitda": -1.018066,
         "roce": null,
         "roe": 0.078113,
         "cagr_ca_5ans": -0.017285,
@@ -3465,17 +3458,17 @@
         "ebitda_margin": 0.279551,
         "net_margin": 0.071879,
         "fcf_margin": 0.042797,
-        "net_debt_to_ebitda": -1.019,
+        "net_debt_to_ebitda": -1.018066,
         "interest_coverage": null,
         "current_ratio": null,
-        "debt_to_equity": 0.013248,
+        "debt_to_equity": 0.013531,
         "revenue_cagr_3y": -0.029692,
         "dividend_yield": null,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 9.3,
+        "solidite": 9.301,
         "croissance": 0.0,
         "agilite": 5.444,
         "rentabilite": 4.896
@@ -3556,15 +3549,15 @@
       "ticker": "GET.PA",
       "decision": "SKIP",
       "decision_variant": "SKIP",
-      "score_global": 52.17,
-      "score_global_effective": 52.17,
+      "score_global": 52.13,
+      "score_global_effective": 52.13,
       "soldes_bonus": 0.0,
-      "score_fondamental": 5.917,
+      "score_fondamental": 5.91,
       "score_technique": 7.509,
       "score_macro": 7.93,
       "score_qualite": 6.0,
       "penalites": 2.0,
-      "hiboo_note_20": 10.42,
+      "hiboo_note_20": 10.39,
       "sigma": 0.6227,
       "r_squared": 0.8747,
       "pente_annuelle_pct": 7.97,
@@ -3582,7 +3575,6 @@
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
         "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)",
         "Données fondamentales STALE −2pts"
       ],
       "raison_principale": "Conditions insuffisantes (3/6)",
@@ -3596,7 +3588,7 @@
       "pnl_latent": null,
       "position_recommendation": null,
       "hiboo_ratios": {
-        "dette_ebitda": 3.551391,
+        "dette_ebitda": 3.576784,
         "roce": 0.076706,
         "roe": 0.127412,
         "cagr_ca_5ans": 0.388107,
@@ -3608,17 +3600,17 @@
         "ebitda_margin": 0.512392,
         "net_margin": 0.196406,
         "fcf_margin": null,
-        "net_debt_to_ebitda": 3.551391,
+        "net_debt_to_ebitda": 3.576784,
         "interest_coverage": null,
         "current_ratio": 1.359722,
-        "debt_to_equity": 1.799035,
+        "debt_to_equity": 1.807476,
         "revenue_cagr_3y": 0.388107,
         "dividend_yield": null,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 7.245,
+        "solidite": 7.23,
         "croissance": null,
         "agilite": 3.698,
         "rentabilite": 5.699
@@ -3908,10 +3900,10 @@
       "ticker": "AKE.PA",
       "decision": "SKIP",
       "decision_variant": "SKIP",
-      "score_global": 47.45,
-      "score_global_effective": 47.45,
+      "score_global": 47.68,
+      "score_global_effective": 47.68,
       "soldes_bonus": 0.0,
-      "score_fondamental": 4.97,
+      "score_fondamental": 5.011,
       "score_technique": 4.275,
       "score_macro": 7.93,
       "score_qualite": 8.0,
@@ -3969,7 +3961,7 @@
         "total_debt_incomplete": 1.0
       },
       "piliers": {
-        "solidite": 7.621,
+        "solidite": 7.71,
         "croissance": null,
         "agilite": 1.826,
         "rentabilite": 3.51
@@ -3979,10 +3971,10 @@
       "ticker": "FR.PA",
       "decision": "SKIP",
       "decision_variant": "SKIP",
-      "score_global": 46.72,
-      "score_global_effective": 46.72,
+      "score_global": 46.76,
+      "score_global_effective": 46.76,
       "soldes_bonus": 0.0,
-      "score_fondamental": 5.276,
+      "score_fondamental": 5.282,
       "score_technique": 1.778,
       "score_macro": 7.93,
       "score_qualite": 8.0,
@@ -4005,8 +3997,7 @@
         "Ratio conversion FCF aberrant (5.9x) — plafonné pour scoring",
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+        "Aucun événement management explicite disponible"
       ],
       "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
@@ -4034,14 +4025,14 @@
         "net_debt_to_ebitda": null,
         "interest_coverage": null,
         "current_ratio": 0.856588,
-        "debt_to_equity": 1.334316,
+        "debt_to_equity": 1.340457,
         "revenue_cagr_3y": 0.014372,
         "dividend_yield": 0.040438,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 2.826,
+        "solidite": 2.842,
         "croissance": 5.554,
         "agilite": 7.095,
         "rentabilite": 7.165
@@ -4149,8 +4140,7 @@
         "Net income ≤ 0 mais FCF positif — résilience des flux",
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+        "Aucun événement management explicite disponible"
       ],
       "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
@@ -4178,11 +4168,11 @@
         "net_debt_to_ebitda": null,
         "interest_coverage": -4.61011,
         "current_ratio": 0.255782,
-        "debt_to_equity": 0.030698,
+        "debt_to_equity": 0.032424,
         "revenue_cagr_3y": -0.5555,
         "dividend_yield": null,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
         "solidite": 10.0,
@@ -4435,8 +4425,7 @@
       "warnings": [
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+        "Aucun événement management explicite disponible"
       ],
       "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
@@ -4464,11 +4453,11 @@
         "net_debt_to_ebitda": null,
         "interest_coverage": null,
         "current_ratio": null,
-        "debt_to_equity": 0.589251,
+        "debt_to_equity": 0.603592,
         "revenue_cagr_3y": 0.094177,
         "dividend_yield": 0.032959,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
         "solidite": null,
@@ -4695,10 +4684,10 @@
       "ticker": "TTE.PA",
       "decision": "SKIP",
       "decision_variant": "SKIP",
-      "score_global": 40.22,
-      "score_global_effective": 40.22,
+      "score_global": 40.21,
+      "score_global_effective": 40.21,
       "soldes_bonus": 0.0,
-      "score_fondamental": 3.591,
+      "score_fondamental": 3.589,
       "score_technique": 5.049,
       "score_macro": 7.93,
       "score_qualite": 8.0,
@@ -4721,8 +4710,7 @@
         "BFR négatif faible (1.5% du CA) — potentiellement tendu, score ajusté à 8.0",
         "Historique fondamental trimestriel indisponible",
         "Aucun événement management explicite disponible",
-        "Aucun événement management explicite disponible",
-        "Dette court terme absente — Dette/EBITDA calculé sur LT seule (potentiellement sous-estimé)"
+        "Aucun événement management explicite disponible"
       ],
       "raison_principale": "Conditions insuffisantes (3/6)",
       "urgence": 0,
@@ -4750,14 +4738,14 @@
         "net_debt_to_ebitda": null,
         "interest_coverage": null,
         "current_ratio": 0.966574,
-        "debt_to_equity": 0.416897,
+        "debt_to_equity": 0.420199,
         "revenue_cagr_3y": -0.106553,
         "dividend_yield": null,
         "ebitda_source": null,
-        "total_debt_incomplete": 1.0
+        "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 5.592,
+        "solidite": 5.587,
         "croissance": 0.0,
         "agilite": 6.986,
         "rentabilite": 2.182
@@ -4837,10 +4825,10 @@
       "ticker": "EXA.PA",
       "decision": "SKIP",
       "decision_variant": "SKIP",
-      "score_global": 39.67,
-      "score_global_effective": 39.67,
+      "score_global": 39.62,
+      "score_global_effective": 39.62,
       "soldes_bonus": 0.0,
-      "score_fondamental": 3.97,
+      "score_fondamental": 3.962,
       "score_technique": 3.797,
       "score_macro": 7.93,
       "score_qualite": 6.5,
@@ -4898,7 +4886,7 @@
         "total_debt_incomplete": 1.0
       },
       "piliers": {
-        "solidite": 4.301,
+        "solidite": 4.282,
         "croissance": 6.667,
         "agilite": null,
         "rentabilite": 0.236
@@ -5480,10 +5468,10 @@
       "ticker": "GNFT.PA",
       "decision": "SKIP",
       "decision_variant": "SKIP",
-      "score_global": 29.19,
-      "score_global_effective": 29.19,
+      "score_global": 28.36,
+      "score_global_effective": 28.36,
       "soldes_bonus": 0.0,
-      "score_fondamental": 3.288,
+      "score_fondamental": 3.144,
       "score_technique": 1.28,
       "score_macro": 7.93,
       "score_qualite": 4.5,
@@ -5542,7 +5530,7 @@
         "total_debt_incomplete": 0.0
       },
       "piliers": {
-        "solidite": 6.329,
+        "solidite": 5.899,
         "croissance": 0.0,
         "agilite": 5.579,
         "rentabilite": 0.838

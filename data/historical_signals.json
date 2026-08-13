@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T09:40:16.253846+00:00",
+    "generated_at": "2026-08-13T12:04:57.601387+00:00",
     "period_days": 30,
     "cutoff_date": "2026-07-14",
     "n_records": 80
@@ -16,9 +16,7 @@
       "position_sigma": -2.3687,
       "r_squared": 0.915,
       "pente_annuelle": 0.21429,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -30,9 +28,7 @@
       "position_sigma": -1.1095,
       "r_squared": 0.8594,
       "pente_annuelle": 0.11374,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -44,9 +40,7 @@
       "position_sigma": -1.3816,
       "r_squared": 0.6347,
       "pente_annuelle": 0.13123,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -58,23 +52,19 @@
       "position_sigma": -0.151,
       "r_squared": 0.969,
       "pente_annuelle": 0.12257,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "BVI.PA",
-      "score_global": 68.65,
-      "score_fondamental": 7.613,
+      "score_global": 68.6,
+      "score_fondamental": 7.605,
       "score_technique": 10.148,
       "score_macro": 7.93,
       "position_sigma": -0.037,
       "r_squared": 0.8474,
       "pente_annuelle": 0.06137,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -86,9 +76,7 @@
       "position_sigma": -2.3519,
       "r_squared": 0.8539,
       "pente_annuelle": 0.11461,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -100,9 +88,7 @@
       "position_sigma": -1.5214,
       "r_squared": 0.7719,
       "pente_annuelle": 0.05714,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -114,9 +100,7 @@
       "position_sigma": 0.2176,
       "r_squared": 0.8707,
       "pente_annuelle": 0.168,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -128,9 +112,7 @@
       "position_sigma": -1.6339,
       "r_squared": 0.7091,
       "pente_annuelle": 0.14044,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -142,9 +124,7 @@
       "position_sigma": -0.5968,
       "r_squared": 0.5483,
       "pente_annuelle": 0.08103,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -156,9 +136,7 @@
       "position_sigma": -0.0323,
       "r_squared": 0.6417,
       "pente_annuelle": 0.08627,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -170,9 +148,7 @@
       "position_sigma": -1.4018,
       "r_squared": 0.33,
       "pente_annuelle": 0.07548,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -184,23 +160,19 @@
       "position_sigma": 0.6743,
       "r_squared": 0.4951,
       "pente_annuelle": 0.06784,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
-      "ticker": "AC.PA",
-      "score_global": 61.65,
-      "score_fondamental": 7.374,
-      "score_technique": 4.535,
+      "ticker": "ML.PA",
+      "score_global": 61.66,
+      "score_fondamental": 6.701,
+      "score_technique": 8.453,
       "score_macro": 7.93,
-      "position_sigma": 0.7521,
-      "r_squared": 0.35,
-      "pente_annuelle": 0.04362,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "position_sigma": 0.3868,
+      "r_squared": 0.8186,
+      "pente_annuelle": 0.07535,
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -212,9 +184,19 @@
       "position_sigma": -1.5429,
       "r_squared": 0.5104,
       "pente_annuelle": 0.09017,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-08-13",
+      "ticker": "AC.PA",
+      "score_global": 61.4,
+      "score_fondamental": 7.332,
+      "score_technique": 4.535,
+      "score_macro": 7.93,
+      "position_sigma": 0.7521,
+      "r_squared": 0.35,
+      "pente_annuelle": 0.04362,
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -226,9 +208,7 @@
       "position_sigma": -0.5586,
       "r_squared": 0.6635,
       "pente_annuelle": 0.06876,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -240,23 +220,19 @@
       "position_sigma": 1.244,
       "r_squared": 0.8966,
       "pente_annuelle": 0.18129,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "SU.PA",
-      "score_global": 61.06,
-      "score_fondamental": 7.116,
+      "score_global": 60.85,
+      "score_fondamental": 7.079,
       "score_technique": 5.447,
       "score_macro": 7.93,
       "position_sigma": 1.1382,
       "r_squared": 0.939,
       "pente_annuelle": 0.17508,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -268,9 +244,7 @@
       "position_sigma": 0.8615,
       "r_squared": 0.9249,
       "pente_annuelle": 0.12543,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -282,23 +256,7 @@
       "position_sigma": -0.2773,
       "r_squared": 0.7981,
       "pente_annuelle": 0.14919,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
-    },
-    {
-      "date": "2026-08-13",
-      "ticker": "ML.PA",
-      "score_global": 60.17,
-      "score_fondamental": 6.443,
-      "score_technique": 8.453,
-      "score_macro": 7.93,
-      "position_sigma": 0.3868,
-      "r_squared": 0.8186,
-      "pente_annuelle": 0.07535,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -310,9 +268,7 @@
       "position_sigma": 0.2191,
       "r_squared": 0.8408,
       "pente_annuelle": 0.10186,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -324,9 +280,7 @@
       "position_sigma": 1.0517,
       "r_squared": 0.8967,
       "pente_annuelle": 0.13908,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -338,9 +292,7 @@
       "position_sigma": 0.8795,
       "r_squared": 0.8618,
       "pente_annuelle": 0.16748,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -352,9 +304,7 @@
       "position_sigma": 0.1327,
       "r_squared": 0.765,
       "pente_annuelle": 0.11689,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -366,9 +316,7 @@
       "position_sigma": 0.6371,
       "r_squared": 0.6195,
       "pente_annuelle": 0.09851,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -380,9 +328,7 @@
       "position_sigma": 0.1946,
       "r_squared": 0.6545,
       "pente_annuelle": 0.0477,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -394,9 +340,7 @@
       "position_sigma": -0.3543,
       "r_squared": 0.937,
       "pente_annuelle": 0.11114,
-      "data_quality_flag": "DEGRADED",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "DEGRADED"
     },
     {
       "date": "2026-08-13",
@@ -408,9 +352,7 @@
       "position_sigma": 0.3881,
       "r_squared": 0.904,
       "pente_annuelle": 0.11385,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -422,9 +364,7 @@
       "position_sigma": -0.7,
       "r_squared": 0.5949,
       "pente_annuelle": 0.08369,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -436,9 +376,7 @@
       "position_sigma": -1.6135,
       "r_squared": 0.8766,
       "pente_annuelle": 0.1577,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -450,9 +388,7 @@
       "position_sigma": -1.9691,
       "r_squared": 0.6252,
       "pente_annuelle": 0.09471,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -464,9 +400,7 @@
       "position_sigma": 0.3445,
       "r_squared": 0.7025,
       "pente_annuelle": -0.21258,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -478,9 +412,7 @@
       "position_sigma": -2.12,
       "r_squared": 0.9157,
       "pente_annuelle": 0.31846,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -492,23 +424,19 @@
       "position_sigma": 0.2257,
       "r_squared": 0.8874,
       "pente_annuelle": -0.21001,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "CLARI.PA",
-      "score_global": 52.51,
-      "score_fondamental": 5.359,
+      "score_global": 52.54,
+      "score_fondamental": 5.365,
       "score_technique": 7.082,
       "score_macro": 7.93,
       "position_sigma": 0.3116,
       "r_squared": 0.5543,
       "pente_annuelle": -0.20094,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -520,23 +448,19 @@
       "position_sigma": 0.8416,
       "r_squared": 0.6157,
       "pente_annuelle": -0.1395,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "GET.PA",
-      "score_global": 52.17,
-      "score_fondamental": 5.917,
+      "score_global": 52.13,
+      "score_fondamental": 5.91,
       "score_technique": 7.509,
       "score_macro": 7.93,
       "position_sigma": 0.6227,
       "r_squared": 0.8747,
       "pente_annuelle": 0.0797,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -548,9 +472,7 @@
       "position_sigma": 1.2014,
       "r_squared": 0.7397,
       "pente_annuelle": 0.12057,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -562,9 +484,7 @@
       "position_sigma": -0.4819,
       "r_squared": 0.2869,
       "pente_annuelle": -0.06507,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -576,9 +496,7 @@
       "position_sigma": -0.042,
       "r_squared": 0.3344,
       "pente_annuelle": 0.04087,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -590,9 +508,7 @@
       "position_sigma": 0.908,
       "r_squared": 0.8644,
       "pente_annuelle": 0.16497,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -604,9 +520,7 @@
       "position_sigma": 0.666,
       "r_squared": 0.8773,
       "pente_annuelle": 0.14084,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -618,9 +532,7 @@
       "position_sigma": 1.3318,
       "r_squared": 0.7446,
       "pente_annuelle": 0.08019,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -632,9 +544,7 @@
       "position_sigma": -1.0985,
       "r_squared": 0.689,
       "pente_annuelle": -0.37366,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -646,23 +556,19 @@
       "position_sigma": null,
       "r_squared": null,
       "pente_annuelle": null,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "MF.PA",
-      "score_global": 48.88,
-      "score_fondamental": 6.03,
+      "score_global": 49.32,
+      "score_fondamental": 6.105,
       "score_technique": 4.563,
       "score_macro": 7.93,
       "position_sigma": 0.2788,
       "r_squared": 0.1501,
       "pente_annuelle": 0.01797,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -674,9 +580,7 @@
       "position_sigma": -0.1095,
       "r_squared": 0.512,
       "pente_annuelle": -0.08441,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -688,37 +592,31 @@
       "position_sigma": -0.772,
       "r_squared": 0.7985,
       "pente_annuelle": -0.27757,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "AKE.PA",
-      "score_global": 47.45,
-      "score_fondamental": 4.97,
+      "score_global": 47.68,
+      "score_fondamental": 5.011,
       "score_technique": 4.275,
       "score_macro": 7.93,
       "position_sigma": 1.3592,
       "r_squared": 0.6719,
       "pente_annuelle": -0.10935,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "FR.PA",
-      "score_global": 46.72,
-      "score_fondamental": 5.276,
+      "score_global": 46.76,
+      "score_fondamental": 5.282,
       "score_technique": 1.778,
       "score_macro": 7.93,
       "position_sigma": 2.2217,
       "r_squared": 0.7555,
       "pente_annuelle": -0.14449,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -730,9 +628,7 @@
       "position_sigma": -0.2249,
       "r_squared": 0.501,
       "pente_annuelle": 0.09847,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -744,9 +640,7 @@
       "position_sigma": -0.1405,
       "r_squared": 0.1789,
       "pente_annuelle": 0.02661,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -758,9 +652,7 @@
       "position_sigma": -0.6715,
       "r_squared": 0.313,
       "pente_annuelle": 0.03808,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -772,9 +664,7 @@
       "position_sigma": -0.41,
       "r_squared": 0.7777,
       "pente_annuelle": 0.01249,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -786,9 +676,7 @@
       "position_sigma": 0.397,
       "r_squared": 0.1369,
       "pente_annuelle": 0.02018,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -800,9 +688,7 @@
       "position_sigma": 1.2893,
       "r_squared": 0.717,
       "pente_annuelle": 0.28361,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -814,9 +700,7 @@
       "position_sigma": 1.3498,
       "r_squared": 0.4768,
       "pente_annuelle": -0.07448,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -828,9 +712,7 @@
       "position_sigma": 0.11,
       "r_squared": 0.3945,
       "pente_annuelle": -0.04671,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -842,9 +724,7 @@
       "position_sigma": 1.4488,
       "r_squared": 0.6589,
       "pente_annuelle": 0.10833,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -856,23 +736,19 @@
       "position_sigma": 0.121,
       "r_squared": 0.7976,
       "pente_annuelle": 0.16009,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "TTE.PA",
-      "score_global": 40.22,
-      "score_fondamental": 3.591,
+      "score_global": 40.21,
+      "score_fondamental": 3.589,
       "score_technique": 5.049,
       "score_macro": 7.93,
       "position_sigma": 1.2378,
       "r_squared": 0.8258,
       "pente_annuelle": 0.10381,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -884,23 +760,19 @@
       "position_sigma": 2.24,
       "r_squared": 0.7119,
       "pente_annuelle": 0.085,
-      "data_quality_flag": "DEGRADED",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "DEGRADED"
     },
     {
       "date": "2026-08-13",
       "ticker": "EXA.PA",
-      "score_global": 39.67,
-      "score_fondamental": 3.97,
+      "score_global": 39.62,
+      "score_fondamental": 3.962,
       "score_technique": 3.797,
       "score_macro": 7.93,
       "position_sigma": 1.3767,
       "r_squared": 0.5875,
       "pente_annuelle": 0.22594,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -912,9 +784,7 @@
       "position_sigma": 1.2984,
       "r_squared": 0.2072,
       "pente_annuelle": 0.02883,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -926,23 +796,19 @@
       "position_sigma": 1.3369,
       "r_squared": 0.4357,
       "pente_annuelle": 0.05302,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "EDEN.PA",
-      "score_global": 38.02,
-      "score_fondamental": 4.148,
+      "score_global": 38.42,
+      "score_fondamental": 4.217,
       "score_technique": 3.616,
       "score_macro": 7.93,
       "position_sigma": 1.5031,
       "r_squared": 0.6443,
       "pente_annuelle": -0.18522,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -954,9 +820,7 @@
       "position_sigma": 2.0466,
       "r_squared": 0.7373,
       "pente_annuelle": 0.10889,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -968,9 +832,7 @@
       "position_sigma": -0.0113,
       "r_squared": 0.6313,
       "pente_annuelle": -0.46756,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -982,9 +844,7 @@
       "position_sigma": 1.3193,
       "r_squared": 0.58,
       "pente_annuelle": 0.06912,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -996,9 +856,7 @@
       "position_sigma": 1.5178,
       "r_squared": 0.7834,
       "pente_annuelle": 0.11621,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -1010,9 +868,19 @@
       "position_sigma": 0.8748,
       "r_squared": 0.2888,
       "pente_annuelle": 0.51616,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
+    },
+    {
+      "date": "2026-08-13",
+      "ticker": "VIV.PA",
+      "score_global": 34.72,
+      "score_fondamental": 2.246,
+      "score_technique": 12.353,
+      "score_macro": 7.93,
+      "position_sigma": -1.2013,
+      "r_squared": 0.5776,
+      "pente_annuelle": -0.23087,
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -1024,23 +892,7 @@
       "position_sigma": 0.8927,
       "r_squared": 0.7045,
       "pente_annuelle": -0.13067,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
-    },
-    {
-      "date": "2026-08-13",
-      "ticker": "VIV.PA",
-      "score_global": 34.04,
-      "score_fondamental": 2.128,
-      "score_technique": 12.353,
-      "score_macro": 7.93,
-      "position_sigma": -1.2013,
-      "r_squared": 0.5776,
-      "pente_annuelle": -0.23087,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -1052,9 +904,7 @@
       "position_sigma": 0.0549,
       "r_squared": 0.3402,
       "pente_annuelle": -0.0362,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -1066,23 +916,19 @@
       "position_sigma": 0.9009,
       "r_squared": 0.6413,
       "pente_annuelle": -0.25609,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
       "ticker": "GNFT.PA",
-      "score_global": 29.19,
-      "score_fondamental": 3.288,
+      "score_global": 28.36,
+      "score_fondamental": 3.144,
       "score_technique": 1.28,
       "score_macro": 7.93,
       "position_sigma": 1.9562,
       "r_squared": 0.2611,
       "pente_annuelle": -0.10708,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -1094,9 +940,7 @@
       "position_sigma": -0.2309,
       "r_squared": 0.0876,
       "pente_annuelle": -0.02633,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -1108,9 +952,7 @@
       "position_sigma": -0.2523,
       "r_squared": 0.4679,
       "pente_annuelle": -0.12506,
-      "data_quality_flag": "PARTIAL",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "PARTIAL"
     },
     {
       "date": "2026-08-13",
@@ -1122,9 +964,7 @@
       "position_sigma": 2.3739,
       "r_squared": 0.3337,
       "pente_annuelle": -0.03788,
-      "data_quality_flag": "UNAVAILABLE",
-      "score_global_effective": null,
-      "soldes_bonus": null
+      "data_quality_flag": "UNAVAILABLE"
     }
   ]
 }

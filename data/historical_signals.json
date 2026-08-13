@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T08:06:01.252195+00:00",
+    "generated_at": "2026-08-13T08:11:55.163872+00:00",
     "period_days": 30,
     "cutoff_date": "2026-07-14",
     "n_records": 80
@@ -16,7 +16,9 @@
       "position_sigma": -2.2567,
       "r_squared": 0.9154,
       "pente_annuelle": 0.21447,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -28,7 +30,9 @@
       "position_sigma": -1.0548,
       "r_squared": 0.8595,
       "pente_annuelle": 0.11379,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -40,7 +44,9 @@
       "position_sigma": -1.3546,
       "r_squared": 0.6353,
       "pente_annuelle": 0.13138,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -52,7 +58,9 @@
       "position_sigma": -0.0398,
       "r_squared": 0.969,
       "pente_annuelle": 0.12257,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -64,7 +72,9 @@
       "position_sigma": 0.1208,
       "r_squared": 0.8472,
       "pente_annuelle": 0.06137,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -76,7 +86,9 @@
       "position_sigma": -2.0837,
       "r_squared": 0.8547,
       "pente_annuelle": 0.11473,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -88,7 +100,9 @@
       "position_sigma": -1.5266,
       "r_squared": 0.7724,
       "pente_annuelle": 0.05719,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -100,7 +114,9 @@
       "position_sigma": 0.2204,
       "r_squared": 0.8705,
       "pente_annuelle": 0.16799,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -112,7 +128,9 @@
       "position_sigma": -1.5387,
       "r_squared": 0.7098,
       "pente_annuelle": 0.1406,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -124,7 +142,9 @@
       "position_sigma": -0.553,
       "r_squared": 0.5484,
       "pente_annuelle": 0.08108,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -136,7 +156,9 @@
       "position_sigma": 0.0332,
       "r_squared": 0.6415,
       "pente_annuelle": 0.08627,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -148,7 +170,9 @@
       "position_sigma": 0.6659,
       "r_squared": 0.4946,
       "pente_annuelle": 0.06779,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -160,7 +184,9 @@
       "position_sigma": -1.317,
       "r_squared": 0.331,
       "pente_annuelle": 0.07564,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -172,7 +198,9 @@
       "position_sigma": 0.7645,
       "r_squared": 0.3493,
       "pente_annuelle": 0.04358,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -184,7 +212,9 @@
       "position_sigma": 1.0268,
       "r_squared": 0.939,
       "pente_annuelle": 0.17503,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -196,7 +226,9 @@
       "position_sigma": 0.7474,
       "r_squared": 0.9249,
       "pente_annuelle": 0.12539,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -208,7 +240,9 @@
       "position_sigma": 1.2203,
       "r_squared": 0.8965,
       "pente_annuelle": 0.1812,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -220,7 +254,9 @@
       "position_sigma": -0.5679,
       "r_squared": 0.6635,
       "pente_annuelle": 0.06879,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -232,7 +268,9 @@
       "position_sigma": -1.4266,
       "r_squared": 0.5114,
       "pente_annuelle": 0.09031,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -244,7 +282,9 @@
       "position_sigma": -0.2368,
       "r_squared": 0.7974,
       "pente_annuelle": 0.1491,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -256,7 +296,9 @@
       "position_sigma": 0.4034,
       "r_squared": 0.8184,
       "pente_annuelle": 0.07534,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -268,7 +310,9 @@
       "position_sigma": 0.1883,
       "r_squared": 0.8406,
       "pente_annuelle": 0.10185,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -280,7 +324,9 @@
       "position_sigma": 1.0706,
       "r_squared": 0.8966,
       "pente_annuelle": 0.13903,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -292,7 +338,9 @@
       "position_sigma": 0.8139,
       "r_squared": 0.8616,
       "pente_annuelle": 0.16741,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -304,7 +352,9 @@
       "position_sigma": 0.1757,
       "r_squared": 0.7648,
       "pente_annuelle": 0.11688,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -316,7 +366,9 @@
       "position_sigma": 0.6307,
       "r_squared": 0.6191,
       "pente_annuelle": 0.09846,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -328,7 +380,9 @@
       "position_sigma": 0.2308,
       "r_squared": 0.6542,
       "pente_annuelle": 0.04769,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -340,7 +394,9 @@
       "position_sigma": -0.3519,
       "r_squared": 0.937,
       "pente_annuelle": 0.11115,
-      "data_quality_flag": "DEGRADED"
+      "data_quality_flag": "DEGRADED",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -352,7 +408,9 @@
       "position_sigma": 0.3771,
       "r_squared": 0.9039,
       "pente_annuelle": 0.11383,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -364,7 +422,9 @@
       "position_sigma": -0.7159,
       "r_squared": 0.5944,
       "pente_annuelle": 0.08368,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -376,7 +436,9 @@
       "position_sigma": -1.5999,
       "r_squared": 0.8769,
       "pente_annuelle": 0.15781,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -388,7 +450,9 @@
       "position_sigma": -1.9336,
       "r_squared": 0.6265,
       "pente_annuelle": 0.09487,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -400,7 +464,9 @@
       "position_sigma": 0.3186,
       "r_squared": 0.7019,
       "pente_annuelle": -0.21249,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -412,7 +478,9 @@
       "position_sigma": -2.1115,
       "r_squared": 0.9161,
       "pente_annuelle": 0.31889,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -424,7 +492,9 @@
       "position_sigma": 0.374,
       "r_squared": 0.8868,
       "pente_annuelle": -0.20987,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -436,7 +506,9 @@
       "position_sigma": 0.3072,
       "r_squared": 0.554,
       "pente_annuelle": -0.20095,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -448,7 +520,9 @@
       "position_sigma": 0.5524,
       "r_squared": 0.8745,
       "pente_annuelle": 0.07968,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -460,7 +534,9 @@
       "position_sigma": 1.1887,
       "r_squared": 0.7395,
       "pente_annuelle": 0.12048,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -472,7 +548,9 @@
       "position_sigma": 1.0122,
       "r_squared": 0.6154,
       "pente_annuelle": -0.13951,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -484,7 +562,9 @@
       "position_sigma": -0.4433,
       "r_squared": 0.2858,
       "pente_annuelle": -0.06494,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -496,7 +576,9 @@
       "position_sigma": -0.0415,
       "r_squared": 0.3341,
       "pente_annuelle": 0.04087,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -508,7 +590,9 @@
       "position_sigma": 0.8983,
       "r_squared": 0.8642,
       "pente_annuelle": 0.1649,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -520,7 +604,9 @@
       "position_sigma": 0.6383,
       "r_squared": 0.8771,
       "pente_annuelle": 0.1408,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -532,7 +618,9 @@
       "position_sigma": 1.3034,
       "r_squared": 0.7444,
       "pente_annuelle": 0.08013,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -544,7 +632,9 @@
       "position_sigma": -1.1119,
       "r_squared": 0.6883,
       "pente_annuelle": -0.37323,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -556,7 +646,9 @@
       "position_sigma": null,
       "r_squared": null,
       "pente_annuelle": null,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -568,7 +660,9 @@
       "position_sigma": 0.3028,
       "r_squared": 0.1498,
       "pente_annuelle": 0.01795,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -580,7 +674,9 @@
       "position_sigma": -0.065,
       "r_squared": 0.5113,
       "pente_annuelle": -0.08435,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -592,7 +688,9 @@
       "position_sigma": -0.7091,
       "r_squared": 0.7979,
       "pente_annuelle": -0.27733,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -604,7 +702,9 @@
       "position_sigma": 1.3553,
       "r_squared": 0.6728,
       "pente_annuelle": -0.10949,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -616,7 +716,9 @@
       "position_sigma": 2.2603,
       "r_squared": 0.7568,
       "pente_annuelle": -0.14469,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -628,7 +730,9 @@
       "position_sigma": -0.2115,
       "r_squared": 0.5008,
       "pente_annuelle": 0.0985,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -640,7 +744,9 @@
       "position_sigma": -0.136,
       "r_squared": 0.1788,
       "pente_annuelle": 0.02662,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -652,7 +758,9 @@
       "position_sigma": -0.512,
       "r_squared": 0.3133,
       "pente_annuelle": 0.03812,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -664,7 +772,9 @@
       "position_sigma": -0.41,
       "r_squared": 0.7777,
       "pente_annuelle": 0.01249,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -676,7 +786,9 @@
       "position_sigma": 0.3441,
       "r_squared": 0.1366,
       "pente_annuelle": 0.02016,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -688,7 +800,9 @@
       "position_sigma": 1.3169,
       "r_squared": 0.7163,
       "pente_annuelle": 0.28302,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -700,7 +814,9 @@
       "position_sigma": 1.3597,
       "r_squared": 0.4778,
       "pente_annuelle": -0.0746,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -712,7 +828,9 @@
       "position_sigma": 0.2219,
       "r_squared": 0.3945,
       "pente_annuelle": -0.04674,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -724,7 +842,9 @@
       "position_sigma": 1.4987,
       "r_squared": 0.6585,
       "pente_annuelle": 0.10818,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -736,7 +856,9 @@
       "position_sigma": 2.2932,
       "r_squared": 0.7119,
       "pente_annuelle": 0.08485,
-      "data_quality_flag": "DEGRADED"
+      "data_quality_flag": "DEGRADED",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -748,7 +870,9 @@
       "position_sigma": 0.2214,
       "r_squared": 0.7971,
       "pente_annuelle": 0.15998,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -760,7 +884,9 @@
       "position_sigma": 1.3292,
       "r_squared": 0.8256,
       "pente_annuelle": 0.10374,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -772,7 +898,9 @@
       "position_sigma": 1.3785,
       "r_squared": 0.5871,
       "pente_annuelle": 0.22564,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -784,7 +912,9 @@
       "position_sigma": 1.2619,
       "r_squared": 0.206,
       "pente_annuelle": 0.02871,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -796,7 +926,9 @@
       "position_sigma": 1.3099,
       "r_squared": 0.435,
       "pente_annuelle": 0.05293,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -808,7 +940,9 @@
       "position_sigma": 1.5653,
       "r_squared": 0.6451,
       "pente_annuelle": -0.18542,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -820,7 +954,9 @@
       "position_sigma": 2.0437,
       "r_squared": 0.7373,
       "pente_annuelle": 0.10875,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -832,7 +968,9 @@
       "position_sigma": -0.0152,
       "r_squared": 0.631,
       "pente_annuelle": -0.46756,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -844,7 +982,9 @@
       "position_sigma": 1.4869,
       "r_squared": 0.7833,
       "pente_annuelle": 0.11611,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -856,7 +996,9 @@
       "position_sigma": 1.3188,
       "r_squared": 0.5795,
       "pente_annuelle": 0.06904,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -868,7 +1010,9 @@
       "position_sigma": 0.8877,
       "r_squared": 0.2866,
       "pente_annuelle": 0.51308,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -880,7 +1024,9 @@
       "position_sigma": 0.8819,
       "r_squared": 0.7047,
       "pente_annuelle": -0.13074,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -892,7 +1038,9 @@
       "position_sigma": -1.1383,
       "r_squared": 0.5764,
       "pente_annuelle": -0.23039,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -904,7 +1052,9 @@
       "position_sigma": 0.0975,
       "r_squared": 0.3397,
       "pente_annuelle": -0.03619,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -916,7 +1066,9 @@
       "position_sigma": 0.904,
       "r_squared": 0.6415,
       "pente_annuelle": -0.25626,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -928,7 +1080,9 @@
       "position_sigma": 1.9428,
       "r_squared": 0.2627,
       "pente_annuelle": -0.10739,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -940,7 +1094,9 @@
       "position_sigma": -0.2062,
       "r_squared": 0.0872,
       "pente_annuelle": -0.02629,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -952,7 +1108,9 @@
       "position_sigma": -0.2452,
       "r_squared": 0.4674,
       "pente_annuelle": -0.12502,
-      "data_quality_flag": "PARTIAL"
+      "data_quality_flag": "PARTIAL",
+      "score_global_effective": null,
+      "soldes_bonus": null
     },
     {
       "date": "2026-08-13",
@@ -964,7 +1122,9 @@
       "position_sigma": 2.3554,
       "r_squared": 0.336,
       "pente_annuelle": -0.03799,
-      "data_quality_flag": "UNAVAILABLE"
+      "data_quality_flag": "UNAVAILABLE",
+      "score_global_effective": null,
+      "soldes_bonus": null
     }
   ]
 }
